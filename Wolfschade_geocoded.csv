@@ -1,0 +1,1416 @@
+Datum melding,Locatie aanval,Provincie,Prooidier,Dood,Gewond,Vermist,Geeuthanaseerd,Totaal aantal dode slachtoffers,Diersoort,Individu,Voldoet aan adviesnorm,Eventuele gebreken, Bedrag uitbetaling ,latitude,longitude,year_month
+2024-07-10,Maarsbergen,Utrecht,Scha(a)p(en),1.0,2.0,,,1,wolf,,,,  ,52.057368,5.4034953,2024-07
+2024-07-10,Marwijksoord,Drenthe,Rund(eren),,2.0,,,0,wolf,,,,  ,52.96159635,6.649183523592022,2024-07
+2024-07-09,Wernhout,Noord-Brabant,Scha(a)p(en),1.0,,,1.0,2,wolf,,,,  ,51.4540976,4.6420179,2024-07
+2024-07-08,Nijkerk,Gelderland,Scha(a)p(en),3.0,,,1.0,4,wolf,,,, € -   ,52.21485365,5.478146323965094,2024-07
+2024-07-08,Harskamp,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,,,, € -   ,52.1316634,5.75085,2024-07
+2024-07-06,Rilland,Zeeland,Scha(a)p(en),4.0,1.0,,,4,wolf,,,, € -   ,51.4164747,4.1812417,2024-07
+2024-07-03,Ede,Gelderland,Scha(a)p(en),1.0,1.0,,,1,wolf,,,,  ,52.07168255,5.745510631034939,2024-07
+2024-07-01,Achtmaal,Noord-Brabant,Scha(a)p(en),1.0,,,,1,wolf,,,, € -   ,51.4537245,4.5842818,2024-07
+2024-07-01,Woudenberg,Utrecht,Scha(a)p(en),6.0,,2.0,,6,wolf,,,,  ,52.0805478,5.4134327,2024-07
+2024-06-28,Dwingeloo,Drenthe,Scha(a)p(en),2.0,,,1.0,3,wolf,,,, € -   ,52.8333073,6.3669053,2024-06
+2024-06-28,Maarsbergen,Utrecht,Scha(a)p(en),1.0,,,,1,wolf,,,, € -   ,52.057368,5.4034953,2024-06
+2024-06-28,Wekerom,Gelderland,Scha(a)p(en),6.0,2.0,3.0,,6,wolf,,,, € -   ,52.1118306,5.7157689,2024-06
+2024-06-25,Appelscha,Fryslân,Scha(a)p(en),1.0,2.0,4.0,,1,wolf,,,, € -   ,52.9524178,6.3441136,2024-06
+2024-06-23,Rilland,Zeeland,Scha(a)p(en),4.0,2.0,,,4,wolf,,,, € -   ,51.4164747,4.1812417,2024-06
+2024-06-13,Nijkerk,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,,Nee,, € -   ,52.21485365,5.478146323965094,2024-06
+2024-06-13,Eesveen,Overijssel,Scha(a)p(en),2.0,1.0,,1.0,3,wolf,,Nee,, € -   ,52.824671,6.1418966,2024-06
+2024-06-13,Nijkerk,Gelderland,Scha(a)p(en),2.0,1.0,,1.0,3,wolf,,Nee,, € -   ,52.21485365,5.478146323965094,2024-06
+2024-06-11,Putten,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,,Nee,, € -   ,52.24773005,5.57827393798401,2024-06
+2024-06-08,Putten,Gelderland,Scha(a)p(en),2.0,,2.0,,2,wolf,,Nee,, € -   ,52.24773005,5.57827393798401,2024-06
+2024-06-06,Kallenkote,Overijssel,Scha(a)p(en),8.0,,2.0,10.0,18,wolf,,Nee,, € -   ,52.7965731,6.1740658,2024-06
+2024-06-05,Eesveen,Overijssel,Scha(a)p(en),1.0,,,,1,wolf,,Nee,, € -   ,52.824671,6.1418966,2024-06
+2024-06-03,Schoonloo,Drenthe,Rund(eren),1.0,,,,1,wolf,,Nee,, € -   ,52.9053531,6.7016543,2024-06
+2024-06-03,Eesveen,Overijssel,Scha(a)p(en),2.0,,,,2,wolf,,Nee,, € -   ,52.824671,6.1418966,2024-06
+2024-05-29,Kallenkote,Overijssel,Scha(a)p(en),5.0,,,,5,wolf,,Nee,, € -   ,52.7965731,6.1740658,2024-05
+2024-05-25,Nooitgedacht,Drenthe,Rund(eren),1.0,,,,1,wolf,,,, € -   ,52.717366,6.8466596,2024-05
+2024-05-25,Harskamp,Gelderland,Scha(a)p(en),2.0,,1.0,,2,wolf,,Nee,, € -   ,52.1316634,5.75085,2024-05
+2024-05-25,Eesveen,Overijssel,Scha(a)p(en),1.0,,2.0,2.0,3,wolf,,Nee,, € -   ,52.824671,6.1418966,2024-05
+2024-05-24,Nijkerk,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,,Nee,, € -   ,52.21485365,5.478146323965094,2024-05
+2024-05-21,Wateren,Drenthe,Pony('s),1.0,,1.0,,1,wolf,,Nee,, € -   ,52.9061348,6.2889409,2024-05
+2024-05-21,Kootwijkerbroek,Gelderland,Scha(a)p(en),1.0,,4.0,,1,wolf,,Nee,, € -   ,52.1513512,5.6631504,2024-05
+2024-05-17,Kampen,Overijssel,Scha(a)p(en),4.0,,,,4,wolf,,Nee,, € -   ,52.5559484,5.9033303,2024-05
+2024-05-17,Putten,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,,Nee,, € -   ,52.24773005,5.57827393798401,2024-05
+2024-05-17,Makkinga,Fryslân,Scha(a)p(en),2.0,,,,2,wolf,,Nee,, € -   ,52.9805873,6.2173595,2024-05
+2024-05-17,Siegerswoude,Fryslân,Scha(a)p(en),3.0,,1.0,4.0,7,wolf,,Nee,, € -   ,53.0926641,6.218036,2024-05
+2024-05-16,Siegerswoude,Fryslân,Scha(a)p(en),2.0,,,,2,wolf,,Nee,, € -   ,53.0926641,6.218036,2024-05
+2024-05-15,Kampen,Overijssel,Scha(a)p(en),,1.0,,2.0,2,wolf,GW4243f,Nee,, € -   ,52.5559484,5.9033303,2024-05
+2024-05-15,Voorthuizen,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3425m,Nee,, € -   ,52.1871648,5.6071994,2024-05
+2024-05-15,IJsselmuiden,Overijssel,Scha(a)p(en),7.0,1.0,,2.0,9,wolf,onbekend,Nee,, € -   ,52.5633577,5.9403387,2024-05
+2024-05-10,Oosterstreek,Fryslân,Scha(a)p(en),2.0,,,,2,wolf,GW2397m,Nee,, € -   ,52.8999072,6.1686289,2024-05
+2024-05-09,Oosterstreek,Fryslân,Scha(a)p(en),1.0,,3.0,1.0,2,wolf,GW2397m,,, € -   ,52.8999072,6.1686289,2024-05
+2024-05-08,Emmen,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW3882m,Ja,, € -   ,52.788937,6.8939001,2024-05
+2024-05-04,Oldeholtwolde,Fryslân,Scha(a)p(en),1.0,3.0,,2.0,3,wolf,onbekend,Nee,, € -   ,52.91313575,5.985192057251662,2024-05
+2024-05-04,Ter Idzard,Fryslân,Scha(a)p(en),2.0,,,,2,wolf,GW4009m,Nee,, € -   ,52.9038987,6.0341422,2024-05
+2024-05-03,Emmen,Drenthe,Scha(a)p(en),1.0,,,2.0,3,wolf,GW4075f,Nee,, € -   ,52.788937,6.8939001,2024-05
+2024-05-03,Harskamp,Gelderland,Scha(a)p(en); Rund(eren),4.0,4.0,,2.0,6,wolf,GW2540f; GW3238m,Nee,, € -   ,52.1316634,5.75085,2024-05
+2024-05-02,Hooghalen,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW4075f,"Ja, maar",De draad- en paalafstand klopt niet overal, € -   ,52.9207884,6.5416331,2024-05
+2024-05-01,Hooghalen,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW4075f,"Ja, maar",De draad- en paalafstand klopt niet overal, € -   ,52.9207884,6.5416331,2024-05
+2024-04-29,Beilen,Drenthe,Scha(a)p(en),4.0,,,15.0,19,wolf,GW3882m,,, € -   ,52.8610999,6.5124319,2024-04
+2024-04-29,Lunteren,Gelderland,Scha(a)p(en),1.0,,1.0,,1,wolf,GW4242m,Nee,, € -   ,52.0864617,5.6190737,2024-04
+2024-04-29,Kootwijkerbroek,Gelderland,Scha(a)p(en),3.0,,,19.0,22,wolf,GW2540f; GW3238m,Nee,, € -   ,52.1513512,5.6631504,2024-04
+2024-04-29,Hooghalen,Drenthe,Geit(en),1.0,,,,1,wolf,GW4075f,"Ja, maar",De draad- en paalafstand klopt niet overal, € -   ,52.9207884,6.5416331,2024-04
+2024-04-29,Fochteloo,Fryslân,Scha(a)p(en),2.0,,5.0,,2,wolf,GW3689m; GW3690m,Nee,, € -   ,52.993346,6.3346246,2024-04
+2024-04-28,Lunteren,Gelderland,Scha(a)p(en),1.0,,1.0,,1,wolf,GW4242m,Nee,, € -   ,52.0864617,5.6190737,2024-04
+2024-04-27,Emst,Gelderland,Scha(a)p(en),2.0,1.0,,1.0,3,wolf,onbekend,Nee,, € -   ,52.3182269,5.9759134,2024-04
+2024-04-27,Kootwijkerbroek,Gelderland,Scha(a)p(en),5.0,4.0,,,5,wolf,GW3238m,Nee,, € -   ,52.1513512,5.6631504,2024-04
+2024-04-27,Boijl,Fryslân,Minipaard(en),1.0,1.0,,,1,wolf,GW2397m,,, € -   ,52.9095907,6.1999729,2024-04
+2024-04-26,Kootwijkerbroek,Gelderland,Scha(a)p(en),10.0,,,,10,wolf,GW2540f; GW3238m,Nee,, € -   ,52.1513512,5.6631504,2024-04
+2024-04-26,Achtmaal,Noord-Brabant,Scha(a)p(en),1.0,,,,1,wolf,GW3449f,Nee,, € -   ,51.4537245,4.5842818,2024-04
+2024-04-25,Oosterstreek,Fryslân,Scha(a)p(en),3.0,,3.0,,3,wolf,gemixt profiel,Nee,, € -   ,52.8999072,6.1686289,2024-04
+2024-04-25,Lunteren,Gelderland,Scha(a)p(en),3.0,1.0,3.0,,3,wolf,GW2435m,Nee,, € -   ,52.0864617,5.6190737,2024-04
+2024-04-25,Hooghalen,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,onbekend,"Ja, maar",op enkele plaatsen voldeed de draadafstand niet, € -   ,52.9207884,6.5416331,2024-04
+2024-04-25,Boijl,Fryslân,Pony('s),1.0,,,,1,wolf,GW2397m,Nee,, € -   ,52.9095907,6.1999729,2024-04
+2024-04-24,Otterlo,Gelderland,Rund(eren),1.0,,,,1,wolf,GW3695m; gemixt profiel,Nee,, € -   ,52.1015221,5.7720779,2024-04
+2024-04-23,Kallenkote,Overijssel,Scha(a)p(en),2.0,,1.0,1.0,3,wolf,GW4009m,Nee,, € -   ,52.7965731,6.1740658,2024-04
+2024-04-22,Voorthuizen,Gelderland,Scha(a)p(en),2.0,2.0,,,2,wolf,GW3425m; GW3816f,Nee,, € -   ,52.1871648,5.6071994,2024-04
+2024-04-21,Vledder,Drenthe,Scha(a)p(en),3.0,,,,3,wolf,GW3882m,Ja,, € -   ,52.8574791,6.2101824,2024-04
+2024-04-21,Kootwijkerbroek,Gelderland,Scha(a)p(en),8.0,,,,8,wolf,GW3238m,Nee,, € -   ,52.1513512,5.6631504,2024-04
+2024-04-20,Kootwijkerbroek,Gelderland,Scha(a)p(en),7.0,,,1.0,8,wolf,GW3238m,Nee,, € -   ,52.1513512,5.6631504,2024-04
+2024-04-19,Vledder,Drenthe,Scha(a)p(en),1.0,2.0,,,1,wolf,GW3690m,Nee,, € -   ,52.8574791,6.2101824,2024-04
+2024-04-18,Oud Ootmarsum,Overijssel,Scha(a)p(en),8.0,,,,8,wolf,GW4242m,Nee,, € -   ,52.4182536,6.9086971,2024-04
+2024-04-17,Achtmaal,Noord-Brabant,Geit(en),1.0,,,,1,wolf,onbekend,Nee,, € -   ,51.4537245,4.5842818,2024-04
+2024-04-17,Harskamp,Gelderland,Scha(a)p(en),22.0,6.0,,,22,wolf,GW2540f; GW3238m,Nee,, € -   ,52.1316634,5.75085,2024-04
+2024-04-17,Vledder,Drenthe,Scha(a)p(en),4.0,,,,4,wolf,GW3882m,Nee,, € -   ,52.8574791,6.2101824,2024-04
+2024-04-16,Geesbrug,Drenthe,Scha(a)p(en),3.0,,,2.0,5,wolf,onbekend,Nee,, € -   ,52.7282834,6.6338274,2024-04
+2024-04-15,Achtmaal,Noord-Brabant,Scha(a)p(en),2.0,1.0,,,2,wolf,GW3449f,Nee,, € -   ,51.4537245,4.5842818,2024-04
+2024-04-13,Wekerom,Gelderland,Pony('s),1.0,,,,1,wolf,GW2435m,Nee,, € -   ,52.1118306,5.7157689,2024-04
+2024-04-12,Bovensmilde,Drenthe,Scha(a)p(en),1.0,1.0,,,1,wolf,GW3813m; gemixt profiel,Nee,, € -   ,52.9760223,6.4814495,2024-04
+2024-04-11,Vledder,Drenthe,Scha(a)p(en),7.0,,,4.0,11,wolf,GW3690m; GW3882m; gemixt profiel,"Ja, maar",raster was beschadigd, € -   ,52.8574791,6.2101824,2024-04
+2024-04-10,Vledder,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,, € -   ,52.8574791,6.2101824,2024-04
+2024-04-10,Arnhem,Gelderland,Pony('s),4.0,1.0,,,4,wolf,onbekend,Nee,, € -   ,51.984257,5.9108573,2024-04
+2024-04-09,Fochteloo,Fryslân,Scha(a)p(en),4.0,,,,4,wolf,onbekend,Ja,, € -   ,52.993346,6.3346246,2024-04
+2024-04-09,Vledder,Drenthe,Scha(a)p(en),2.0,,1.0,2.0,4,wolf,GW3689m; GW3690m; gemixt profiel,Ja,, € -   ,52.8574791,6.2101824,2024-04
+2024-04-08,Amen,Drenthe,Rund(eren),1.0,1.0,,,1,wolf,GW3881m,Nee,, € -   ,52.93331795,6.598514489095756,2024-04
+2024-04-08,Vledder,Drenthe,Scha(a)p(en),5.0,,6.0,,5,wolf,GW3690m,Ja,, € -   ,52.8574791,6.2101824,2024-04
+2024-04-08,Ermelo,Gelderland,Alpaca('s),1.0,,,,1,wolf,GW4004f,Nee,, € -   ,52.2858356,5.654938589920705,2024-04
+2024-04-07,Ermelo,Gelderland,Geit(en),1.0,,,,1,wolf,onbekend,Nee,, € -   ,52.2858356,5.654938589920705,2024-04
+2024-04-07,Kallenkote,Overijssel,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,, € -   ,52.7965731,6.1740658,2024-04
+2024-04-07,Elburg,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,onbekend,Nee,, € -   ,52.41565915,5.841321708557087,2024-04
+2024-04-07,Hulshorst,Gelderland,Scha(a)p(en),5.0,,,,5,wolf,GW3694f,Nee,, € -   ,52.3607721,5.7205644,2024-04
+2024-04-07,Vledder,Drenthe,Scha(a)p(en),4.0,6.0,5.0,4.0,8,wolf,GW3689m; GW3690m,Ja,, € -   ,52.8574791,6.2101824,2024-04
+2024-04-06,Wapserveen,Drenthe,Scha(a)p(en),5.0,3.0,,5.0,10,wolf,GW3882m,Nee,, € -   ,52.8252174,6.2158906,2024-04
+2024-04-05,Kallenkote,Overijssel,Scha(a)p(en),7.0,3.0,6.0,13.0,20,wolf,GW3812m; GW3813m?,Nee,, € -   ,52.7965731,6.1740658,2024-04
+2024-04-05,Ede,Gelderland,Pony('s),1.0,,,,1,wolf,onbekend,Nee,, € -   ,52.07168255,5.745510631034939,2024-04
+2024-04-04,Ede,Gelderland,Scha(a)p(en),3.0,,,,3,wolf,GW3012f,Nee,, € -   ,52.07168255,5.745510631034939,2024-04
+2024-04-04,Oosterwolde,Fryslân,Scha(a)p(en),5.0,,,,5,wolf,GW3689m,Nee,, € -   ,52.9892251,6.2908202,2024-04
+2024-04-03,Finsterwolde,Groningen,Scha(a)p(en),1.0,,,1.0,2,wolf,GW3824m?,Nee,, € -   ,53.1983282,7.083378,2024-04
+2024-04-03,Fochteloo,Fryslân,Scha(a)p(en),4.0,,11.0,10.0,14,wolf,onbekend,Nee,, € -   ,52.993346,6.3346246,2024-04
+2024-04-02,Oldeberkoop,Fryslân,Geit(en),3.0,,,,3,wolf,gemixt profiel,Nee,, € -   ,52.9384572,6.1301707,2024-04
+2024-04-02,Haule,Fryslân,Scha(a)p(en),3.0,5.0,,,3,wolf,GW3689m,Nee,, € -   ,53.0366149,6.3063466,2024-04
+2024-04-02,Nijkerk,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3425m,Nee,, € -   ,52.21485365,5.478146323965094,2024-04
+2024-04-02,Kootwijkerbroek,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3238m,Nee,, € -   ,52.1513512,5.6631504,2024-04
+2024-04-01,Bakkeveen,Fryslân,Scha(a)p(en),1.0,1.0,,1.0,2,wolf,GW3690m,Nee,, € -   ,53.0806017,6.2560227,2024-04
+2024-04-01,Leusden,Utrecht,Scha(a)p(en); Geit(en),9.0,2.0,,,9,wolf,GW4076f,Nee,, € -   ,52.130355,5.4286989,2024-04
+2024-03-30,Lage Mierde,Noord-Brabant,Scha(a)p(en),1.0,,,,1,wolf,GW2398m,Nee,, € -   ,51.4066691,5.1491649,2024-03
+2024-03-29,Appelscha,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3690m,Nee,, € -   ,52.9524178,6.3441136,2024-03
+2024-03-29,Veghel,Noord-Brabant,Scha(a)p(en),1.0,,,,1,vermoedelijk wolf,onbekend,Nee,, € -   ,51.6134636,5.5446455,2024-03
+2024-03-29,Haulerwijk,Fryslân,Scha(a)p(en),3.0,2.0,,,3,wolf,GW3689m,Nee,, € -   ,53.065367,6.3310325,2024-03
+2024-03-28,Eesveen,Overijssel,Scha(a)p(en),4.0,4.0,2.0,,4,wolf,onbekend,Nee,, € -   ,52.824671,6.1418966,2024-03
+2024-03-28,Lunteren,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,gemixt profiel,Nee,, € -   ,52.0864617,5.6190737,2024-03
+2024-03-27,Aalst,Gelderland,Scha(a)p(en),3.0,,2.0,,3,wolf,GW2398m,Nee,, € -   ,50.9383226,4.0392147,2024-03
+2024-03-27,Lunteren,Gelderland,Scha(a)p(en),4.0,1.0,1.0,3.0,7,wolf,GW2435m; GW3691f; gemixt profiel,Nee,, € -   ,52.0864617,5.6190737,2024-03
+2024-03-27,Nederhemert,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW2398m,,,  ,51.7645631,5.1652605,2024-03
+2024-03-27,Fochteloo,Fryslân,Scha(a)p(en),10.0,6.0,7.0,12.0,22,wolf,GW2397m,,,  ,52.993346,6.3346246,2024-03
+2024-03-26,Ermelo,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW4004f,,, € -   ,52.2858356,5.654938589920705,2024-03
+2024-03-25,Beilen,Drenthe,Scha(a)p(en),3.0,,,,3,wolf,GW3813m,Nee,, € -   ,52.8610999,6.5124319,2024-03
+2024-03-25,Fluitenberg,Drenthe,Scha(a)p(en),1.0,1.0,,,1,wolf,onbekend,Nee,, € -   ,52.736545,6.4524098,2024-03
+2024-03-24,Beilen,Drenthe,Scha(a)p(en),1.0,1.0,,,1,wolf,GW3813m,Nee,, € -   ,52.8610999,6.5124319,2024-03
+2024-03-23,Leersum,Utrecht,Scha(a)p(en),5.0,,,,5,wolf,GW4076f,Nee,, € -   ,52.0102642,5.4332757,2024-03
+2024-03-23,Wekerom,Gelderland,Pony('s),1.0,1.0,,,1,wolf,GW3691f; gemixt profiel,,, € -   ,52.1118306,5.7157689,2024-03
+2024-03-21,Wateren,Drenthe,Rund(eren),1.0,,,,1,wolf,GW4009m,Nee,, € -   ,52.9061348,6.2889409,2024-03
+2024-03-21,Rijswijk,Gelderland,Scha(a)p(en),2.0,1.0,,1.0,3,wolf,GW2398m,Nee,, € -   ,52.0446265,4.3188215,2024-03
+2024-03-21,Oosterwolde,Fryslân,Scha(a)p(en),5.0,12.0,,,5,wolf,GW3690m,Nee,, € -   ,52.9892251,6.2908202,2024-03
+2024-03-20,Hulshorst,Gelderland,Scha(a)p(en),2.0,1.0,,,2,wolf,GW3694f,Nee,, € -   ,52.3607721,5.7205644,2024-03
+2024-03-20,Ruinerwold,Drenthe,Scha(a)p(en),2.0,,,,2,wolf,GW3689m,Nee,, € -   ,52.7216745,6.2459797,2024-03
+2024-03-20,Rijswijk,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW2398m,Nee,, € -   ,52.0446265,4.3188215,2024-03
+2024-03-19,Maurik,Gelderland,Scha(a)p(en),9.0,,,,9,wolf,GW2398m,Nee,, € -   ,51.9608641,5.4233334,2024-03
+2024-03-19,Wekerom,Gelderland,Scha(a)p(en),3.0,1.0,,,3,wolf,gemixt profiel,Nee,, € -   ,52.1118306,5.7157689,2024-03
+2024-03-17,Leusden,Utrecht,Scha(a)p(en),1.0,,,1.0,2,wolf,GW4076f,Nee,, € -   ,52.130355,5.4286989,2024-03
+2024-03-17,Ruinerwold,Drenthe,Scha(a)p(en),2.0,,,,2,wolf,GW3689m,Nee,, € -   ,52.7216745,6.2459797,2024-03
+2024-03-16,Garderen,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW4004f,Nee,, € -   ,52.2331839,5.714073,2024-03
+2024-03-16,Wamel,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3824m,Nee,, € -   ,51.8810157,5.4669683,2024-03
+2024-03-15,Macharen,Noord-Brabant,Scha(a)p(en),2.0,1.0,,,2,wolf,GW3824m,Nee,,€ 519.13,51.804411,5.5447825,2024-03
+2024-03-15,Appelscha,Fryslân,Scha(a)p(en),7.0,7.0,8.0,3.0,10,wolf,onbekend,Nee,, € -   ,52.9524178,6.3441136,2024-03
+2024-03-13,Oosterwolde,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3694f,Nee,, € -   ,52.9892251,6.2908202,2024-03
+2024-03-13,Noordeinde,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,, € -   ,-32.3376999,22.5780746,2024-03
+2024-03-13,Doornspijk,Gelderland,Scha(a)p(en),1.0,,,,1,vermoedelijk wolf,,Nee,, € -   ,52.4194984,5.8208683,2024-03
+2024-03-13,Ede,Gelderland,Scha(a)p(en),6.0,,,2.0,8,wolf,GW3876f,Nee,, € -   ,52.07168255,5.745510631034939,2024-03
+2024-03-13,Swifterbant,Flevoland,Scha(a)p(en),2.0,,,,2,wolf,GW3694f,Nee,, € -   ,52.5696313,5.6385192,2024-03
+2024-03-13,Leusden,Utrecht,Scha(a)p(en),1.0,1.0,,,1,wolf,GW4076f,Nee,, € -   ,52.130355,5.4286989,2024-03
+2024-03-13,Voorthuizen,Gelderland,Scha(a)p(en),2.0,4.0,,,2,wolf,onbekend,Nee,, € -   ,52.1871648,5.6071994,2024-03
+2024-03-13,Appelscha,Fryslân,Scha(a)p(en),8.0,5.0,7.0,3.0,11,wolf,GW4009m; gemixt profiel,Nee,, € -   ,52.9524178,6.3441136,2024-03
+2024-03-12,Ruinerwold,Drenthe,Scha(a)p(en),5.0,2.0,,,5,wolf,GW3689m,Nee,, € -   ,52.7216745,6.2459797,2024-03
+2024-03-12,Dronten,Flevoland,Scha(a)p(en),4.0,2.0,,,4,wolf,GW3694f,Nee,, € -   ,52.5236608,5.7160381,2024-03
+2024-03-12,Noordwolde,Fryslân,Scha(a)p(en),3.0,,,,3,wolf,GW3813m; gemixt profiel,Nee,, € -   ,52.8909993,6.1391286,2024-03
+2024-03-12,Elspeet,Gelderland,Scha(a)p(en),1.0,,,2.0,3,wolf,GW4004f,Ja,, € -   ,52.2910649,5.7884632,2024-03
+2024-03-12,Ede,Gelderland,Scha(a)p(en),3.0,,,,3,wolf,GW3876f,Nee,, € -   ,52.07168255,5.745510631034939,2024-03
+2024-03-12,Oudehorne,Fryslân,Scha(a)p(en),5.0,,7.0,,5,wolf,GW4009m,Nee,, € -   ,52.9638473,6.0848079,2024-03
+2024-03-11,Beilen,Drenthe,Scha(a)p(en),3.0,,,,3,wolf,GW3813m,Nee,, € -   ,52.8610999,6.5124319,2024-03
+2024-03-11,Harskamp,Gelderland,Pony('s),3.0,,,,3,wolf,gemixt profiel,Nee,, € -   ,52.1316634,5.75085,2024-03
+2024-03-11,Uffelte,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,, € -   ,52.7908929,6.2815178,2024-03
+2024-03-10,Beilen,Drenthe,Scha(a)p(en),1.0,1.0,2.0,,1,wolf,GW3813m,Nee,, € -   ,52.8610999,6.5124319,2024-03
+2024-03-10,Dwingeloo,Drenthe,Scha(a)p(en),,,4.0,2.0,2,wolf,GW3813m,Nee,, € -   ,52.8333073,6.3669053,2024-03
+2024-03-10,Noordeinde,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3694f,Nee,, € -   ,-32.3376999,22.5780746,2024-03
+2024-03-09,Swifterbant,Flevoland,Scha(a)p(en),5.0,,,,5,wolf,GW3694f,Nee,, € -   ,52.5696313,5.6385192,2024-03
+2024-03-09,Otterlo,Gelderland,Geit(en),1.0,,,,1,wolf,GW3691f,Nee,, € -   ,52.1015221,5.7720779,2024-03
+2024-03-09,Oosterwolde,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3694f,Nee,, € -   ,52.9892251,6.2908202,2024-03
+2024-03-09,Voorthuizen,Gelderland,Scha(a)p(en),1.0,1.0,,1.0,2,wolf,GW3425m; GW3816f,Nee,, € -   ,52.1871648,5.6071994,2024-03
+2024-03-09,Oudehorne,Fryslân,Scha(a)p(en); Geit(en),4.0,4.0,,4.0,8,wolf,GW4009m,Nee,, € -   ,52.9638473,6.0848079,2024-03
+2024-03-08,Oldebroek,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,onbekend,Nee,, € -   ,52.45673635,5.951864370961877,2024-03
+2024-03-08,t Harde,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW3694f,Nee,, € -   ,52.4091474,5.8930152,2024-03
+2024-03-08,t Harde,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW3694f,Nee,, € -   ,52.4091474,5.8930152,2024-03
+2024-03-08,Oudehorne,Fryslân,Minipaard,,,,1.0,1,wolf,gemixt profiel,Nee,, € -   ,52.9638473,6.0848079,2024-03
+2024-03-08,Otterlo,Gelderland,Pony('s),1.0,,,,1,wolf,gemixt profiel,Nee,, € -   ,52.1015221,5.7720779,2024-03
+2024-03-08,Hoogersmilde,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW3812m,"Ja, maar",op enkele plaatsen is de onderste draad te hoog, € -   ,52.91299375,6.366868725936132,2024-03
+2024-03-07,Koekange,Drenthe,Scha(a)p(en),2.0,,,1.0,3,wolf,GW3689m,Nee,, € -   ,52.7017754,6.3180238,2024-03
+2024-03-07,Beilen,Drenthe,Scha(a)p(en),2.0,1.0,,,2,wolf,GW3813m,"Ja, maar","Eén paal was afgebroken, waardoor de onderste draad te hoog was", € -   ,52.8610999,6.5124319,2024-03
+2024-03-07,Dwingeloo,Drenthe,Scha(a)p(en),5.0,,,8.0,13,wolf,GW3690m; GW3812m,Nee,, € -   ,52.8333073,6.3669053,2024-03
+2024-03-07,Oldeberkoop,Fryslân,Scha(a)p(en),12.0,,,7.0,19,wolf,GW2090f; gemixt profiel,Nee,, € -   ,52.9384572,6.1301707,2024-03
+2024-03-07,Oudehorne,Fryslân,Scha(a)p(en),3.0,,,3.0,6,wolf,GW3882m; GW4009m; gemixt profiel,Nee,, € -   ,52.9638473,6.0848079,2024-03
+2024-03-06,Dwingeloo,Drenthe,Scha(a)p(en),4.0,7.0,,,4,wolf,GW3812m; GW3813m,Nee,, € -   ,52.8333073,6.3669053,2024-03
+2024-03-05,Dwingeloo,Drenthe,Scha(a)p(en),5.0,9.0,,,5,wolf,GW3690m; GW3813m,Nee,, € -   ,52.8333073,6.3669053,2024-03
+2024-03-04,Putten,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW4004f,Nee,, € -   ,52.24773005,5.57827393798401,2024-03
+2024-03-04,Lunteren,Gelderland,Geit(en),1.0,,,,1,wolf,GW3692m,Nee,, € -   ,52.0864617,5.6190737,2024-03
+2024-03-03,Nunspeet,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW3694f,Nee,, € -   ,52.3372909,5.795636429005031,2024-03
+2024-03-03,Nunspeet,Gelderland,Scha(a)p(en),7.0,,,2.0,9,wolf,onbekend,Nee,, € -   ,52.3372909,5.795636429005031,2024-03
+2024-03-02,Beilen,Drenthe,Scha(a)p(en),1.0,3.0,,2.0,3,wolf,GW3813m,Nee,, € -   ,52.8610999,6.5124319,2024-03
+2024-03-02,Garderen,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW4004f?,Nee,, € -   ,52.2331839,5.714073,2024-03
+2024-03-01,Dwingeloo,Drenthe,Scha(a)p(en),9.0,8.0,,,9,wolf,GW3690m; GW3813m; gemixt profiel,Nee,, € -   ,52.8333073,6.3669053,2024-03
+2024-03-01,Dwingeloo,Drenthe,Scha(a)p(en),3.0,6.0,,2.0,5,wolf,GW3812m; gemixt profiel,Nee,, € -   ,52.8333073,6.3669053,2024-03
+2024-03-01,Dwingeloo,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW3812m,Ja,, € -   ,52.8333073,6.3669053,2024-03
+2024-02-29,Nunspeet,Gelderland,Scha(a)p(en),3.0,,,,3,wolf,onbekend,Nee,, € -   ,52.3372909,5.795636429005031,2024-02
+2024-02-28,Doornspijk,Gelderland,Scha(a)p(en),3.0,1.0,,,3,wolf,GW3694f?,Nee,, € -   ,52.4194984,5.8208683,2024-02
+2024-02-27,Papenvoort,Drenthe,Scha(a)p(en),4.0,,3.0,3.0,7,wolf,GW3874m,Nee,, € -   ,52.95081775,6.71187646605885,2024-02
+2024-02-26,Emst,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,, € -   ,52.3182269,5.9759134,2024-02
+2024-02-25,Oosterwolde,Fryslân,Scha(a)p(en),1.0,,4.0,1.0,2,wolf,GW3690m,Nee,, € -   ,52.9892251,6.2908202,2024-02
+2024-02-25,Wolfheze,Gelderland,Scha(a)p(en),22.0,4.0,,,22,wolf,GW2435m; gemixt profiel,Nee,, € -   ,52.0056717,5.7923944,2024-02
+2024-02-24,Vinkega,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,, € -   ,52.8719582,6.1137183,2024-02
+2024-02-24,Grolloo,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW3874m,Nee,, € -   ,52.936205,6.6727367,2024-02
+2024-02-24,Noordwolde,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3813m,Nee,, € -   ,52.8909993,6.1391286,2024-02
+2024-02-24,Oosterwolde,Fryslân,Scha(a)p(en),3.0,,,,3,wolf,GW3690m,Nee,, € -   ,52.9892251,6.2908202,2024-02
+2024-02-24,Noordwolde,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3813m,Nee,, € -   ,52.8909993,6.1391286,2024-02
+2024-02-23,Paterswolde,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW3812m,Nee,, € -   ,53.1464087,6.5665071,2024-02
+2024-02-23,t Harde,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3694f,Nee,, € -   ,52.4091474,5.8930152,2024-02
+2024-02-23,Emst,Gelderland,Scha(a)p(en),3.0,4.0,,,3,wolf,GW4077f,Nee,, € -   ,52.3182269,5.9759134,2024-02
+2024-02-22,Emst,Gelderland,Scha(a)p(en),3.0,,,,3,wolf,onbekend,Nee,, € -   ,52.3182269,5.9759134,2024-02
+2024-02-22,Roden,Drenthe,Scha(a)p(en),4.0,1.0,,1.0,5,wolf,GW3815f,Nee,, € -   ,49.8957909,9.6264933,2024-02
+2024-02-22,De Heurne,Gelderland,Scha(a)p(en),,1.0,,,0,wolf,GW3155m,Nee,, € -   ,51.8895744,6.4913731,2024-02
+2024-02-22,De Heurne,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3155m,Nee,, € -   ,51.8895744,6.4913731,2024-02
+2024-02-21,Grolloo,Drenthe,Scha(a)p(en),2.0,,,,2,wolf,GW3874m,Nee,, € -   ,52.936205,6.6727367,2024-02
+2024-02-21,t Harde,Gelderland,Scha(a)p(en),1.0,,,1.0,2,vermoedelijk wolf,onbekend,Nee,, € -   ,52.4091474,5.8930152,2024-02
+2024-02-21,Vinkega,Fryslân,Scha(a)p(en),2.0,,,,2,wolf,GW3815f,Nee,, € -   ,52.8719582,6.1137183,2024-02
+2024-02-21,Vaassen,Gelderland,Scha(a)p(en),1.0,,,1.0,2,wolf,GW4077f,Nee,, € -   ,52.2901716,5.9686728,2024-02
+2024-02-21,Doornspijk,Gelderland,Scha(a)p(en),1.0,,1.0,,1,wolf,GW3694f,Ja,, € -   ,52.4194984,5.8208683,2024-02
+2024-02-21,Emst,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW4077f,Nee,, € -   ,52.3182269,5.9759134,2024-02
+2024-02-21,Nijkerk,Gelderland,Scha(a)p(en),3.0,1.0,1.0,,3,wolf,onbekend,Nee,, € -   ,52.21485365,5.478146323965094,2024-02
+2024-02-21,Elburg,Gelderland,Scha(a)p(en),3.0,3.0,,,3,wolf,GW3694f,Nee,, € -   ,52.41565915,5.841321708557087,2024-02
+2024-02-21,Haulerwijk,Fryslân,Scha(a)p(en),1.0,5.0,,,1,wolf,GW3812m,Nee,, € -   ,53.065367,6.3310325,2024-02
+2024-02-21,Elspeet,Gelderland,Scha(a)p(en),2.0,1.0,,7.0,9,wolf,GW4004f,"Ja, maar",niet overal hoogste draad op 120 centimeter, € -   ,52.2910649,5.7884632,2024-02
+2024-02-21,Nijkerk,Gelderland,Scha(a)p(en),1.0,,,1.0,2,wolf,GW3425m?,Nee,, € -   ,52.21485365,5.478146323965094,2024-02
+2024-02-20,Steggerda,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3815f,Nee,, € -   ,52.857337,6.0753721,2024-02
+2024-02-20,Fochteloo,Fryslân,Scha(a)p(en),1.0,,,3.0,4,wolf,onbekend,Nee,, € -   ,52.993346,6.3346246,2024-02
+2024-02-18,Uddel,Gelderland,Scha(a)p(en),2.0,,,1.0,3,wolf,onbekend,Nee,, € -   ,52.2593938,5.7840992,2024-02
+2024-02-18,Nunspeet,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3694f,Nee,, € -   ,52.3372909,5.795636429005031,2024-02
+2024-02-18,Doornspijk,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3694f,Nee,, € -   ,52.4194984,5.8208683,2024-02
+2024-02-17,Oldeberkoop,Fryslân,Scha(a)p(en),11.0,,,,11,wolf,GW4009m; gemixt profiel,Nee,, € -   ,52.9384572,6.1301707,2024-02
+2024-02-17,Elst,Gelderland,Scha(a)p(en),3.0,1.0,,,3,wolf,GW2398m,Nee,, € -   ,51.9187914,5.8452555,2024-02
+2024-02-17,Nijkerk,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3425m,Nee,, € -   ,52.21485365,5.478146323965094,2024-02
+2024-02-16,Elst,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW2398m,Nee,, € -   ,51.9187914,5.8452555,2024-02
+2024-02-16,Vorchten,Gelderland,Geit(en),1.0,,,,1,wolf,GW3694f,Nee,, € -   ,52.398483,6.106708,2024-02
+2024-02-16,Oudehorne,Fryslân,Scha(a)p(en),2.0,,2.0,,2,wolf,GW2090f; GW4009m,Nee,, € -   ,52.9638473,6.0848079,2024-02
+2024-02-16,Westdorp,Drenthe,Scha(a)p(en),4.0,1.0,14.0,,4,wolf,GW3874m,Nee,, € -   ,52.9057371,6.757250689703069,2024-02
+2024-02-16,Otterlo,Gelderland,Scha(a)p(en),7.0,3.0,,,7,wolf,GW2435m; GW3012f,Nee,, € -   ,52.1015221,5.7720779,2024-02
+2024-02-16,Oudehorne,Fryslân,Scha(a)p(en),6.0,2.0,,,6,wolf,GW2090f; GW2397m?; GW4009m; gemixt profiel,Nee,, € -   ,52.9638473,6.0848079,2024-02
+2024-02-15,Fochteloo,Fryslân,Scha(a)p(en),5.0,4.0,,,5,wolf,onbekend,Nee,, € -   ,52.993346,6.3346246,2024-02
+2024-02-14,Nijkerk,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,, € -   ,52.21485365,5.478146323965094,2024-02
+2024-02-14,Appelscha,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3882m,Ja,, € -   ,52.9524178,6.3441136,2024-02
+2024-02-13,Stroe,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3155m?,Nee,, € -   ,52.1862447,5.6920842,2024-02
+2024-02-13,Lunteren,Gelderland,Scha(a)p(en),1.0,1.0,,,1,wolf,GW3155m,Nee,, € -   ,52.0864617,5.6190737,2024-02
+2024-02-13,Appelscha,Fryslân,Scha(a)p(en),2.0,,,4.0,6,wolf,GW3812m,Nee,, € -   ,52.9524178,6.3441136,2024-02
+2024-02-13,Garderen,Gelderland,Scha(a)p(en),,,,3.0,3,wolf,GW4004f,Nee,, € -   ,52.2331839,5.714073,2024-02
+2024-02-12,Doornspijk,Gelderland,Scha(a)p(en),2.0,1.0,,,2,wolf,onbekend,Nee,, € -   ,52.4194984,5.8208683,2024-02
+2024-02-12,Kootwijkerbroek,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3155m,Nee,, € -   ,52.1513512,5.6631504,2024-02
+2024-02-12,Putten,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW3425m,Nee,, € -   ,52.24773005,5.57827393798401,2024-02
+2024-02-12,Garderen,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW4004f?,Nee,, € -   ,52.2331839,5.714073,2024-02
+2024-02-12,Harskamp,Gelderland,Scha(a)p(en),,2.0,,,0,wolf,onbekend,Nee,, € -   ,52.1316634,5.75085,2024-02
+2024-02-12,Elburg,Gelderland,Scha(a)p(en),6.0,,,,6,wolf,onbekend,Nee,, € -   ,52.41565915,5.841321708557087,2024-02
+2024-02-12,Wekerom,Gelderland,Scha(a)p(en),1.0,1.0,,,1,wolf,onbekend,Nee,, € -   ,52.1118306,5.7157689,2024-02
+2024-02-11,Appelscha,Fryslân,Scha(a)p(en),2.0,,,,2,wolf,GW3812m,Nee,,€ 511.83,52.9524178,6.3441136,2024-02
+2024-02-11,Putten,Gelderland,Scha(a)p(en),3.0,,,,3,wolf,GW3425m,Nee,, € -   ,52.24773005,5.57827393798401,2024-02
+2024-02-11,Appelscha,Fryslân,Scha(a)p(en),1.0,,3.0,1.0,2,wolf,GW3690m; GW3812m,Nee,, € -   ,52.9524178,6.3441136,2024-02
+2024-02-11,Elsloo,Fryslân,Scha(a)p(en),,,,1.0,1,wolf,GW3882m,Nee,,€ 568.72,50.9503183,5.7711166,2024-02
+2024-02-10,Westdorp,Drenthe,Scha(a)p(en),8.0,,3.0,3.0,11,wolf,GW3874m,Nee,, € -   ,52.9057371,6.757250689703069,2024-02
+2024-02-09,Kootwijkerbroek,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3155m?,Nee,, € -   ,52.1513512,5.6631504,2024-02
+2024-02-09,Lunteren,Gelderland,Scha(a)p(en),6.0,3.0,,1.0,7,wolf,GW3155m,Nee,, € -   ,52.0864617,5.6190737,2024-02
+2024-02-09,Makkinga,Fryslân,Scha(a)p(en),6.0,,,4.0,10,wolf,gemixt profiel,Nee,, € -   ,52.9805873,6.2173595,2024-02
+2024-02-09,Lunteren,Gelderland,Scha(a)p(en),4.0,8.0,,,4,wolf,GW3155m,Nee,, € -   ,52.0864617,5.6190737,2024-02
+2024-02-09,Stroe,Gelderland,Scha(a)p(en),1.0,1.0,,,1,wolf,GW3155m,Nee,,€ 347.26,52.1862447,5.6920842,2024-02
+2024-02-09,Elsloo,Fryslân,Scha(a)p(en),3.0,,,,3,wolf,GW3882m,Nee,, € -   ,50.9503183,5.7711166,2024-02
+2024-02-09,Kootwijkerbroek,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3155m,Nee,, € -   ,52.1513512,5.6631504,2024-02
+2024-02-08,Otterlo,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,gemixt profiel,Nee,, € -   ,52.1015221,5.7720779,2024-02
+2024-02-08,Nunspeet,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3694f,Ja,, € -   ,52.3372909,5.795636429005031,2024-02
+2024-02-07,Doornspijk,Gelderland,Scha(a)p(en),1.0,1.0,,,1,wolf,GW3694f,Nee,, € -   ,52.4194984,5.8208683,2024-02
+2024-02-07,Wolfheze,Gelderland,Rund(eren),,1.0,,,0,wolf,gemixt profiel,Nee,, € -   ,52.0056717,5.7923944,2024-02
+2024-02-07,Haulerwijk,Fryslân,Scha(a)p(en),,,,2.0,2,wolf,GW3813m; GW4009m,Nee,,€ 672.58,53.065367,6.3310325,2024-02
+2024-02-07,Ermelo,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW4004f,Nee,, € -   ,52.2858356,5.654938589920705,2024-02
+2024-02-07,Putten,Gelderland,Scha(a)p(en),4.0,,,,4,wolf,GW3425m; GW3816f,Nee,, € -   ,52.24773005,5.57827393798401,2024-02
+2024-02-07,Haulerwijk,Fryslân,Scha(a)p(en),,,5.0,3.0,3,wolf,onbekend,Nee,,"€ 2,257.31",53.065367,6.3310325,2024-02
+2024-02-07,Haule,Fryslân,Scha(a)p(en),2.0,,,,2,wolf,onbekend,Nee,, € -   ,53.0366149,6.3063466,2024-02
+2024-02-07,Doornspijk,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3694f,Nee,, € -   ,52.4194984,5.8208683,2024-02
+2024-02-07,Haulerwijk,Fryslân,Scha(a)p(en),3.0,1.0,,3.0,6,wolf,GW3812m,Nee,,"€ 2,137.76",53.065367,6.3310325,2024-02
+2024-02-06,Renswoude,Utrecht,Paard(en),,2.0,,,0,vermoedelijk wolf,onbekend,Nee,, € -   ,52.073995,5.5393463,2024-02
+2024-02-06,Kootwijkerbroek,Gelderland,Scha(a)p(en),4.0,,,,4,wolf,GW2540f,Nee,, € -   ,52.1513512,5.6631504,2024-02
+2024-02-06,Doornspijk,Gelderland,Scha(a)p(en),1.0,,,1.0,2,wolf,nog in analyse,Nee,, € -   ,52.4194984,5.8208683,2024-02
+2024-02-06,Ermelo,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3155m,Nee,, € -   ,52.2858356,5.654938589920705,2024-02
+2024-02-05,Ermelo,Gelderland,Scha(a)p(en),,2.0,,,0,wolf,onbekend,Nee,, € -   ,52.2858356,5.654938589920705,2024-02
+2024-02-05,Ermelo,Gelderland,Scha(a)p(en),12.0,,3.0,1.0,13,wolf,GW3155m,Nee,,,52.2858356,5.654938589920705,2024-02
+2024-02-05,Ermelo,Gelderland,Scha(a)p(en),8.0,2.0,3.0,,8,wolf,GW3155m,Nee,, € -   ,52.2858356,5.654938589920705,2024-02
+2024-02-05,Doornspijk,Gelderland,Scha(a)p(en),1.0,,,,1,vermoedelijk wolf,onbekend,Nee,, € -   ,52.4194984,5.8208683,2024-02
+2024-02-05,Doorn,Utrecht,Scha(a)p(en),2.0,,,1.0,3,wolf,GW4076f,Nee,, € -   ,52.0333163,5.3455956,2024-02
+2024-02-04,Wapse,Drenthe,Scha(a)p(en),1.0,,,1.0,2,wolf,GW3812m,Ja,, € -   ,52.8592652,6.2669921,2024-02
+2024-02-04,Putten,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW3816f,Nee,, € -   ,52.24773005,5.57827393798401,2024-02
+2024-02-04,Doornspijk,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3694f,Nee,, € -   ,52.4194984,5.8208683,2024-02
+2024-02-03,Doornspijk,Gelderland,Scha(a)p(en),1.0,,,,1,vermoedelijk wolf,,Nee,, € -   ,52.4194984,5.8208683,2024-02
+2024-02-03,Harskamp,Gelderland,Scha(a)p(en),1.0,2.0,,,1,wolf,GW3155m,Nee,, € -   ,52.1316634,5.75085,2024-02
+2024-02-03,Nunspeet,Gelderland,Scha(a)p(en),2.0,7.0,4.0,2.0,4,wolf,GW3694f,,, € -   ,52.3372909,5.795636429005031,2024-02
+2024-02-03,Vinkega,Fryslân,Scha(a)p(en),1.0,,,1.0,2,wolf,GW3813m,Nee,, € -   ,52.8719582,6.1137183,2024-02
+2024-02-03,Waspersveen,Drenthe,Scha(a)p(en),3.0,,2.0,2.0,5,wolf,GW4077f,Nee,, € -   ,,,2024-02
+2024-02-01,Steggerda,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,, € -   ,52.857337,6.0753721,2024-02
+2024-02-01,Oosterwolde,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,, € -   ,52.9892251,6.2908202,2024-02
+2024-02-01,Kootwijkerbroek,Gelderland,Scha(a)p(en),,1.0,2.0,,0,wolf,onbekend,Nee,, € -   ,52.1513512,5.6631504,2024-02
+2024-02-01,Oudehorne,Fryslân,Scha(a)p(en); Minipaard,2.0,,,,2,wolf,gemixt profiel,Nee,, € -   ,52.9638473,6.0848079,2024-02
+2024-02-01,Elsloo,Fryslân,Scha(a)p(en),4.0,1.0,,,4,wolf,GW3882m,Nee,,€ 912.74,50.9503183,5.7711166,2024-02
+2024-02-01,Jubbega,Fryslân,Scha(a)p(en),3.0,2.0,,3.0,6,wolf,GW3813m,Nee,, € -   ,53.0033704,6.1220155,2024-02
+2024-01-31,Eeserveen,Drenthe,Scha(a)p(en),4.0,,,,4,wolf,GW3881m,Nee,, € -   ,52.8766648,6.784304473347159,2024-01
+2024-01-31,Nijeberkoop,Fryslân,Scha(a)p(en),3.0,3.0,,2.0,5,wolf,gemixt profiel,Nee,, € -   ,52.9588643,6.1904235,2024-01
+2024-01-31,Ede,Gelderland,Scha(a)p(en),,1.0,,,0,wolf,GW3155m,Nee,, € -   ,52.07168255,5.745510631034939,2024-01
+2024-01-31,Oldebroek,Gelderland,Scha(a)p(en),1.0,3.0,,,1,wolf,GW3694f,Nee,, € -   ,52.45673635,5.951864370961877,2024-01
+2024-01-31,Otterlo,Gelderland,Scha(a)p(en),3.0,,,,3,wolf,GW2435m,Nee,, € -   ,52.1015221,5.7720779,2024-01
+2024-01-31,Kootwijkerbroek,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW2540f,Nee,,,52.1513512,5.6631504,2024-01
+2024-01-30,Harskamp,Gelderland,Scha(a)p(en),3.0,,,,3,wolf,GW3155m,Nee,, € -   ,52.1316634,5.75085,2024-01
+2024-01-30,Steggerda,Fryslân,Scha(a)p(en),2.0,,,1.0,3,wolf,GW3815f,Nee,, € -   ,52.857337,6.0753721,2024-01
+2024-01-29,Doldersum,Drenthe,Scha(a)p(en),1.0,3.0,,,1,wolf,GW3689m,Ja,, € -   ,52.8853046,6.2459153,2024-01
+2024-01-29,Leersum,Utrecht,Scha(a)p(en),3.0,,,,3,wolf,GW4076f,Nee,, € -   ,52.0102642,5.4332757,2024-01
+2024-01-29,De Hoeve,Fryslân,Scha(a)p(en),2.0,,,8.0,10,wolf,GW4009m; gemixt profiel,Nee,, € -   ,52.88651,6.0879439,2024-01
+2024-01-28,Sleen,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW3152m,Nee,, € -   ,52.772368,6.8031287,2024-01
+2024-01-28,Harskamp,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,onbekend,Nee,, € -   ,52.1316634,5.75085,2024-01
+2024-01-28,Dwingeloo,Drenthe,Scha(a)p(en),3.0,3.0,,3.0,6,wolf,GW3690m; GW3813m,Nee,, € -   ,52.8333073,6.3669053,2024-01
+2024-01-28,Drijber,Drenthe,Scha(a)p(en),4.0,1.0,,,4,vermoedelijk wolf,onbekend,Nee,, € -   ,52.7920296,6.5401445,2024-01
+2024-01-27,Doornspijk,Gelderland,Scha(a)p(en),4.0,,,,4,wolf,GW3694f,Nee,, € -   ,52.4194984,5.8208683,2024-01
+2024-01-27,Kootwijkerbroek,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW2540f,Nee,, € -   ,52.1513512,5.6631504,2024-01
+2024-01-27,Appelscha,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3882m,Ja,, € -   ,52.9524178,6.3441136,2024-01
+2024-01-26,Wapserveen,Drenthe,Scha(a)p(en),2.0,,,,2,vermoedelijk wolf,onbekend,Ja,, € -   ,52.8252174,6.2158906,2024-01
+2024-01-26,Eeserveen,Drenthe,Scha(a)p(en),6.0,,,1.0,7,wolf,GW3881m,Nee,, € -   ,52.8766648,6.784304473347159,2024-01
+2024-01-26,Diever,Drenthe,Scha(a)p(en),6.0,,,4.0,10,wolf,GW3812m; GW3813m,Ja,, € -   ,52.8546576,6.3182659,2024-01
+2024-01-26,Harskamp,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW3155m,Nee,, € -   ,52.1316634,5.75085,2024-01
+2024-01-25,Otterlo,Gelderland,Scha(a)p(en),5.0,1.0,,,5,wolf,GW2435m; GW3012f,Nee,,"€ 1,328.33",52.1015221,5.7720779,2024-01
+2024-01-25,Nijensleek,Drenthe,Scha(a)p(en),11.0,12.0,,,11,wolf,GW3812m; gemixt profiel,Nee,, € -   ,52.8369612,6.1671817,2024-01
+2024-01-24,Doornspijk,Gelderland,Scha(a)p(en),1.0,1.0,,,1,wolf,GW3694f,Nee,, € -   ,52.4194984,5.8208683,2024-01
+2024-01-24,Ravenswoud,Fryslân,Scha(a)p(en),5.0,8.0,6.0,,5,wolf,GW3812m,Nee,, € -   ,52.9645683,6.3799002,2024-01
+2024-01-23,Putten,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3155m,Nee,, € -   ,52.24773005,5.57827393798401,2024-01
+2024-01-23,Elsloo,Fryslân,Scha(a)p(en),3.0,,,,3,wolf,GW3882m,Nee,, € -   ,50.9503183,5.7711166,2024-01
+2024-01-23,Doornspijk,Gelderland,Scha(a)p(en),,2.0,,,0,wolf,GW3694f,,, € -   ,52.4194984,5.8208683,2024-01
+2024-01-23,Jubbega,Fryslân,Scha(a)p(en),6.0,5.0,25.0,,6,wolf,GW2090f,Nee,, € -   ,53.0033704,6.1220155,2024-01
+2024-01-22,t Harde,Gelderland,Scha(a)p(en),1.0,4.0,,,1,wolf,GW3694f,Nee,, € -   ,52.4091474,5.8930152,2024-01
+2024-01-22,t Harde,Gelderland,Scha(a)p(en),1.0,1.0,,,1,wolf,GW3694f,Nee,,€ 629.12,52.4091474,5.8930152,2024-01
+2024-01-22,Putten,Gelderland,Scha(a)p(en),3.0,,,,3,wolf,GW3425m,Nee,, € -   ,52.24773005,5.57827393798401,2024-01
+2024-01-22,Steggerda,Fryslân,Scha(a)p(en),1.0,,,,1,vermoedelijk wolf,,Nee,, € -   ,52.857337,6.0753721,2024-01
+2024-01-22,Doornspijk,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3694f,Nee,, € -   ,52.4194984,5.8208683,2024-01
+2024-01-20,Vledderveen,Drenthe,Scha(a)p(en),2.0,7.0,,2.0,4,wolf,GW3813m; gemixt profiel,"Ja, maar",raster was kapot, € -   ,52.8768553,6.1880842,2024-01
+2024-01-20,Kootwijkerbroek,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW2540f,Nee,, € -   ,52.1513512,5.6631504,2024-01
+2024-01-20,Otterlo,Gelderland,Scha(a)p(en),11.0,2.0,,2.0,13,wolf,gemixt profiel,Nee,, € -   ,52.1015221,5.7720779,2024-01
+2024-01-19,Eeserveen,Drenthe,Scha(a)p(en),6.0,3.0,,,6,wolf,GW4075f,Nee,, € -   ,52.8766648,6.784304473347159,2024-01
+2024-01-19,Zuidvelde,Drenthe,Scha(a)p(en),8.0,,1.0,,8,wolf,GW2397m; gemixt profiel,Nee,, € -   ,53.0446319,6.458122,2024-01
+2024-01-19,Elsloo,Fryslân,Scha(a)p(en),2.0,,,,2,wolf,onbekend,Nee,, € -   ,50.9503183,5.7711166,2024-01
+2024-01-18,Sleen,Drenthe,Scha(a)p(en),2.0,1.0,1.0,1.0,3,wolf,GW3152m?,Nee,, € -   ,52.772368,6.8031287,2024-01
+2024-01-18,Uddel,Gelderland,Scha(a)p(en),3.0,,,,3,wolf,GW4004f?,Nee,, € -   ,52.2593938,5.7840992,2024-01
+2024-01-17,Vinkega,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,, € -   ,52.8719582,6.1137183,2024-01
+2024-01-17,Wapse,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Ja,, € -   ,52.8592652,6.2669921,2024-01
+2024-01-16,Doornspijk,Gelderland,Scha(a)p(en),1.0,,,,1,vermoedelijk wolf,onbekend,Nee,, € -   ,52.4194984,5.8208683,2024-01
+2024-01-16,Nijensleek,Drenthe,Scha(a)p(en),7.0,,,1.0,8,wolf,gemixt profiel,Nee,, € -   ,52.8369612,6.1671817,2024-01
+2024-01-16,Wapse,Drenthe,Scha(a)p(en),1.0,10.0,,,1,wolf,GW3689m,Ja,, € -   ,52.8592652,6.2669921,2024-01
+2024-01-15,Harskamp,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,onbekend,Nee,, € -   ,52.1316634,5.75085,2024-01
+2024-01-15,Nijeberkoop,Fryslân,Scha(a)p(en),1.0,,,1.0,2,wolf,GW3882m,Nee,, € -   ,52.9588643,6.1904235,2024-01
+2024-01-15,Vledderveen,Drenthe,Scha(a)p(en),4.0,5.0,,1.0,5,wolf,GW3813m; gemixt profiel,"Ja, maar",op één plek onderste draad op 27 cm, € -   ,52.8768553,6.1880842,2024-01
+2024-01-15,Doornspijk,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW3694f,Nee,, € -   ,52.4194984,5.8208683,2024-01
+2024-01-14,Steggerda,Fryslân,Scha(a)p(en),,1.0,,,0,wolf,onbekend,Nee,, € -   ,52.857337,6.0753721,2024-01
+2024-01-14,Doornspijk,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW3694f,Nee,, € -   ,52.4194984,5.8208683,2024-01
+2024-01-14,Lunteren,Gelderland,Scha(a)p(en),9.0,,,,9,wolf,onbekend,Nee,, € -   ,52.0864617,5.6190737,2024-01
+2024-01-14,Vinkega,Fryslân,Scha(a)p(en),,1.0,,,0,wolf,GW3815f,Nee,, € -   ,52.8719582,6.1137183,2024-01
+2024-01-14,Amen,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW3881m,Nee,, € -   ,52.93331795,6.598514489095756,2024-01
+2024-01-14,Vinkega,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3815f,Nee,, € -   ,52.8719582,6.1137183,2024-01
+2024-01-14,Zuidvelde,Drenthe,Scha(a)p(en),1.0,5.0,2.0,1.0,2,wolf,GW3152m,Nee,, € -   ,53.0446319,6.458122,2024-01
+2024-01-14,Elsloo,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,gemixt profiel,Nee,, € -   ,50.9503183,5.7711166,2024-01
+2024-01-13,Makkinga,Fryslân,Scha(a)p(en),9.0,,,,9,wolf,GW4009m,Nee,, € -   ,52.9805873,6.2173595,2024-01
+2024-01-13,Kallenkote,Overijssel,Scha(a)p(en),3.0,0.0,0.0,5.0,8,wolf,gemixt profiel,Nee,, € -   ,52.7965731,6.1740658,2024-01
+2024-01-12,Makkinga,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3690m,Nee,, € -   ,52.9805873,6.2173595,2024-01
+2024-01-12,De Glind,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3155m,Nee,, € -   ,52.1197382,5.5064387,2024-01
+2024-01-12,Maarsbergen,Utrecht,Scha(a)p(en),2.0,,,,2,wolf,GW3155m,Nee,, € -   ,52.057368,5.4034953,2024-01
+2024-01-12,De Glind,Gelderland,Scha(a)p(en),3.0,1.0,,1.0,4,wolf,GW3155m,Nee,, € -   ,52.1197382,5.5064387,2024-01
+2024-01-12,De Glind,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW3155m,Nee,, € -   ,52.1197382,5.5064387,2024-01
+2024-01-11,Zwartebroek,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3816f?,Nee,, € -   ,52.1789369,5.5038312,2024-01
+2024-01-11,Westdorp,Drenthe,Scha(a)p(en),6.0,8.0,,,6,wolf,GW3011f; GW3881m; gemixt profiel,Nee,, € -   ,52.9057371,6.757250689703069,2024-01
+2024-01-11,Wehl,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW2398m,Nee,, € -   ,51.9571754,6.2137189,2024-01
+2024-01-10,Scherpenzeel,Gelderland,Scha(a)p(en),4.0,,,,4,wolf,GW3155m,Nee,, € -   ,52.0795901,5.4904134,2024-01
+2024-01-10,Nijkerk,Gelderland,Scha(a)p(en),4.0,3.0,,3.0,7,wolf,GW3425m,Nee,, € -   ,52.21485365,5.478146323965094,2024-01
+2024-01-09,Hoornsterzwaag,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3815f,Nee,, € -   ,52.9978563,6.1700503,2024-01
+2024-01-09,Nijkerk,Gelderland,Scha(a)p(en),1.0,,,,1,vermoedelijk wolf,onbekend,Nee,, € -   ,52.21485365,5.478146323965094,2024-01
+2024-01-09,Wolfheze,Gelderland,Rund(eren),1.0,,,,1,wolf,GW2435m; gemixt profiel,Nee,, € -   ,52.0056717,5.7923944,2024-01
+2024-01-09,Makkinga,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3815f,Ja,,€ 270.03,52.9805873,6.2173595,2024-01
+2024-01-09,Laag-Keppel,Gelderland,Scha(a)p(en),2.0,1.0,1.0,,2,wolf,GW2398m,Nee,,€ 691.83,51.9969245,6.2220115,2024-01
+2024-01-08,Hoornsterzwaag,Fryslân,Scha(a)p(en),6.0,1.0,,,6,wolf,GW3815f,Nee,, € -   ,52.9978563,6.1700503,2024-01
+2024-01-08,Wehl,Gelderland,Scha(a)p(en),5.0,,,,5,wolf,GW2398m,Nee,, € -   ,51.9571754,6.2137189,2024-01
+2024-01-07,Jubbega,Fryslân,Scha(a)p(en),2.0,1.0,,,2,wolf,onbekend,Nee,, € -   ,53.0033704,6.1220155,2024-01
+2024-01-07,Makkinga,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW2090f,Nee,,€ 210.03,52.9805873,6.2173595,2024-01
+2024-01-07,Westdorp,Drenthe,Scha(a)p(en),2.0,1.0,,1.0,3,wolf,gemixt profiel,Nee,,€ 826.62,52.9057371,6.757250689703069,2024-01
+2024-01-07,Wehl,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW2398m,Nee,,€ 210.03,51.9571754,6.2137189,2024-01
+2024-01-06,Nijkerk,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW3425m,Nee,,€ 608.34,52.21485365,5.478146323965094,2024-01
+2024-01-06,Odoorn,Drenthe,Scha(a)p(en),6.0,1.0,,2.0,8,wolf,GW3011f; GW3250m,Nee,, € -   ,52.8516104,6.84635,2024-01
+2024-01-06,Wehl,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW2398m,Nee,,€ 391.83,51.9571754,6.2137189,2024-01
+2024-01-06,Grolloo,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW3881m?; gemixt profiel,Nee,,€ 230.03,52.936205,6.6727367,2024-01
+2024-01-05,Nijeveen,Drenthe,Scha(a)p(en),1.0,2.0,,1.0,2,wolf,GW3152m,Nee,,"€ 1,241.21",52.7335989,6.1685657,2024-01
+2024-01-04,Jubbega,Fryslân,Scha(a)p(en),,,,,0,wolf,GW3815f,Nee,, € -   ,53.0033704,6.1220155,2024-01
+2024-01-04,Grolloo,Drenthe,Scha(a)p(en),2.0,,,,2,wolf,GW3881m,Nee,,€ 411.83,52.936205,6.6727367,2024-01
+2024-01-04,Makkinga,Fryslân,Scha(a)p(en),5.0,2.0,,,5,wolf,gemixt profiel,Nee,,"€ 2,126.82",52.9805873,6.2173595,2024-01
+2024-01-04,Putten,Gelderland,Scha(a)p(en),1.0,1.0,,,1,wolf,onbekend,Nee,,€ 540.92,52.24773005,5.57827393798401,2024-01
+2024-01-04,Oosterwolde,Fryslân,Scha(a)p(en),2.0,,,,2,wolf,onbekend,Nee,,€ 451.83,52.9892251,6.2908202,2024-01
+2024-01-04,Grolloo,Drenthe,Scha(a)p(en),2.0,,,,2,wolf,GW3881m,Nee,,€ 557.89,52.936205,6.6727367,2024-01
+2024-01-04,Oosterwolde,Fryslân,Scha(a)p(en),9.0,,,,9,wolf,GW3812m; gemixt profiel,Nee,,"€ 5,198.23",52.9892251,6.2908202,2024-01
+2024-01-03,Nijensleek,Drenthe,Scha(a)p(en),1.0,,,,1,vermoedelijk wolf,onbekend,Nee,,€ 270.03,52.8369612,6.1671817,2024-01
+2024-01-03,Doornspijk,Gelderland,Scha(a)p(en),1.0,,,1.0,2,wolf,GW3694f?,Nee,,€ 638.95,52.4194984,5.8208683,2024-01
+2024-01-02,Grolloo,Drenthe,Scha(a)p(en),1.0,,2.0,,1,wolf,GW3881m,Nee,,€ 617.14,52.936205,6.6727367,2024-01
+2024-01-02,Megchelen,Gelderland,Scha(a)p(en),6.0,,,,6,wolf,GW2398m,Nee,,"€ 1,478.41",51.8382457,6.3921648,2024-01
+2023-12-31,Orvelte,Drenthe,Scha(a)p(en),3.0,,,2.0,5,wolf,onbekend,Nee,, € -   ,52.8431902,6.6588981,2023-12
+2023-12-31,Beilen,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW3152m,Nee,,€ 450.03,52.8610999,6.5124319,2023-12
+2023-12-31,Grolloo,Drenthe,Scha(a)p(en),3.0,,,,3,wolf,gemixt profiel,Nee,,€ 911.89,52.936205,6.6727367,2023-12
+2023-12-31,Eursinge,Drenthe,Scha(a)p(en),3.0,3.0,,,3,wolf,onbekend,Nee,,"€ 1,338.55",52.84172825,6.589986756064498,2023-12
+2023-12-31,Vledder,Drenthe,Scha(a)p(en),2.0,,,,2,wolf,GW3812m,Nee,,€ 539.06,52.8574791,6.2101824,2023-12
+2023-12-30,Makkinga,Fryslân,Scha(a)p(en),2.0,,,,2,wolf,onbekend,Nee,,€ 361.83,52.9805873,6.2173595,2023-12
+2023-12-30,Jubbega,Fryslân,Scha(a)p(en),2.0,1.0,,,2,wolf,GW3815f,Nee,,"€ 1,001.83",53.0033704,6.1220155,2023-12
+2023-12-30,Oldeberkoop,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3815f,Nee,, € -   ,52.9384572,6.1301707,2023-12
+2023-12-29,Dwingeloo,Drenthe,Scha(a)p(en),5.0,,,7.0,12,wolf,GW3813m?,Nee,,"€ 3,172.47",52.8333073,6.3669053,2023-12
+2023-12-29,Langedijke,Fryslân,Scha(a)p(en),1.0,2.0,,,1,wolf,onbekend,Nee,,€ 420.06,52.9637274,6.2793695,2023-12
+2023-12-28,Oldeberkoop,Fryslân,Scha(a)p(en),1.0,2.0,,,1,wolf,onbekend,Nee,,€ 220.03,52.9384572,6.1301707,2023-12
+2023-12-28,De Hoeve,Fryslân,Scha(a)p(en),1.0,,,,1,vermoedelijk wolf,onbekend,Nee,,€ 185.03,52.88651,6.0879439,2023-12
+2023-12-28,Wapenveld,Gelderland,Scha(a)p(en),3.0,,,,3,wolf,GW3694f,Nee,, € -   ,52.4314896,6.072898,2023-12
+2023-12-28,Vorchten,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW3694f,Nee,,€ 511.83,52.398483,6.106708,2023-12
+2023-12-28,Grolloo,Drenthe,Scha(a)p(en),2.0,,1.0,,2,wolf,GW3881m,Nee,,€ 496.83,52.936205,6.6727367,2023-12
+2023-12-27,Westdorp,Drenthe,Scha(a)p(en),12.0,,,8.0,20,wolf,GW3881m; gemixt profiel,Nee,,"€ 4,467.86",52.9057371,6.757250689703069,2023-12
+2023-12-27,Nijeveen,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW3152m,Nee,, € -   ,52.7335989,6.1685657,2023-12
+2023-12-25,Otterlo,Gelderland,Scha(a)p(en),5.0,,,,5,wolf,GW2435m?,Nee,,"€ 1,237.23",52.1015221,5.7720779,2023-12
+2023-12-25,Hattem,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,,€ 212.74,52.4767117,6.061913261141655,2023-12
+2023-12-25,De Hoeve,Fryslân,Scha(a)p(en),1.0,1.0,,,1,wolf,GW3815f,Nee,,€ 549.25,52.88651,6.0879439,2023-12
+2023-12-25,Hoenderloo,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,,€ 96.84,52.1141703,5.852781487264155,2023-12
+2023-12-25,Langedijke,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3882m,Nee,,€ 210.03,52.9637274,6.2793695,2023-12
+2023-12-25,Hoogersmilde,Drenthe,Scha(a)p(en); Geit(en); Minipaard(en),4.0,,,,4,wolf,GW2397m; GW3690m; GW3812m,Nee,,"€ 3,802.12",52.91299375,6.366868725936132,2023-12
+2023-12-24,Leusden,Utrecht,Scha(a)p(en),1.0,,,,1,vermoedelijk wolf,onbekend,Nee,,€ 220.03,52.130355,5.4286989,2023-12
+2023-12-24,Makkinga,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,,€ 220.03,52.9805873,6.2173595,2023-12
+2023-12-24,Vorchten,Gelderland,Scha(a)p(en),5.0,4.0,,2.0,7,wolf,GW3694f?,Nee,,"€ 2,224.97",52.398483,6.106708,2023-12
+2023-12-24,Vorchten,Gelderland,Scha(a)p(en),1.0,,,1.0,2,wolf,GW3694f,Nee,,"€ 1,746.76",52.398483,6.106708,2023-12
+2023-12-24,Veessen,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3694f,Nee,,€ 375.14,52.3772494,6.0889784,2023-12
+2023-12-24,Langedijke,Fryslân,Scha(a)p(en),6.0,,,1.0,7,wolf,GW3690m; GW3882m,Nee,,"€ 1,829.35",52.9637274,6.2793695,2023-12
+2023-12-22,Makkinga,Fryslân,Scha(a)p(en),1.0,,,5.0,6,wolf,GW3812m,Nee,, € -   ,52.9805873,6.2173595,2023-12
+2023-12-22,Doldersum,Drenthe,Scha(a)p(en),2.0,1.0,,2.0,4,wolf,GW3815f,Ja,,"€ 1,254.68",52.8853046,6.2459153,2023-12
+2023-12-22,Oldeberkoop,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3812m,Nee,,€ 401.83,52.9384572,6.1301707,2023-12
+2023-12-21,Makkinga,Fryslân,Scha(a)p(en),2.0,2.0,,1.0,3,wolf,GW3690m,Nee,,€ 631.83,52.9805873,6.2173595,2023-12
+2023-12-21,t Harde,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,,€ 230.03,52.4091474,5.8930152,2023-12
+2023-12-21,Oldebroek,Gelderland,Scha(a)p(en),1.0,2.0,,2.0,3,wolf,onbekend,Nee,,"€ 1,452.26",52.45673635,5.951864370961877,2023-12
+2023-12-21,Odoorn,Drenthe,Scha(a)p(en),5.0,,,,5,wolf,GW3011f; GW3250m,Nee,,"€ 1,537.23",52.8516104,6.84635,2023-12
+2023-12-20,Makkinga,Fryslân,Scha(a)p(en),6.0,,,1.0,7,wolf,nog in analyse,Nee,,"€ 1,720.83",52.9805873,6.2173595,2023-12
+2023-12-20,Putten,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3816f,Nee,, € -   ,52.24773005,5.57827393798401,2023-12
+2023-12-19,Westdorp,Drenthe,Scha(a)p(en),8.0,1.0,,,8,wolf,GW3881m,Nee,,"€ 3,222.56",52.9057371,6.757250689703069,2023-12
+2023-12-19,Voorthuizen,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,gemixt profiel,Nee,,€ 270.03,52.1871648,5.6071994,2023-12
+2023-12-18,Wapserveen,Drenthe,Scha(a)p(en),3.0,,,,3,wolf,GW3152m,Nee,,"€ 4,306.31",52.8252174,6.2158906,2023-12
+2023-12-18,Elburg,Gelderland,Scha(a)p(en),2.0,4.0,,2.0,4,wolf,GW3694f,Nee,,"€ 1,774.38",52.41565915,5.841321708557087,2023-12
+2023-12-18,Beilen,Drenthe,Scha(a)p(en),2.0,1.0,,,2,wolf,GW3813m,Nee,,"€ 1,546.97",52.8610999,6.5124319,2023-12
+2023-12-18,Dwingeloo,Drenthe,Scha(a)p(en),,1.0,,,0,wolf,GW3813m,Ja,,€ 245.38,52.8333073,6.3669053,2023-12
+2023-12-18,Dwingeloo,Drenthe,Scha(a)p(en),4.0,11.0,,,4,wolf,gemixt profiel,"Ja, maar",boven sluis geen draad,"€ 1,995.44",52.8333073,6.3669053,2023-12
+2023-12-18,Elburg,Gelderland,Scha(a)p(en),10.0,8.0,,,10,wolf,GW3694f,Nee,,"€ 4,797.80",52.41565915,5.841321708557087,2023-12
+2023-12-17,Eesveen,Overijssel,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW3815f,Nee,,€ 431.83,52.824671,6.1418966,2023-12
+2023-12-17,Makkinga,Fryslân,Scha(a)p(en),3.0,,,,3,wolf,gemixt profiel,Nee,,€ 603.63,52.9805873,6.2173595,2023-12
+2023-12-16,Vessem,Noord-Brabant,Scha(a)p(en),1.0,2.0,,,1,wolf,GW3645m,Nee,,€ 559.47,51.419252,5.2882066,2023-12
+2023-12-16,Vinkega,Fryslân,Scha(a)p(en),2.0,1.0,,2.0,4,wolf,GW3812m,Nee,,"€ 1,067.56",52.8719582,6.1137183,2023-12
+2023-12-16,Garderen,Gelderland,Scha(a)p(en),1.0,,,2.0,3,wolf,nog in analyse,Nee,,€ 663.14,52.2331839,5.714073,2023-12
+2023-12-16,Appelscha,Fryslân,Scha(a)p(en),2.0,,,2.0,4,wolf,GW3882m,Ja,, € -   ,52.9524178,6.3441136,2023-12
+2023-12-16,Garderen,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,nog in analyse,Nee,,€ 230.03,52.2331839,5.714073,2023-12
+2023-12-16,Steggerda,Fryslân,Scha(a)p(en),5.0,,,1.0,6,wolf,GW2397m; GW3152m; gemixt profiel,Nee,, € -   ,52.857337,6.0753721,2023-12
+2023-12-15,Harskamp,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW2398m,Nee,,€ 546.71,52.1316634,5.75085,2023-12
+2023-12-15,Doornspijk,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW3694f,Nee,,€ 394.39,52.4194984,5.8208683,2023-12
+2023-12-15,Makkinga,Fryslân,Scha(a)p(en),3.0,,,,3,wolf,nog in analyse,Nee,,€ 803.63,52.9805873,6.2173595,2023-12
+2023-12-14,Makkinga,Fryslân,Scha(a)p(en),5.0,,,,5,wolf,nog in analyse,Nee,,€ 987.23,52.9805873,6.2173595,2023-12
+2023-12-14,Elburg,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW3694f,Nee,,€ 511.83,52.41565915,5.841321708557087,2023-12
+2023-12-14,Doornspijk,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW3694f,Nee,,€ 619.31,52.4194984,5.8208683,2023-12
+2023-12-14,Westdorp,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW3881m,Nee,,€ 923.32,52.9057371,6.757250689703069,2023-12
+2023-12-14,Oldeberkoop,Fryslân,Scha(a)p(en),4.0,,,,4,wolf,GW3813m,Nee,,€ 775.43,52.9384572,6.1301707,2023-12
+2023-12-14,Esbeek,Noord-Brabant,Scha(a)p(en),1.0,6.0,,,1,wolf,GW3645m,Nee,,€ 270.03,51.4618953,5.1371625,2023-12
+2023-12-14,Doornspijk,Gelderland,Scha(a)p(en),7.0,1.0,,,7,wolf,GW3694f,Nee,,"€ 1,893.77",52.4194984,5.8208683,2023-12
+2023-12-13,Woudenberg,Utrecht,Scha(a)p(en),1.0,,,,1,wolf,GW3814f,Nee,, € -   ,52.0805478,5.4134327,2023-12
+2023-12-13,Nijkerk,Gelderland,Scha(a)p(en),2.0,1.0,,1.0,3,wolf,GW3425m,Nee,,"€ 1,162.85",52.21485365,5.478146323965094,2023-12
+2023-12-13,Zweeloo,Drenthe,Scha(a)p(en),5.0,,,,5,wolf,GW3874m; GW3881m,Nee,, € -   ,52.7943068,6.7306013,2023-12
+2023-12-13,Westdorp,Drenthe,Scha(a)p(en),10.0,5.0,,,10,wolf,GW3881m; gemixt profiel,Nee,,"€ 4,645.26",52.9057371,6.757250689703069,2023-12
+2023-12-13,Ermelo,Gelderland,Scha(a)p(en),1.0,,,1.0,2,wolf,GW2668f,Nee,, € -   ,52.2858356,5.654938589920705,2023-12
+2023-12-13,Doornspijk,Gelderland,Scha(a)p(en),6.0,,,2.0,8,wolf,GW3694f?,Nee,, € -   ,52.4194984,5.8208683,2023-12
+2023-12-12,Makkinga,Fryslân,Scha(a)p(en),1.0,,4.0,3.0,4,wolf,GW3882m,Nee,, € -   ,52.9805873,6.2173595,2023-12
+2023-12-12,Nijensleek,Drenthe,Scha(a)p(en),2.0,2.0,,,2,wolf,onbekend,Nee,, € -   ,52.8369612,6.1671817,2023-12
+2023-12-11,Makkinga,Fryslân,Scha(a)p(en),2.0,,,,2,wolf,GW3690m,Nee,, € -   ,52.9805873,6.2173595,2023-12
+2023-12-11,Makkinga,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3882m,Nee,, € -   ,52.9805873,6.2173595,2023-12
+2023-12-11,Nijkerk,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW3425m,Nee,, € -   ,52.21485365,5.478146323965094,2023-12
+2023-12-11,Woudenberg,Utrecht,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,, € -   ,52.0805478,5.4134327,2023-12
+2023-12-10,Oldeberkoop,Fryslân,Scha(a)p(en),1.0,1.0,,,1,wolf,GW3812m,Nee,, € -   ,52.9384572,6.1301707,2023-12
+2023-12-10,Makkinga,Fryslân,Scha(a)p(en),5.0,,,,5,wolf,gemixt profiel,Nee,, € -   ,52.9805873,6.2173595,2023-12
+2023-12-10,Makkinga,Fryslân,Scha(a)p(en),4.0,1.0,,1.0,5,wolf,GW3882m,Nee,, € -   ,52.9805873,6.2173595,2023-12
+2023-12-09,Langedijke,Fryslân,Scha(a)p(en),11.0,,,,11,wolf,onbekend,Nee,, € -   ,52.9637274,6.2793695,2023-12
+2023-12-09,Stoutenburg,Utrecht,Scha(a)p(en),2.0,,,,2,wolf,GW3814f,Nee,, € -   ,52.1537285,5.4330688,2023-12
+2023-12-09,Makkinga,Fryslân,Scha(a)p(en),4.0,,,,4,wolf,GW3882m,Nee,,"€ 1,350.15",52.9805873,6.2173595,2023-12
+2023-12-07,De Heen,Noord-Brabant,Scha(a)p(en),2.0,4.0,,,2,wolf,GW3645m,Nee,, € -   ,51.6083697,4.2715386,2023-12
+2023-12-06,De Heen,Noord-Brabant,Scha(a)p(en),1.0,,,,1,wolf,GW3645m,Nee,, € -   ,51.6083697,4.2715386,2023-12
+2023-12-06,Kallenkote,Overijssel,Scha(a)p(en),1.0,1.0,2.0,0.0,1,wolf,GW3813m,Nee,, € -   ,52.7965731,6.1740658,2023-12
+2023-12-05,Halsteren,Noord-Brabant,Scha(a)p(en),1.0,,,,1,wolf,GW3645m,Nee,, € -   ,51.5230234,4.2729507,2023-12
+2023-12-05,Steggerda,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3815f,Nee,, € -   ,52.857337,6.0753721,2023-12
+2023-12-04,Nijkerk,Gelderland,Scha(a)p(en),3.0,2.0,,,3,wolf,GW3425m,Nee,,€ 977.98,52.21485365,5.478146323965094,2023-12
+2023-12-04,Poortvliet,Zeeland,Scha(a)p(en),2.0,,,,2,wolf,GW3645m,Nee,, € -   ,51.544873,4.1439401,2023-12
+2023-12-04,Grolloo,Drenthe,Scha(a)p(en),5.0,,,18.0,23,wolf,onbekend,Nee,, € -   ,52.936205,6.6727367,2023-12
+2023-12-03,De Hoeve,Fryslân,Scha(a)p(en),4.0,,,,4,wolf,GW3152m,Nee,, € -   ,52.88651,6.0879439,2023-12
+2023-12-03,Heijningen,Noord-Brabant,Scha(a)p(en),1.0,,,,1,wolf,GW3645m,Nee,, € -   ,51.6565557,4.4100072,2023-12
+2023-12-03,Sint-Maartensdijk,Zeeland,Scha(a)p(en),1.0,,,,1,wolf,GW3645m,Nee,, € -   ,51.548799,4.0782993,2023-12
+2023-12-02,Heijningen,Noord-Brabant,Scha(a)p(en),2.0,1.0,,,2,wolf,GW3645m,Nee,, € -   ,51.6565557,4.4100072,2023-12
+2023-12-02,Dinteloord,Noord-Brabant,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,,€ 254.34,51.6339484,4.3680313,2023-12
+2023-12-02,Garderen,Gelderland,Scha(a)p(en),2.0,,,3.0,5,wolf,GW2668f,Nee,, € -   ,52.2331839,5.714073,2023-12
+2023-12-01,De Kiel,Drenthe,Scha(a)p(en); Geit(en),,,12.0,,0,wolf,onbekend,Nee,, € -   ,52.8626885,6.7459407,2023-12
+2023-11-30,Nijensleek,Drenthe,Scha(a)p(en),2.0,,,7.0,9,wolf,gemixt profiel,Nee,, € -   ,52.8369612,6.1671817,2023-11
+2023-11-30,Putten,Gelderland,Scha(a)p(en),3.0,,,3.0,6,wolf,GW3425m,Nee,, € -   ,52.24773005,5.57827393798401,2023-11
+2023-11-29,Grolloo,Drenthe,Scha(a)p(en),3.0,1.0,,,3,wolf,onbekend,Nee,, € -   ,52.936205,6.6727367,2023-11
+2023-11-29,Steggerda,Fryslân,Scha(a)p(en),1.0,,,,1,vermoedelijk wolf,onbekend,Nee,,€ 210.03,52.857337,6.0753721,2023-11
+2023-11-28,Breda,Noord-Brabant,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,, € -   ,51.5887845,4.7760237,2023-11
+2023-11-28,Elsloo,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3812m,Nee,,€ 270.30,50.9503183,5.7711166,2023-11
+2023-11-27,Zwiggelte,Drenthe,Rund(eren),1.0,,,,1,wolf,GW3011f,Nee,, € -   ,52.8735,6.58768,2023-11
+2023-11-27,Zandhuizen,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3815f,Nee,,€ 270.03,52.9108132,6.1529275,2023-11
+2023-11-26,Elsloo,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3813m,Nee,,€ 270.03,50.9503183,5.7711166,2023-11
+2023-11-26,Nijkerk,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW3425m,Nee,,€ 411.83,52.21485365,5.478146323965094,2023-11
+2023-11-25,Kallenkote,Overijssel,Scha(a)p(en),13.0,3.0,0.0,3.0,16,vermoedelijk wolf,onbekend,Nee,,"€ 2,686.23",52.7965731,6.1740658,2023-11
+2023-11-24,Oldeberkoop,Fryslân,Scha(a)p(en),4.0,2.0,,4.0,8,wolf,GW2090f,Nee,,"€ 2,049.53",52.9384572,6.1301707,2023-11
+2023-11-24,Makkinga,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3813m?,Nee,,€ 270.03,52.9805873,6.2173595,2023-11
+2023-11-23,Weiteveen,Drenthe,Scha(a)p(en),1.0,,,,1,vermoedelijk wolf,onbekend,Nee,,€ 326.74,52.6721857,6.9910891,2023-11
+2023-11-22,Koekange,Drenthe,Scha(a)p(en),2.0,2.0,,,2,wolf,GW3152m,Nee,,€ 735.58,52.7017754,6.3180238,2023-11
+2023-11-22,Meerveld,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW998f,Nee,,€ 230.03,52.2344429,5.7692385,2023-11
+2023-11-21,Koekange,Drenthe,Scha(a)p(en),3.0,,,,3,wolf,GW3152m,Nee,,€ 878.50,52.7017754,6.3180238,2023-11
+2023-11-20,Makkinga,Fryslân,Scha(a)p(en),,1.0,,1.0,1,wolf,onbekend,Nee,, € -   ,52.9805873,6.2173595,2023-11
+2023-11-20,Putten,Gelderland,Scha(a)p(en),1.0,1.0,,,1,wolf,GW3425m,Nee,,€ 721.86,52.24773005,5.57827393798401,2023-11
+2023-11-20,Makkinga,Fryslân,Scha(a)p(en),2.0,1.0,,,2,wolf,GW2090f?,Nee,,€ 742.54,52.9805873,6.2173595,2023-11
+2023-11-20,Dwingeloo,Drenthe,Scha(a)p(en),11.0,,,1.0,12,wolf,onbekend,Nee,,"€ 3,405.45",52.8333073,6.3669053,2023-11
+2023-11-19,Oldeberkoop,Fryslân,Scha(a)p(en),1.0,,,,1,vermoedelijk wolf,onbekend,Nee,, € -   ,52.9384572,6.1301707,2023-11
+2023-11-19,Steyl,Limburg,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,,€ 108.94,51.3322348,6.1212152,2023-11
+2023-11-16,Putten,Gelderland,Scha(a)p(en),1.0,2.0,,,1,wolf,GW3425m,Nee,,€ 796.23,52.24773005,5.57827393798401,2023-11
+2023-11-16,Uddel,Gelderland,Scha(a)p(en),,1.0,,,0,wolf,GW3814f,Nee,,,52.2593938,5.7840992,2023-11
+2023-11-15,Oldeberkoop,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,,€ 210.03,52.9384572,6.1301707,2023-11
+2023-11-15,Putten,Gelderland,Scha(a)p(en),2.0,4.0,,,2,wolf,GW3425m,Nee,,€ 931.87,52.24773005,5.57827393798401,2023-11
+2023-11-12,Makkinga,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3812m,Nee,,€ 210.03,52.9805873,6.2173595,2023-11
+2023-11-12,Oldeberkoop,Fryslân,Scha(a)p(en),5.0,,,1.0,6,wolf,GW3812m,Nee,,"€ 1,311.26",52.9384572,6.1301707,2023-11
+2023-11-12,Makkinga,Fryslân,Scha(a)p(en),1.0,1.0,,,1,wolf,gemixt profiel,Nee,, € -   ,52.9805873,6.2173595,2023-11
+2023-11-11,Wapserveen,Drenthe,Scha(a)p(en),2.0,1.0,,,2,wolf,GW3815f,"Ja, maar",schaap was door het raster gevlucht,€ 690.09,52.8252174,6.2158906,2023-11
+2023-11-10,Putten,Gelderland,Scha(a)p(en),1.0,2.0,,,1,wolf,GW3816f,Nee,, € -   ,52.24773005,5.57827393798401,2023-11
+2023-11-10,Laag-Keppel,Gelderland,Scha(a)p(en),2.0,1.0,,,2,wolf,GW3645m,Nee,,€ 693.63,51.9969245,6.2220115,2023-11
+2023-11-09,Ede,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW2435m,Nee,,€ 326.74,52.07168255,5.745510631034939,2023-11
+2023-11-08,Ede,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW2435m,Nee,,€ 411.83,52.07168255,5.745510631034939,2023-11
+2023-11-07,Elsloo,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3813m,Nee,,€ 513.46,50.9503183,5.7711166,2023-11
+2023-11-07,Nijkerk,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,,€ 201.68,52.21485365,5.478146323965094,2023-11
+2023-11-07,Kallenkote,Overijssel,Scha(a)p(en),5.0,1.0,2.0,1.0,6,wolf,GW3152m,Nee,,"€ 1,693.60",52.7965731,6.1740658,2023-11
+2023-11-07,Uffelte,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,gemixt profiel,Nee,,€ 270.03,52.7908929,6.2815178,2023-11
+2023-11-07,Angerlo,Gelderland,Scha(a)p(en),,2.0,,,0,wolf,GW3645m,Nee,,€ 783.04,51.995328,6.137023,2023-11
+2023-11-07,Ede,Gelderland,Scha(a)p(en),2.0,,,1.0,3,wolf,GW2435m,Nee,,€ 805.26,52.07168255,5.745510631034939,2023-11
+2023-11-06,Oldeberkoop,Fryslân,Scha(a)p(en),2.0,,,,2,wolf,GW3812m,Nee,,€ 573.63,52.9384572,6.1301707,2023-11
+2023-11-06,Elsloo,Fryslân,Scha(a)p(en),2.0,,,3.0,5,wolf,GW2090f,Nee,,"€ 1,385.45",50.9503183,5.7711166,2023-11
+2023-11-05,Elsloo,Fryslân,Scha(a)p(en),,,,2.0,2,wolf,GW3152m,Nee,,€ 579.01,50.9503183,5.7711166,2023-11
+2023-11-05,Ermelo,Gelderland,Geit(en),,,,1.0,1,wolf,GW2668f,Nee,,€ 233.13,52.2858356,5.654938589920705,2023-11
+2023-11-04,Oldeberkoop,Fryslân,Scha(a)p(en),2.0,,,3.0,5,wolf,GW3812m,Nee,,"€ 1,369.06",52.9384572,6.1301707,2023-11
+2023-11-03,Langbroek,Utrecht,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,,€ 185.03,52.0112919,5.3259739,2023-11
+2023-11-03,Elsloo,Fryslân,Scha(a)p(en),2.0,,1.0,,2,wolf,GW2397m; GW3815f,Nee,,"€ 1,269.71",50.9503183,5.7711166,2023-11
+2023-11-03,Marum,Groningen,Scha(a)p(en),1.0,,,,1,vermoedelijk wolf,onbekend,Nee,,€ 175.03,53.1442439,6.2647308,2023-11
+2023-11-03,Elsloo,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW3812m,Nee,,€ 270.03,50.9503183,5.7711166,2023-11
+2023-11-03,Odoorn,Drenthe,Scha(a)p(en),3.0,,,2.0,5,wolf,gemixt profiel,Nee,,"€ 2,991.79",52.8516104,6.84635,2023-11
+2023-11-03,Elsloo,Fryslân,Scha(a)p(en),4.0,,,,4,wolf,GW2090f,Nee,,€ 995.43,50.9503183,5.7711166,2023-11
+2023-11-03,Vinkega,Fryslân,Scha(a)p(en),1.0,2.0,,1.0,2,vermoedelijk wolf,onbekend,Nee,, € -   ,52.8719582,6.1137183,2023-11
+2023-11-02,Oldeberkoop,Fryslân,Scha(a)p(en),2.0,1.0,,1.0,3,wolf,GW3813m,Nee,,"€ 1,020.47",52.9384572,6.1301707,2023-11
+2023-11-01,Oldeberkoop,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,,€ 220.03,52.9384572,6.1301707,2023-11
+2023-11-01,Oldeberkoop,Fryslân,Scha(a)p(en),2.0,,,,2,wolf,GW3152m,"Ja, maar",afrastering lag gedeeltelijk scheef,"€ 1,928.63",52.9384572,6.1301707,2023-11
+2023-11-01,Heerde,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW2666f,Nee,,€ 295.03,52.4056303,6.0413984003658525,2023-11
+2023-11-01,Appelscha,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW2397m,Nee,,€ 319.44,52.9524178,6.3441136,2023-11
+2023-10-31,Woudenberg,Utrecht,Scha(a)p(en),3.0,4.0,,,3,wolf,GW3425m,Nee,,"€ 1,657.18",52.0805478,5.4134327,2023-10
+2023-10-31,Elsloo,Fryslân,Scha(a)p(en),2.0,1.0,,,2,wolf,GW3152m,Nee,,€ 711.68,50.9503183,5.7711166,2023-10
+2023-10-31,Oldeberkoop,Fryslân,Scha(a)p(en),2.0,2.0,,,2,wolf,onbekend,Nee,,€ 562.86,52.9384572,6.1301707,2023-10
+2023-10-30,Oldeberkoop,Fryslân,Scha(a)p(en),4.0,,,2.0,6,wolf,GW3152m,Nee,,"€ 1,329.29",52.9384572,6.1301707,2023-10
+2023-10-29,Boschoord,Drenthe,Scha(a)p(en),7.0,4.0,,,7,wolf,GW3152m,Ja,,"€ 2,045.86",52.8989883,6.2273919,2023-10
+2023-10-29,Vledder,Drenthe,Scha(a)p(en),1.0,2.0,,,1,wolf,GW3152m,Nee,,€ 254.34,52.8574791,6.2101824,2023-10
+2023-10-29,Elp,Drenthe,Koe(ien),1.0,,,,1,wolf,gemixt profiel,Nee,,€ 650.00,52.8820781,6.6432482,2023-10
+2023-10-27,Oosterwolde,Fryslân,Scha(a)p(en),11.0,2.0,,2.0,13,wolf,GW3152m,Nee,,"€ 3,305.19",52.9892251,6.2908202,2023-10
+2023-10-25,Noordwolde,Fryslân,Scha(a)p(en),2.0,,,,2,wolf,GW3152m,Nee,,€ 781.86,52.8909993,6.1391286,2023-10
+2023-10-25,Veenhuizen,Drenthe,Scha(a)p(en),1.0,,4.0,,1,wolf,onbekend,Nee,,€ 990.03,53.0332173,6.3963672,2023-10
+2023-10-23,Sint Anthonis,Noord-Brabant,Scha(a)p(en),4.0,4.0,,,4,wolf,GW3810f,Nee,,"€ 1,513.81",51.626921,5.8816763,2023-10
+2023-10-22,Langbroek,Utrecht,Scha(a)p(en),3.0,,,,3,wolf,GW3425m?,Nee,,€ 753.63,52.0112919,5.3259739,2023-10
+2023-10-21,Elspeet,Gelderland,Scha(a)p(en),1.0,1.0,,,1,wolf,GW2668f,Nee,,€ 533.01,52.2910649,5.7884632,2023-10
+2023-10-20,Uddel,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW2668f,Nee,,€ 199.84,52.2593938,5.7840992,2023-10
+2023-10-19,Hoog Soeren,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW3155m,Ja,,€ 431.83,52.2185009,5.8732642,2023-10
+2023-10-19,Wapserveen,Drenthe,Pink(en),2.0,,,,2,wolf,GW3152m; gemixt profiel,Nee,,"€ 1,696.42",52.8252174,6.2158906,2023-10
+2023-10-19,Ermelo,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW2668f,Nee,,€ 230.03,52.2858356,5.654938589920705,2023-10
+2023-10-18,Otterlo,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,onbekend,Nee,,  ,52.1015221,5.7720779,2023-10
+2023-10-17,Weiteveen,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,,€ 243.44,52.6721857,6.9910891,2023-10
+2023-10-17,Emst,Gelderland,Scha(a)p(en),5.0,1.0,,,5,wolf,GW998f,Nee,,"€ 1,266.59",52.3182269,5.9759134,2023-10
+2023-10-17,Zwartemeer,Drenthe,Scha(a)p(en),4.0,8.0,1.0,1.0,5,wolf,GW3647f,Nee,,"€ 2,067.19",52.7224507,7.0425992,2023-10
+2023-10-17,Uddel,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW2668f,Nee,,€ 251.66,52.2593938,5.7840992,2023-10
+2023-10-16,Klazienaveen,Drenthe,Geit(en),,,,1.0,1,wolf,GW3647f,Nee,,€ 263.79,52.725393,6.9852072,2023-10
+2023-10-15,Weiteveen,Drenthe,Scha(a)p(en),3.0,1.0,,,3,wolf,GW3647f,Nee,,"€ 1,083.53",52.6721857,6.9910891,2023-10
+2023-10-12,Ermelo,Gelderland,Geit(en),1.0,,,1.0,2,wolf,GW2668f,Nee,,€ 267.31,52.2858356,5.654938589920705,2023-10
+2023-10-07,Uddel,Gelderland,Scha(a)p(en),1.0,,,2.0,3,wolf,GW2668f,Nee,,€ 938.95,52.2593938,5.7840992,2023-10
+2023-10-05,Elsloo,Fryslân,Scha(a)p(en),2.0,,,2.0,4,wolf,GW2090f,Nee,,€ 994.66,50.9503183,5.7711166,2023-10
+2023-10-04,Elsloo,Fryslân,Scha(a)p(en),2.0,,,,2,wolf,GW2090f,Nee,,€ 633.63,50.9503183,5.7711166,2023-10
+2023-10-04,Makkinga,Fryslân,Scha(a)p(en),,,,2.0,2,wolf,GW2090f?,Nee,,€ 585.86,52.9805873,6.2173595,2023-10
+2023-10-04,Uddel,Gelderland,Scha(a)p(en),2.0,,,1.0,3,wolf,GW2668f,Nee,,€ 690.06,52.2593938,5.7840992,2023-10
+2023-10-03,Smilde,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW2397m,Nee,,€ 270.03,52.9509174,6.4510463,2023-10
+2023-09-30,Wapserveen,Drenthe,Scha(a)p(en),,,,1.0,1,wolf,GW2090f,Ja,,€ 331.80,52.8252174,6.2158906,2023-09
+2023-09-30,Woudenberg,Utrecht,Scha(a)p(en),5.0,2.0,,3.0,8,wolf,GW3425m,Nee,,"€ 1,649.30",52.0805478,5.4134327,2023-09
+2023-09-27,Veenhuizen,Drenthe,Scha(a)p(en),6.0,4.0,,1.0,7,wolf,GW3152m?,Nee,,"€ 2,824.46",53.0332173,6.3963672,2023-09
+2023-09-27,Oldeberkoop,Fryslân,Scha(a)p(en),1.0,2.0,,,1,wolf,GW2090f,Nee,,€ 390.78,52.9384572,6.1301707,2023-09
+2023-09-27,Elspeet,Gelderland,Scha(a)p(en),1.0,,,1.0,2,wolf,GW2668f,Nee,,€ 546.69,52.2910649,5.7884632,2023-09
+2023-09-25,Coevorden,Drenthe,Paard(en),,1.0,,,0,wolf,onbekend,Nee,, € -   ,52.6612281,6.7407359,2023-09
+2023-09-24,Elspeet,Gelderland,Scha(a)p(en),1.0,1.0,,,1,wolf,GW2668f,Nee,,€ 213.24,52.2910649,5.7884632,2023-09
+2023-09-24,Elspeet,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW893m,Nee,,€ 254.34,52.2910649,5.7884632,2023-09
+2023-09-24,Elspeet,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,,€ 270.03,52.2910649,5.7884632,2023-09
+2023-09-24,Epe,Gelderland,Scha(a)p(en),1.0,,,,1,vermoedelijk wolf,onbekend,Nee,,€ 254.34,52.3270371,5.963194502074892,2023-09
+2023-09-23,Appelscha,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW2397m,Nee,,€ 230.03,52.9524178,6.3441136,2023-09
+2023-09-23,Uddel,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW2668f?,Nee,,€ 199.84,52.2593938,5.7840992,2023-09
+2023-09-22,Vledder,Drenthe,Scha(a)p(en),3.0,,,2.0,5,wolf,GW2090f; GW3152m; gemixt profiel,Nee,,"€ 1,402.07",52.8574791,6.2101824,2023-09
+2023-09-22,Uddel,Gelderland,Scha(a)p(en),4.0,1.0,,2.0,6,wolf,GW893m; gemixt profiel,Nee,,"€ 1,619.98",52.2593938,5.7840992,2023-09
+2023-09-21,Emst,Gelderland,Scha(a)p(en),1.0,1.0,,,1,wolf,GW3238m,Nee,,€ 634.47,52.3182269,5.9759134,2023-09
+2023-09-21,Emst,Gelderland,Scha(a)p(en),2.0,2.0,,,2,wolf,GW893m,Nee,,€ 770.13,52.3182269,5.9759134,2023-09
+2023-09-21,Emst,Gelderland,Scha(a)p(en),2.0,,,3.0,5,wolf,GW893m; GW998f; gemixt profiel,Nee,,"€ 1,185.02",52.3182269,5.9759134,2023-09
+2023-09-20,Oldeberkoop,Fryslân,Scha(a)p(en),2.0,4.0,,1.0,3,wolf,GW2397m; gemixt profiel,Nee,,€ 881.03,52.9384572,6.1301707,2023-09
+2023-09-19,Boijl,Fryslân,Scha(a)p(en),3.0,,,2.0,5,wolf,GW3152m,Nee,,"€ 1,037.37",52.9095907,6.1999729,2023-09
+2023-09-19,Ermelo,Gelderland,Scha(a)p(en),2.0,1.0,,,2,wolf,GW2668f,Nee,,€ 862.17,52.2858356,5.654938589920705,2023-09
+2023-09-18,Emst,Gelderland,Scha(a)p(en),3.0,,,,3,wolf,GW3238m,Nee,,€ 483.63,52.3182269,5.9759134,2023-09
+2023-09-18,Uddel,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW2668f,Nee,,€ 254.34,52.2593938,5.7840992,2023-09
+2023-09-18,Emst,Gelderland,Scha(a)p(en),6.0,1.0,,3.0,9,wolf,GW3155m; gemixt profiel,Nee,,"€ 1,677.89",52.3182269,5.9759134,2023-09
+2023-09-17,Ravenswoud,Fryslân,Scha(a)p(en),2.0,,,5.0,7,wolf,GW2090f,Nee,,"€ 2,783.32",52.9645683,6.3799002,2023-09
+2023-09-17,Emst,Gelderland,Scha(a)p(en),,5.0,,,0,wolf,GW893m; GW3238m,Nee,,"€ 1,889.71",52.3182269,5.9759134,2023-09
+2023-09-16,Hilversum,Noord-Holland,Schotse Hooglander,1.0,,,,1,wolf,GW3237m,Nee,,€ 698.68,52.2241375,5.1719396,2023-09
+2023-09-16,Uddel,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,onbekend,Nee,,€ 431.83,52.2593938,5.7840992,2023-09
+2023-09-15,Langbroek,Utrecht,Scha(a)p(en),3.0,,,,3,vermoedelijk wolf,onbekend,Nee,,€ 633.63,52.0112919,5.3259739,2023-09
+2023-09-14,Schalkwijk,Utrecht,Scha(a)p(en),3.0,2.0,,,3,wolf,GW3425m,Nee,,€ 553.63,51.9931917,5.1907825,2023-09
+2023-09-14,Elspeet,Gelderland,Pony('s),1.0,,,,1,wolf,GW2668f,Nee,,€ 261.67,52.2910649,5.7884632,2023-09
+2023-09-14,Kallenkote,Overijssel,Scha(a)p(en),1.0,0.0,0.0,1.0,2,vermoedelijk wolf,onbekend,Nee,,€ 730.92,52.7965731,6.1740658,2023-09
+2023-09-14,Epe,Gelderland,Scha(a)p(en),7.0,,1.0,1.0,8,wolf,GW893m; gemixt profiel,Nee,,"€ 1,855.69",52.3270371,5.963194502074892,2023-09
+2023-09-14,Uddel,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW2668f,Nee,,€ 254.34,52.2593938,5.7840992,2023-09
+2023-09-14,Uddel,Gelderland,Scha(a)p(en),1.0,,,1.0,2,wolf,GW2668f,Nee,,€ 529.63,52.2593938,5.7840992,2023-09
+2023-09-13,Vledder,Drenthe,Scha(a)p(en),3.0,,,,3,wolf,GW2090f; GW2397m; gemixt profiel,Nee,,"€ 1,235.43",52.8574791,6.2101824,2023-09
+2023-09-13,Ermelo,Gelderland,Scha(a)p(en),1.0,,,1.0,2,wolf,GW2668f,Nee,,€ 666.97,52.2858356,5.654938589920705,2023-09
+2023-09-13,Schoonloo,Drenthe,Pink(en),1.0,,,,1,wolf,gemixt profiel,Nee,,€ 928.58,52.9053531,6.7016543,2023-09
+2023-09-12,Dwingeloo,Drenthe,Scha(a)p(en),2.0,1.0,,,2,wolf,GW2397m,Nee,,"€ 1,093.73",52.8333073,6.3669053,2023-09
+2023-09-12,Follega,Fryslân,Scha(a)p(en),1.0,4.0,,,1,wolf,onbekend,Nee,,"€ 1,234.37",52.88459415,5.720320774614152,2023-09
+2023-09-12,Ermelo,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW2668f,Nee,,€ 180.03,52.2858356,5.654938589920705,2023-09
+2023-09-11,Elspeet,Gelderland,Scha(a)p(en),2.0,,,3.0,5,wolf,GW2668f,Nee,,"€ 1,180.75",52.2910649,5.7884632,2023-09
+2023-09-11,Kallenkote,Overijssel,Scha(a)p(en),3.0,1.0,0.0,0.0,3,wolf,GW2397m,Nee,,€ 753.63,52.7965731,6.1740658,2023-09
+2023-09-10,Langbroek,Utrecht,Scha(a)p(en),1.0,,,,1,wolf,GW3425m,Nee,,€ 230.03,52.0112919,5.3259739,2023-09
+2023-09-10,Wittelte,Drenthe,Pink(en),,,,1.0,1,wolf,GW3152m,Nee,,€ 975.57,52.8267818,6.297915941704707,2023-09
+2023-09-09,Driebergen-Rijsenburg,Utrecht,Scha(a)p(en),9.0,1.0,1.0,2.0,11,wolf,onbekend,Nee,,"€ 2,275.23",52.0522872,5.2834752,2023-09
+2023-09-09,Vledder,Drenthe,Scha(a)p(en),3.0,1.0,,3.0,6,wolf,GW3152m,Nee,,"€ 1,725.47",52.8574791,6.2101824,2023-09
+2023-09-08,Elspeet,Gelderland,Scha(a)p(en),4.0,,,,4,wolf,GW3238m?; gemixt profiel,Nee,,€ 694.69,52.2910649,5.7884632,2023-09
+2023-09-06,Wittelte,Drenthe,Koe(ien),,,,1.0,1,wolf,GW3152m,Nee,,"€ 1,977.34",52.8267818,6.297915941704707,2023-09
+2023-09-06,Elspeet,Gelderland,Scha(a)p(en),2.0,1.0,,,2,wolf,GW2668f,Nee,,€ 750.24,52.2910649,5.7884632,2023-09
+2023-09-06,Dwingeloo,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,,€ 205.03,52.8333073,6.3669053,2023-09
+2023-09-05,Oldeberkoop,Fryslân,Scha(a)p(en),1.0,,4.0,,1,wolf,GW3152m,Nee,,€ 790.03,52.9384572,6.1301707,2023-09
+2023-09-05,Driebergen-Rijsenburg,Utrecht,Scha(a)p(en),9.0,4.0,9.0,,9,wolf,GW3237m,Nee,,"€ 2,199.83",52.0522872,5.2834752,2023-09
+2023-09-05,Elspeet,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW2668f,Nee,,€ 254.34,52.2910649,5.7884632,2023-09
+2023-09-05,Elspeet,Gelderland,Scha(a)p(en),1.0,,,,1,wolf,GW2668f,Nee,,€ 230.03,52.2910649,5.7884632,2023-09
+2023-09-05,Elspeet,Gelderland,Scha(a)p(en),1.0,2.0,,,1,wolf,GW2668f,Nee,,€ 254.33,52.2910649,5.7884632,2023-09
+2023-09-04,Darp,Drenthe,Scha(a)p(en),2.0,,,5.0,7,wolf,GW2090f; GW2397m?,"Ja, maar",Afrastering op twee plekken beschadigd. Eén paal geheel los.,"€ 2,257.20",52.7751894,6.2041078,2023-09
+2023-09-03,Doldersum,Drenthe,Scha(a)p(en),13.0,,,,13,wolf,GW3152m,Nee,,"€ 2,601.63",52.8853046,6.2459153,2023-09
+2023-09-03,Kallenkote,Overijssel,Scha(a)p(en),3.0,,,1.0,4,wolf,GW2397m; GW3152m; gemixt profiel,Nee,,"€ 1,057.15",52.7965731,6.1740658,2023-09
+2023-09-03,Kallenkote,Overijssel,Scha(a)p(en),3.0,0.0,2.0,1.0,4,wolf,GW2397m,Nee,,"€ 1,537.20",52.7965731,6.1740658,2023-09
+2023-09-03,Ermelo,Gelderland,Scha(a)p(en),1.0,,,2.0,3,wolf,GW2668f,Nee,,€ 578.59,52.2858356,5.654938589920705,2023-09
+2023-09-02,Boijl,Fryslân,Minipaard,1.0,0.0,0.0,0.0,1,wolf,GW2397m,Nee,,"€ 1,351.67",52.9095907,6.1999729,2023-09
+2023-09-01,Uddel,Gelderland,Scha(a)p(en),2.0,1.0,0.0,0.0,2,vermoedelijk wolf,onbekend,Nee,,€ 411.83,52.2593938,5.7840992,2023-09
+2023-09-01,Ermelo,Gelderland,Scha(a)p(en),4.0,0.0,0.0,2.0,6,wolf,GW2668f,Nee,,"€ 1,066.38",52.2858356,5.654938589920705,2023-09
+2023-08-31,Elspeet,Gelderland,Scha(a)p(en),1.0,0.0,0.0,2.0,3,wolf,GW2668f,Nee,,€ 575.64,52.2910649,5.7884632,2023-08
+2023-08-30,Kallenkote,Overijssel,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW3541m,Nee,,€ 511.83,52.7965731,6.1740658,2023-08
+2023-08-30,Appelscha,Fryslân,Scha(a)p(en),3.0,5.0,0.0,6.0,9,wolf,GW3152m,Nee,,"€ 1,801.33",52.9524178,6.3441136,2023-08
+2023-08-30,Wapserveen,Drenthe,Scha(a)p(en),1.0,0.0,0.0,2.0,3,wolf,GW2397m,Nee,,€ 772.72,52.8252174,6.2158906,2023-08
+2023-08-29,Ermelo,Gelderland,Scha(a)p(en),0.0,1.0,0.0,3.0,3,wolf,GW2668f?,Nee,,"€ 1,386.92",52.2858356,5.654938589920705,2023-08
+2023-08-28,Elspeet,Gelderland,Scha(a)p(en),2.0,1.0,0.0,1.0,3,wolf,GW2668f,Nee,,€ 856.65,52.2910649,5.7884632,2023-08
+2023-08-28,Witteveen,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 179.41,52.8142057,6.6609481,2023-08
+2023-08-28,Emst,Gelderland,Scha(a)p(en),3.0,0.0,0.0,1.0,4,wolf,GW998f,Nee,,€ 502.05,52.3182269,5.9759134,2023-08
+2023-08-27,Elspeet,Gelderland,Scha(a)p(en),2.0,2.0,0.0,3.0,5,wolf,GW2668f?,Nee,,"€ 1,253.02",52.2910649,5.7884632,2023-08
+2023-08-26,Elsloo,Fryslân,Scha(a)p(en),1.0,1.0,2.0,1.0,2,wolf,GW3152m,Nee,,€ 955.52,50.9503183,5.7711166,2023-08
+2023-08-26,Uddel,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW893m; gemixt profiel,Nee,,€ 199.84,52.2593938,5.7840992,2023-08
+2023-08-25,Uddel,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 199.84,52.2593938,5.7840992,2023-08
+2023-08-25,Elsloo,Fryslân,Scha(a)p(en),1.0,0.0,0.0,1.0,2,wolf,GW2090f,Nee,,€ 540.10,50.9503183,5.7711166,2023-08
+2023-08-23,Appelscha,Fryslân,Scha(a)p(en),4.0,0.0,0.0,2.0,6,wolf,GW2397m,Nee,,"€ 1,252.31",52.9524178,6.3441136,2023-08
+2023-08-22,Appelscha,Fryslân,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2397m,Nee,,€ 230.03,52.9524178,6.3441136,2023-08
+2023-08-22,Ermelo,Gelderland,Scha(a)p(en),1.0,3.0,0.0,0.0,1,wolf,GW2668f?,Nee,,€ 626.75,52.2858356,5.654938589920705,2023-08
+2023-08-19,Boijl,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW2397m,Nee,,€ 180.03,52.9095907,6.1999729,2023-08
+2023-08-17,Fochteloo,Fryslân,Scha(a)p(en),1.0,2.0,,4.0,5,wolf,GW2397m; gemixt profiel,Nee,,"€ 1,556.90",52.993346,6.3346246,2023-08
+2023-08-16,Ermelo,Gelderland,Scha(a)p(en),4.0,,,1.0,5,wolf,GW2668f,Nee,,"€ 1,078.28",52.2858356,5.654938589920705,2023-08
+2023-08-15,Jubbega,Fryslân,Koe(ien),1.0,,,,1,wolf,GW3152m,Nee,,"€ 1,448.68",53.0033704,6.1220155,2023-08
+2023-08-15,Ermelo,Gelderland,Scha(a)p(en),5.0,2.0,,3.0,8,wolf,GW2668f,Nee,,"€ 1,690.49",52.2858356,5.654938589920705,2023-08
+2023-08-14,Kallenkote,Overijssel,Scha(a)p(en),2.0,0.0,1.0,0.0,2,wolf,onbekend,Nee,,€ 631.83,52.7965731,6.1740658,2023-08
+2023-08-13,Vledder,Drenthe,Scha(a)p(en),1.0,,,1.0,2,wolf,GW2397m,Nee,,€ 587.52,52.8574791,6.2101824,2023-08
+2023-08-12,Appelscha,Fryslân,Scha(a)p(en),2.0,,1.0,,2,wolf,GW2397m,Nee,,€ 511.83,52.9524178,6.3441136,2023-08
+2023-08-10,Ermelo,Gelderland,Scha(a)p(en),2.0,2.0,1.0,,2,wolf,GW2668f,Nee,,€ 952.45,52.2858356,5.654938589920705,2023-08
+2023-08-09,Kallenkote,Overijssel,Scha(a)p(en),8.0,0.0,0.0,8.0,16,wolf,GW2397m; GW3152m,Nee,,"€ 4,337.18",52.7965731,6.1740658,2023-08
+2023-08-07,Peize,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,,€ 435.03,53.148934,6.4933571,2023-08
+2023-08-07,Noordwolde,Fryslân,Scha(a)p(en),2.0,1.0,,,2,wolf,GW2090f,Nee,,€ 425.46,52.8909993,6.1391286,2023-08
+2023-08-07,Elsloo,Fryslân,Scha(a)p(en),,,,2.0,2,wolf,GW2397m,Nee,,€ 585.61,50.9503183,5.7711166,2023-08
+2023-08-04,Vledderveen,Drenthe,Koe(ien),1.0,,,,1,wolf,onbekend,Nee,,€ 848.68,52.8768553,6.1880842,2023-08
+2023-08-04,Dwingeloo,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW2397m,Nee,,€ 230.03,52.8333073,6.3669053,2023-08
+2023-08-03,Dwingeloo,Drenthe,Scha(a)p(en),2.0,,,,2,wolf,GW2397m,Nee,,€ 431.83,52.8333073,6.3669053,2023-08
+2023-08-03,Boijl,Fryslân,Pony('s),1.0,,,,1,wolf,onbekend,Nee,,€ 588.67,52.9095907,6.1999729,2023-08
+2023-08-01,Elp,Drenthe,Veulen,,,,1.0,1,vermoedelijk wolf,onbekend,Nee,,"€ 5,684.02",52.8820781,6.6432482,2023-08
+2023-07-31,Wittelte,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW2397m,Nee,,€ 230.03,52.8267818,6.297915941704707,2023-07
+2023-07-28,Appelscha,Fryslân,Scha(a)p(en); Geit(en),1.0,1.0,,,1,wolf,GW2397m,Nee,,€ 426.87,52.9524178,6.3441136,2023-07
+2023-07-25,Wateren,Drenthe,Scha(a)p(en),2.0,,,3.0,5,wolf,GW2397m,Nee,,"€ 1,982.57",52.9061348,6.2889409,2023-07
+2023-07-25,Boijl,Fryslân,Scha(a)p(en),2.0,1.0,,,2,wolf,onbekend,Nee,,€ 474.51,52.9095907,6.1999729,2023-07
+2023-07-18,Eesveen,Overijssel,Scha(a)p(en),3.0,0.0,0.0,1.0,4,wolf,onbekend,Nee,,"€ 1,056.96",52.824671,6.1418966,2023-07
+2023-07-17,Wapserveen,Drenthe,Scha(a)p(en),5.0,6.0,,,5,wolf,onbekend,"Ja, maar",Gat aan de onderkant van 30 cm,"€ 1,638.93",52.8252174,6.2158906,2023-07
+2023-07-16,Wittelte,Drenthe,Scha(a)p(en),4.0,3.0,,,4,wolf,GW2397m; GW3152m,Nee,,€ 612.35,52.8267818,6.297915941704707,2023-07
+2023-07-13,Vledder,Drenthe,Scha(a)p(en),4.0,,,,4,wolf,GW2090f,Nee,,"€ 1,241.87",52.8574791,6.2101824,2023-07
+2023-07-09,Heeze,Noord-Brabant,Scha(a)p(en),1.0,,,,1,wolf,GW1625m,Ja,,€ 180.03,51.3832098,5.5715902,2023-07
+2023-07-09,Wapse,Drenthe,Scha(a)p(en); Geit(en),1.0,1.0,,2.0,3,wolf,GW3151m,Ja,,"€ 1,112.09",52.8592652,6.2669921,2023-07
+2023-07-08,Dwingeloo,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,onbekend,Nee,,€ 230.03,52.8333073,6.3669053,2023-07
+2023-07-04,Doldersum,Drenthe,Scha(a)p(en),7.0,1.0,,,7,wolf,GW2397m,Nee,,"€ 1,242.63",52.8853046,6.2459153,2023-07
+2023-07-03,Elsloo,Fryslân,Scha(a)p(en),1.0,2.0,1.0,2.0,3,wolf,GW2397m; GW3151m,Nee,,€ 905.82,50.9503183,5.7711166,2023-07
+2023-06-29,Zeijen,Drenthe,Scha(a)p(en),7.0,4.0,,5.0,12,wolf,GW3152m?,Nee,,"€ 3,110.34",53.0495004,6.5459547,2023-06
+2023-06-27,Elp,Drenthe,Koe(ien),1.0,,,,1,wolf,GW3011f; GW3250m,Nee,,€ 548.68,52.8820781,6.6432482,2023-06
+2023-06-24,Elsloo,Fryslân,Scha(a)p(en),2.0,2.0,,,2,wolf,GW3151m,Nee,,€ 965.75,50.9503183,5.7711166,2023-06
+2023-06-20,Appelscha,Fryslân,Scha(a)p(en),3.0,2.0,,2.0,5,wolf,GW3152m?,Nee,,"€ 1,728.20",52.9524178,6.3441136,2023-06
+2023-06-15,Eldersloo,Drenthe,Kalf,1.0,1.0,,,1,vermoedelijk wolf,onbekend,Nee,,"€ 1,248.68",52.9623386,6.61612809283382,2023-06
+2023-06-15,Hulshorst,Gelderland,Scha(a)p(en),1.0,,,,1,vermoedelijk wolf,onbekend,Nee,,€ 199.83,52.3607721,5.7205644,2023-06
+2023-06-07,Leende,Noord-Brabant,Scha(a)p(en),2.0,,,,2,wolf,GW1625m,Nee,,€ 181.83,51.3484037,5.5518897,2023-06
+2023-06-07,Hoenderloo,Gelderland,Scha(a)p(en),3.0,2.0,,,3,wolf,GW2540f,Ja,,€ 513.66,52.1141703,5.852781487264155,2023-06
+2023-06-06,Uffelte,Drenthe,Schotse Hooglander (kalf),2.0,,1.0,,2,vermoedelijk wolf,onbekend,Nee,,€ 484.61,52.7908929,6.2815178,2023-06
+2023-06-05,Driebergen-Rijsenburg,Utrecht,Scha(a)p(en),,,,1.0,1,wolf,GW3237m,Nee,,€ 130.03,52.0522872,5.2834752,2023-06
+2023-06-04,Driebergen-Rijsenburg,Utrecht,Scha(a)p(en),2.0,,,3.0,5,wolf,GW3237m,Nee,,€ 377.23,52.0522872,5.2834752,2023-06
+2023-06-03,Wapserveen,Drenthe,Scha(a)p(en),3.0,7.0,3.0,1.0,4,wolf,GW3152m,"Ja, maar",Voldeed op verschillende plekken niet aan de eisen,"€ 1,603.43",52.8252174,6.2158906,2023-06
+2023-05-31,Appelscha,Fryslân,Scha(a)p(en),8.0,3.0,,10.0,18,wolf,GW3151m,Nee,,"€ 4,229.49",52.9524178,6.3441136,2023-05
+2023-05-30,Wapserveen,Drenthe,Scha(a)p(en),1.0,,1.0,2.0,3,wolf,GW3152m,Nee,,"€ 1,401.23",52.8252174,6.2158906,2023-05
+2023-05-27,Wapserveen,Drenthe,Pony('s),1.0,0.0,0.0,0.0,1,wolf,GW2397m,Nee,,€ 498.63,52.8252174,6.2158906,2023-05
+2023-05-24,Someren,Noord-Brabant,Kalf,1.0,,,,1,wolf,onbekend,Nee,,€ 481.42,51.38632235,5.688884477579495,2023-05
+2023-05-23,Boijl,Fryslân,Scha(a)p(en),3.0,,,2.0,5,wolf,GW2397m,Nee,,"€ 1,032.76",52.9095907,6.1999729,2023-05
+2023-05-22,Ruinen,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW3151m?,Nee,,€ 250.73,52.7878608,6.380415464145301,2023-05
+2023-05-18,Hooghalen,Drenthe,Pony('s),1.0,,,,1,wolf,GW3151m,Nee,,€ 588.67,52.9207884,6.5416331,2023-05
+2023-05-16,Elp,Drenthe,Kalf,1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 300.00,52.8820781,6.6432482,2023-05
+2023-05-15,Ansen,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 130.03,52.7826906,6.3335645,2023-05
+2023-05-15,Ruinen,Drenthe,Scha(a)p(en),1.0,,,,1,vermoedelijk wolf,onbekend,Nee,,€ 196.23,52.7878608,6.380415464145301,2023-05
+2023-05-13,Ruinerwold,Drenthe,Scha(a)p(en),6.0,0.0,0.0,1.0,7,wolf,GW3152m?,Nee,,"€ 2,463.69",52.7216745,6.2459797,2023-05
+2023-05-12,Someren,Noord-Brabant,Scha(a)p(en),1.0,,,,1,wolf,GW1625m,Nee,,€ 230.03,51.38632235,5.688884477579495,2023-05
+2023-05-12,Hooghalen,Drenthe,Scha(a)p(en),9.0,6.0,,,9,wolf,GW3151m,Nee,,"€ 5,005.44",52.9207884,6.5416331,2023-05
+2023-05-08,Donderen,Drenthe,Scha(a)p(en),5.0,0.0,0.0,0.0,5,wolf,onbekend,Nee,,€ 687.96,53.0960498,6.5457518,2023-05
+2023-05-07,Orvelte,Drenthe,Kalf,0.0,0.0,0.0,1.0,1,wolf,GW3250m,Nee,,"€ 1,154.76",52.8431902,6.6588981,2023-05
+2023-05-07,Someren,Noord-Brabant,Schotse Hooglander (kalf),1.0,,,,1,wolf,onbekend,Nee,,€ 481.42,51.38632235,5.688884477579495,2023-05
+2023-04-29,Bronneger,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2864m,Nee,,€ 913.61,52.9448924,6.809605638795507,2023-04
+2023-04-28,Opheusden,Gelderland,Scha(a)p(en),5.0,0.0,0.0,0.0,5,wolf,GW3237m,Nee,,€ 957.23,51.9260391,5.6374111,2023-04
+2023-04-28,Bovensmilde,Drenthe,Scha(a)p(en),3.0,1.0,0.0,4.0,7,wolf,GW3151m,Nee,,"€ 1,852.02",52.9760223,6.4814495,2023-04
+2023-04-27,Wapse,Drenthe,Pink,0.0,0.0,0.0,1.0,1,wolf,onbekend,Nee,,"€ 1,786.34",52.8592652,6.2669921,2023-04
+2023-04-27,Orvelte,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 230.03,52.8431902,6.6588981,2023-04
+2023-04-25,Laren,Gelderland,Scha(a)p(en),0.0,0.0,0.0,1.0,1,wolf,GW3240m,Nee,,€ 383.38,52.24253135,5.216243996233833,2023-04
+2023-04-23,Ysselsteyn,Limburg,Scha(a)p(en),5.0,0.0,0.0,0.0,5,wolf,GW2935m,Nee,,"€ 1,586.46",51.4899045,5.8961579,2023-04
+2023-04-23,Orvelte,Drenthe,Scha(a)p(en),4.0,0.0,0.0,1.0,5,wolf,GW2864m,Nee,,"€ 1,313.65",52.8431902,6.6588981,2023-04
+2023-04-20,Balkbrug,Overijssel,Paard(en),0.0,1.0,0.0,0.0,0,vermoedelijk wolf,onbekend,Nee,,"€ 1,222.51",52.5994353,6.3929761,2023-04
+2023-04-20,Grolloo,Drenthe,Scha(a)p(en),2.0,3.0,,,2,wolf,GW2864m,"Ja, maar",Paaltje was gebroken,"€ 1,238.51",52.936205,6.6727367,2023-04
+2023-04-20,Lieren,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2540f,Nee,,€ 227.08,52.1618915,5.9877177,2023-04
+2023-04-19,Beekbergen,Gelderland,Scha(a)p(en),1.0,0.0,1.0,0.0,1,wolf,GW2540f,Nee,,€ 363.33,52.1592697,5.9637625,2023-04
+2023-04-17,Odoorn,Drenthe,Scha(a)p(en),0.0,0.0,0.0,1.0,1,wolf,GW2864m,Nee,,€ 130.03,52.8516104,6.84635,2023-04
+2023-04-16,Wapserveen,Drenthe,Pony('s),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 398.63,52.8252174,6.2158906,2023-04
+2023-04-06,Pannerden,Gelderland,Kalf,1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 100.00,51.8905258,6.0367585,2023-04
+2023-04-06,Appelscha,Fryslân,Scha(a)p(en),3.0,0.0,0.0,1.0,4,wolf,GW3151m; GW2090f,Nee,,"€ 1,145.95",52.9524178,6.3441136,2023-04
+2023-04-05,Hattem,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 574.07,52.4767117,6.061913261141655,2023-04
+2023-04-04,Hellendoorn,Overijssel,Scha(a)p(en),1.0,2.0,0.0,0.0,1,wolf,GW3243f,Nee,,€ 359.97,52.39046275,6.451511548705841,2023-04
+2023-04-01,Geesteren,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW3243f,Nee,,€ 463.18,52.1392401,6.5255713,2023-04
+2023-04-01,Geesteren,Overijssel,Scha(a)p(en),3.0,0.0,0.0,4.0,7,wolf,onbekend,Nee,,"€ 1,634.75",52.1392401,6.5255713,2023-04
+2023-03-28,Maarheeze,Noord-Brabant,Scha(a)p(en),2.0,1.0,0.0,0.0,2,wolf,GW1625m,"Ja, maar",Dieren waren uitgebroken,€ 333.63,51.3121159,5.6158604,2023-03
+2023-03-27,Ruurlo,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2807m,Nee,,€ 254.33,52.087683,6.4493595,2023-03
+2023-03-24,Wolfheze,Gelderland,Scha(a)p(en),15.0,0.0,0.0,3.0,18,wolf,GW2435m,Nee,,"€ 5,059.04",52.0056717,5.7923944,2023-03
+2023-03-20,Lunteren,Gelderland,Scha(a)p(en),7.0,1.0,0.0,1.0,8,wolf,GW2435m,Nee,,"€ 2,101.50",52.0864617,5.6190737,2023-03
+2023-03-17,Dwingeloo,Drenthe,Scha(a)p(en),7.0,1.0,,2.0,9,wolf,onbekend,Nee,,"€ 2,838.46",52.8333073,6.3669053,2023-03
+2023-03-16,Baexem,Limburg,Scha(a)p(en),3.0,0.0,0.0,0.0,3,wolf,GW2807m,Nee,,€ 753.63,51.2261401,5.8831207,2023-03
+2023-03-15,Schoonebeek,Drenthe,Scha(a)p(en),3.0,0.0,0.0,0.0,3,wolf,GW3242f,Nee,,€ 673.63,52.6642696,6.8847692,2023-03
+2023-03-15,Langedijke,Fryslân,Scha(a)p(en),5.0,0.0,1.0,11.0,16,wolf,GW3151m; GW2090f?,Nee,,"€ 2,451.09",52.9637274,6.2793695,2023-03
+2023-03-12,Wapserveen,Drenthe,Scha(a)p(en),2.0,0.0,0.0,1.0,3,wolf,GW3151m,Nee,,€ 747.01,52.8252174,6.2158906,2023-03
+2023-03-11,Wapserveen,Drenthe,Pony('s),1.0,0.0,0.0,0.0,1,wolf,GW3151m; GW2397m,Nee,,€ 425.17,52.8252174,6.2158906,2023-03
+2023-03-10,Nederweert,Limburg,Damhert(en),2.0,0.0,1.0,0.0,2,wolf,onbekend,Nee,,€ 857.09,51.2918913,5.74814642346813,2023-03
+2023-03-09,Appelscha,Fryslân,Scha(a)p(en),4.0,0.0,0.0,1.0,5,wolf,GW2090f,Nee,,"€ 1,037.92",52.9524178,6.3441136,2023-03
+2023-03-07,Vledder,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW3152m,Nee,,€ 297.94,52.8574791,6.2101824,2023-03
+2023-03-06,Klarenbeek,Gelderland,Scha(a)p(en),3.0,0.0,0.0,0.0,3,wolf,GW2540f,Nee,,€ 858.19,52.17158905,6.083926864345637,2023-03
+2023-03-05,Makkinga,Fryslân,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW3151m,Nee,,€ 280.03,52.9805873,6.2173595,2023-03
+2023-03-05,Doldersum,Drenthe,Scha(a)p(en),1.0,1.0,0.0,0.0,1,wolf,GW3152m,Nee,,€ 414.42,52.8853046,6.2459153,2023-03
+2023-03-05,Nijeberkoop,Fryslân,Scha(a)p(en),3.0,0.0,1.0,5.0,8,wolf,GW2090f,Nee,,"€ 2,412.14",52.9588643,6.1904235,2023-03
+2023-03-04,Lieren,Gelderland,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW2540f,Nee,,€ 338.26,52.1618915,5.9877177,2023-03
+2023-03-03,Nijeberkoop,Fryslân,Scha(a)p(en),2.0,0.0,0.0,1.0,3,wolf,GW3151m; GW2397m?,Nee,,€ 926.54,52.9588643,6.1904235,2023-03
+2023-03-01,Nederweert,Limburg,Scha(a)p(en),2.0,3.0,0.0,2.0,4,wolf,GW1625m,Nee,,€ 525.67,51.2918913,5.74814642346813,2023-03
+2023-03-01,Jubbega,Fryslân,Scha(a)p(en),1.0,0.0,0.0,1.0,2,wolf,GW3152m,Nee,,€ 673.92,53.0033704,6.1220155,2023-03
+2023-03-01,Haaksbergen,Overijssel,Scha(a)p(en),3.0,0.0,0.0,1.0,4,wolf,GW2936f,Nee,,€ 841.64,52.16212075,6.775353827101859,2023-03
+2023-02-28,Jubbega,Fryslân,Scha(a)p(en),2.0,2.0,0.0,0.0,2,wolf,GW3152m?,Nee,,€ 775.24,53.0033704,6.1220155,2023-02
+2023-02-28,Dwingeloo,Drenthe,Scha(a)p(en),15.0,1.0,0.0,0.0,15,wolf,GW3151m,Nee,,"€ 3,683.46",52.8333073,6.3669053,2023-02
+2023-02-26,Eibergen,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2936f,Nee,,€ 297.93,52.1032685,6.6511683,2023-02
+2023-02-23,Wapserveen,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW3152m,Nee,,€ 295.26,52.8252174,6.2158906,2023-02
+2023-02-22,Wapse,Drenthe,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW3152m,"Ja, maar",Raster was op een plek kapot,€ 540.06,52.8592652,6.2669921,2023-02
+2023-02-22,Gastel,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 254.34,51.2851283,5.5562736,2023-02
+2023-02-20,Dwingeloo,Drenthe,Scha(a)p(en),9.0,3.0,0.0,2.0,11,wolf,GW2090f,Nee,,"€ 2,041.26",52.8333073,6.3669053,2023-02
+2023-02-17,Boijl,Fryslân,Shetland Pony,1.0,1.0,0.0,0.0,1,wolf,GW3152m,Nee,,"€ 2,877.67",52.9095907,6.1999729,2023-02
+2023-02-15,Nederweert,Limburg,Damhert(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 332.66,51.2918913,5.74814642346813,2023-02
+2023-02-15,Emst,Gelderland,Scha(a)p(en),3.0,0.0,0.0,0.0,3,wolf,GW2540f,Nee,,€ 781.86,52.3182269,5.9759134,2023-02
+2023-02-13,Lierop,Noord-Brabant,Scha(a)p(en),4.0,0.0,0.0,1.0,5,vermoedelijk wolf,onbekend,"Ja, maar",Stroomdraad aan binnenkant raster,"€ 1,552.72",51.4193964,5.6813387,2023-02
+2023-02-13,Lierop,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,1.0,2,wolf,GW1625m,"Ja, maar",Stroomdraad aan binnenkant raster,"€ 2,764.44",51.4193964,5.6813387,2023-02
+2023-02-13,Langedijke,Fryslân,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW3152m,Nee,,€ 270.03,52.9637274,6.2793695,2023-02
+2023-02-13,Langedijke,Fryslân,Scha(a)p(en),3.0,3.0,0.0,10.0,13,wolf,GW3152m; GW2090f?,Nee,,"€ 2,889.04",52.9637274,6.2793695,2023-02
+2023-02-11,Esbeek,Noord-Brabant,Scha(a)p(en),4.0,1.0,1.0,0.0,4,wolf,GW3236f,Nee,,"€ 1,305.43",51.4618953,5.1371625,2023-02
+2023-02-10,Doldersum,Drenthe,Scha(a)p(en),2.0,0.0,0.0,2.0,4,wolf,GW3151m,"Ja, maar",De paaltjes staan vaak te ver uit elkaar (15-20 m),"€ 1,414.87",52.8853046,6.2459153,2023-02
+2023-02-09,Beekbergen,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 199.83,52.1592697,5.9637625,2023-02
+2023-02-09,Kallenkote,Overijssel,Scha(a)p(en),6.0,2.0,0.0,4.0,10,wolf,GW3152m,Nee,,"€ 2,378.87",52.7965731,6.1740658,2023-02
+2023-02-08,Nederweert,Limburg,Damhert(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 507.66,51.2918913,5.74814642346813,2023-02
+2023-02-06,Nederweert,Limburg,Damhert(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 582.66,51.2918913,5.74814642346813,2023-02
+2023-02-06,Appelscha,Fryslân,Koe(ien),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,"€ 2,750.00",52.9524178,6.3441136,2023-02
+2023-02-02,Lierop,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 210.03,51.4193964,5.6813387,2023-02
+2023-02-01,Nederweert,Limburg,Damhert(en),3.0,0.0,0.0,0.0,3,wolf,GW1625m,Nee,,€ 941.52,51.2918913,5.74814642346813,2023-02
+2023-02-01,Someren,Noord-Brabant,Scha(a)p(en),5.0,2.0,0.0,0.0,5,wolf,GW1625m,Nee,,"€ 2,722.15",51.38632235,5.688884477579495,2023-02
+2023-02-01,Appelscha,Fryslân,Scha(a)p(en),6.0,0.0,7.0,4.0,10,wolf,GW2090f,Nee,,"€ 3,966.46",52.9524178,6.3441136,2023-02
+2023-01-31,Appelscha,Fryslân,Scha(a)p(en),0.0,1.0,0.0,0.0,0,wolf,GW3151m,Nee,,,52.9524178,6.3441136,2023-01
+2023-01-30,Veenhuizen,Drenthe,Scha(a)p(en),2.0,0.0,0.0,1.0,3,wolf,GW2397m,Nee,,€ 674.40,53.0332173,6.3963672,2023-01
+2023-01-30,Makkinga,Fryslân,Scha(a)p(en),0.0,0.0,0.0,4.0,4,wolf,GW3152m,Nee,,"€ 1,279.51",52.9805873,6.2173595,2023-01
+2023-01-29,Zandhuizen,Fryslân,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW3152m,Nee,,€ 210.03,52.9108132,6.1529275,2023-01
+2023-01-29,Appelscha,Fryslân,Scha(a)p(en),8.0,5.0,5.0,20.0,28,wolf,GW2090f,Nee,,"€ 7,761.30",52.9524178,6.3441136,2023-01
+2023-01-25,Wapserveen,Drenthe,Scha(a)p(en),4.0,1.0,0.0,7.0,11,wolf,onbekend,Nee,,"€ 2,115.55",52.8252174,6.2158906,2023-01
+2023-01-25,Boijl,Fryslân,Scha(a)p(en),7.0,4.0,0.0,3.0,10,wolf,GW3151m,Nee,,"€ 2,542.12",52.9095907,6.1999729,2023-01
+2023-01-24,Kallenkote,Overijssel,Scha(a)p(en),3.0,9.0,0.0,6.0,9,wolf,GW3152m,Nee,,"€ 2,351.29",52.7965731,6.1740658,2023-01
+2023-01-24,Schuinesloot,Overijssel,Scha(a)p(en),0.0,0.0,0.0,1.0,1,vermoedelijk wolf,onbekend,Nee,,€ 373.43,52.6446874,6.5533434,2023-01
+2023-01-22,Langelo,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 270.13,53.0918625,6.4464547,2023-01
+2023-01-21,Appelscha,Fryslân,Scha(a)p(en),5.0,1.0,5.0,1.0,6,wolf,GW3151m,Nee,,"€ 2,705.39",52.9524178,6.3441136,2023-01
+2023-01-21,Vledder,Drenthe,Scha(a)p(en),5.0,1.0,0.0,1.0,6,wolf,GW3151m,"Ja, maar",Op vier plekken was de onderste draad te hoog (30 cm),"€ 1,654.86",52.8574791,6.2101824,2023-01
+2023-01-21,Epe,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2540f,"Ja, maar","Maaiveld niet vlak, onderste draad op enkele plaatsen te hoog (30 cm)",€ 296.83,52.3270371,5.963194502074892,2023-01
+2023-01-20,Vledder,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW3151m,Nee,,€ 270.03,52.8574791,6.2101824,2023-01
+2023-01-19,Nijensleek,Drenthe,Scha(a)p(en),4.0,0.0,2.0,11.0,15,wolf,GW3151m,Nee,,"€ 3,153.31",52.8369612,6.1671817,2023-01
+2023-01-19,Roswinkel,Drenthe,Scha(a)p(en),1.0,0.0,0.0,1.0,2,wolf,onbekend,Nee,,"€ 1,083.11",52.8372932,7.0384353,2023-01
+2023-01-16,Grolloo,Drenthe,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW2864m,Nee,,€ 829.87,52.936205,6.6727367,2023-01
+2023-01-16,Dwingeloo,Drenthe,Scha(a)p(en),13.0,0.0,0.0,0.0,13,wolf,onbekend,Nee,,"€ 3,171.63",52.8333073,6.3669053,2023-01
+2023-01-16,Beilen,Drenthe,Scha(a)p(en),1.0,4.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 698.42,52.8610999,6.5124319,2023-01
+2023-01-15,Boijl,Fryslân,Scha(a)p(en),11.0,0.0,0.0,5.0,16,wolf,onbekend,Nee,,"€ 4,357.94",52.9095907,6.1999729,2023-01
+2023-01-14,Wapserveen,Drenthe,Scha(a)p(en),6.0,0.0,0.0,1.0,7,wolf,onbekend,Nee,,"€ 3,382.50",52.8252174,6.2158906,2023-01
+2023-01-14,Someren,Noord-Brabant,Scha(a)p(en),5.0,0.0,0.0,1.0,6,wolf,GW1625m,Nee,,"€ 1,864.33",51.38632235,5.688884477579495,2023-01
+2023-01-12,Meerssen,Limburg,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW2807m,Nee,,€ 331.83,50.90470915,5.735207828646779,2023-01
+2023-01-11,Amerongen,Utrecht,Scha(a)p(en),0.0,1.0,0.0,1.0,1,wolf,GW2905m,Nee,,€ 532.62,52.000487,5.4600535,2023-01
+2023-01-11,Nuth,Limburg,Scha(a)p(en),3.0,0.0,0.0,0.0,3,wolf,GW2807m,Nee,,€ 663.63,50.9171887,5.8838254,2023-01
+2023-01-11,Klarenbeek,Gelderland,Scha(a)p(en),1.0,1.0,0.0,0.0,1,wolf,GW2540f,Nee,,€ 400.94,52.17158905,6.083926864345637,2023-01
+2023-01-10,Deurze,Drenthe,Scha(a)p(en),2.0,2.0,0.0,1.0,3,wolf,onbekend,Nee,,"€ 1,603.79",52.9782974,6.6029983644362735,2023-01
+2023-01-09,Boijl,Fryslân,Scha(a)p(en),3.0,0.0,0.0,0.0,3,wolf,GW2090f,Nee,,€ 693.63,52.9095907,6.1999729,2023-01
+2023-01-09,Amen,Drenthe,Scha(a)p(en),6.0,2.0,1.0,2.0,8,wolf,onbekend,Nee,,"€ 2,412.36",52.93331795,6.598514489095756,2023-01
+2023-01-06,Nederweert,Limburg,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 270.03,51.2918913,5.74814642346813,2023-01
+2023-01-06,Klarenbeek,Gelderland,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW2540f,Nee,,€ 538.51,52.17158905,6.083926864345637,2023-01
+2023-01-05,Nederweert,Limburg,Scha(a)p(en),3.0,0.0,0.0,0.0,3,wolf,GW1625m,Nee,,€ 493.63,51.2918913,5.74814642346813,2023-01
+2023-01-05,Klarenbeek,Gelderland,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW2540f,Nee,,€ 481.83,52.17158905,6.083926864345637,2023-01
+2023-01-04,Niebert,Groningen,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 270.03,53.1607509,6.3260329,2023-01
+2023-01-04,Klarenbeek,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2540f,Nee,,€ 267.92,52.17158905,6.083926864345637,2023-01
+2022-12-31,Maarheeze,Noord-Brabant,Scha(a)p(en),3.0,0.0,0.0,0.0,3,wolf,GW1625m,Nee,,€ 934.43,51.3121159,5.6158604,2022-12
+2022-12-31,Oosterwolde,Fryslân,Scha(a)p(en),2.0,2.0,0.0,0.0,2,wolf,"GW2090f, GW2397m",Nee,,€ 511.02,52.9892251,6.2908202,2022-12
+2022-12-28,Elsloo,Fryslân,Scha(a)p(en),1.0,0.0,0.0,1.0,2,wolf,onbekend,Nee,,€ 394.63,50.9503183,5.7711166,2022-12
+2022-12-28,Makkinga,Fryslân,Scha(a)p(en),3.0,0.0,0.0,5.0,8,wolf,GW2090f,Nee,,"€ 2,283.60",52.9805873,6.2173595,2022-12
+2022-12-27,Wellerlooi,Limburg,Scha(a)p(en),24.0,17.0,0.0,6.0,30,wolf,GW2667m,Nee,,"€ 6,829.01",51.5354124,6.1388583,2022-12
+2022-12-27,Someren,Noord-Brabant,Scha(a)p(en),5.0,0.0,0.0,0.0,5,wolf,GW1625m,Nee,,"€ 1,347.20",51.38632235,5.688884477579495,2022-12
+2022-12-26,Someren,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 267.92,51.38632235,5.688884477579495,2022-12
+2022-12-26,Eeserveen,Drenthe,Scha(a)p(en),1.0,1.0,0.0,0.0,1,wolf,GW2864m,Nee,,€ 267.92,52.8766648,6.784304473347159,2022-12
+2022-12-26,Arnhem,Gelderland,Pony('s),1.0,0.0,0.0,0.0,1,wolf,GW2435m,Nee,,€ 421.45,51.984257,5.9108573,2022-12
+2022-12-25,Appelscha,Fryslân,Scha(a)p(en),1.0,1.0,0.0,2.0,3,wolf,GW2397m,Nee,,€ 762.80,52.9524178,6.3441136,2022-12
+2022-12-24,Siebengewald,Limburg,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,onbekend,Nee,,€ 757.53,51.6494766,6.1065773,2022-12
+2022-12-24,Maarheeze,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 267.92,51.3121159,5.6158604,2022-12
+2022-12-23,Grolloo,Drenthe,Scha(a)p(en),0.0,1.0,0.0,1.0,1,wolf,GW2864m,Nee,,€ 677.82,52.936205,6.6727367,2022-12
+2022-12-22,Bergharen,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 258.03,51.8507873,5.6656081,2022-12
+2022-12-22,Haren,Groningen,Scha(a)p(en),1.0,2.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 227.92,52.7905619,7.2400267,2022-12
+2022-12-20,Schoonloo,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 233.78,52.9053531,6.7016543,2022-12
+2022-12-20,Zwiggelte,Drenthe,Scha(a)p(en),2.0,0.0,0.0,1.0,3,wolf,GW2864m,Nee,,"€ 1,000.42",52.8735,6.58768,2022-12
+2022-12-19,Maarheeze,Noord-Brabant,Scha(a)p(en),3.0,1.0,0.0,0.0,3,wolf,GW1625m,Nee,,€ 634.12,51.3121159,5.6158604,2022-12
+2022-12-19,Zwiggelte,Drenthe,Scha(a)p(en),2.0,0.0,2.0,2.0,4,wolf,GW2864m,Nee,,"€ 2,199.14",52.8735,6.58768,2022-12
+2022-12-17,Haalderen,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2667m,Nee,,€ 158.78,51.8864729,5.9265463,2022-12
+2022-12-17,Arnhem,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2540f,Nee,,€ 468.80,51.984257,5.9108573,2022-12
+2022-12-16,Appelscha,Fryslân,Scha(a)p(en),1.0,0.0,0.0,3.0,4,wolf,"GW2090f, GW2397m",Nee,,"€ 1,170.23",52.9524178,6.3441136,2022-12
+2022-12-14,Heeze,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 77.92,51.3832098,5.5715902,2022-12
+2022-12-14,Arnhem,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 108.78,51.984257,5.9108573,2022-12
+2022-12-13,Groningen,Groningen,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 177.92,53.2190652,6.5680077,2022-12
+2022-12-11,Overschild,Groningen,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 177.92,53.2820672,6.7849065,2022-12
+2022-12-10,Amen,Drenthe,Scha(a)p(en),1.0,1.0,0.0,2.0,3,wolf,GW2864m,Nee,,€ 877.70,52.93331795,6.598514489095756,2022-12
+2022-12-10,Borger,Drenthe,Scha(a)p(en),3.0,0.0,0.0,8.0,11,wolf,GW2864m,Nee,,"€ 15,798.46",35.6689767,-101.3919481,2022-12
+2022-12-09,Groningen,Groningen,Scha(a)p(en),2.0,0.0,1.0,0.0,2,vermoedelijk wolf,onbekend,Nee,,€ 481.02,53.2190652,6.5680077,2022-12
+2022-12-08,Grolloo,Drenthe,Scha(a)p(en),11.0,4.0,1.0,6.0,17,wolf,GW2864m,Nee,,"€ 5,315.26",52.936205,6.6727367,2022-12
+2022-12-07,Helenaveen,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 147.92,51.388689,5.9178418,2022-12
+2022-12-07,Grolloo,Drenthe,Scha(a)p(en),4.0,5.0,0.0,5.0,9,wolf,GW2864m,Nee,,"€ 1,359.79",52.936205,6.6727367,2022-12
+2022-12-06,Arnhem,Gelderland,Pony('s),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,"€ 2,799.29",51.984257,5.9108573,2022-12
+2022-12-03,Uffelte,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 233.78,52.7908929,6.2815178,2022-12
+2022-12-01,Lierop,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 177.92,51.4193964,5.6813387,2022-12
+2022-11-30,Beekbergen,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2435m,Nee,,€ 267.92,52.1592697,5.9637625,2022-11
+2022-11-30,Voorst,Gelderland,Scha(a)p(en),3.0,0.0,0.0,0.0,3,wolf,GW3150m,Nee,,€ 684.12,52.2374112,6.086274343475191,2022-11
+2022-11-26,Lunteren,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 273.78,52.0864617,5.6190737,2022-11
+2022-11-19,Hulshorst,Gelderland,Scha(a)p(en),1.0,1.0,0.0,0.0,1,wolf,GW1428m,Nee,,€ 349.76,52.3607721,5.7205644,2022-11
+2022-11-18,Rumpt,Gelderland,Scha(a)p(en),6.0,1.0,0.0,0.0,6,vermoedelijk wolf,onbekend,Nee,,"€ 1,535.90",51.885759,5.1762105,2022-11
+2022-11-18,Beilen,Drenthe,Scha(a)p(en),4.0,1.0,2.0,6.0,10,wolf,"GW2090f, GW3151m",Nee,,"€ 3,014.64",52.8610999,6.5124319,2022-11
+2022-11-17,Ammerzoden,Gelderland,Scha(a)p(en),2.0,0.0,0.0,1.0,3,wolf,GW2435m,Nee,,€ 556.19,51.7488717,5.2251819,2022-11
+2022-11-17,Gameren,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2435m,Nee,,€ 267.92,51.8000907,5.2057359,2022-11
+2022-11-17,Bruchem,Gelderland,Scha(a)p(en),2.0,1.0,0.0,0.0,2,wolf,GW2435m,Nee,,€ 511.02,51.7871821,5.2363614,2022-11
+2022-11-16,Sprang-Capelle,Noord-Brabant,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW2435m,Nee,,€ 511.02,51.6705258,5.0252983,2022-11
+2022-11-15,Kaatsheuvel,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 267.92,51.6598038,5.0319484,2022-11
+2022-11-14,Kaatsheuvel,Noord-Brabant,Scha(a)p(en),11.0,1.0,0.0,0.0,11,wolf,GW2435m,Nee,,"€ 2,838.20",51.6598038,5.0319484,2022-11
+2022-11-11,Dwingeloo,Drenthe,Scha(a)p(en),1.0,0.0,0.0,2.0,3,wolf,GW2090f,Nee,,€ 861.17,52.8333073,6.3669053,2022-11
+2022-11-09,Wolfheze,Gelderland,Scha(a)p(en),2.0,1.0,0.0,1.0,3,wolf,GW3012f,Nee,,€ 754.12,52.0056717,5.7923944,2022-11
+2022-11-09,Winterswijk,Gelderland,Scha(a)p(en),1.0,3.0,0.0,0.0,1,wolf,GW3149m,Nee,,€ 152.92,51.96802135,6.737872334611222,2022-11
+2022-11-04,Lierop,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 207.92,51.4193964,5.6813387,2022-11
+2022-10-31,Ekehaar,Drenthe,Pink,0.0,1.0,0.0,0.0,0,vermoedelijk wolf,onbekend,Nee,,€ 431.60,52.9533222,6.6030439,2022-10
+2022-10-27,Wolfheze,Gelderland,Scha(a)p(en),9.0,5.0,0.0,3.0,12,wolf,GW3012f,Nee,,"€ 3,150.81",52.0056717,5.7923944,2022-10
+2022-10-27,Weert,Limburg,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 273.78,51.23558295,5.705079711646853,2022-10
+2022-10-25,Milsbeek,Limburg,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2488m,Nee,,€ 77.92,51.7243615,5.9499476,2022-10
+2022-10-24,Heeze,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 202.92,51.3832098,5.5715902,2022-10
+2022-10-20,Dwingeloo,Drenthe,Scha(a)p(en),3.0,0.0,0.0,0.0,3,vermoedelijk wolf,onbekend,Nee,,€ 634.12,52.8333073,6.3669053,2022-10
+2022-10-19,Benneveld,Drenthe,Scha(a)p(en),3.0,18.0,0.0,0.0,3,wolf,GW2864m,Nee,,"€ 3,922.70",52.7755373,6.7475163,2022-10
+2022-10-17,Nieuwlande,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 233.78,52.6957431,6.6110453,2022-10
+2022-10-17,Tubbergen,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2902f,Nee,,€ 183.78,52.4039627,6.774441654037701,2022-10
+2022-10-15,Vledder,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 273.78,52.8574791,6.2101824,2022-10
+2022-10-15,Slagharen,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2488m,Nee,,€ 202.92,52.6276515,6.554592,2022-10
+2022-10-14,Slagharen,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2488m,Nee,,€ 152.92,52.6276515,6.554592,2022-10
+2022-10-13,Benneveld,Drenthe,Scha(a)p(en),1.0,1.0,0.0,2.0,3,wolf,GW2864m,Nee,,€ 795.87,52.7755373,6.7475163,2022-10
+2022-10-11,Wijster,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2488m,Nee,,€ 208.78,52.8148592,6.5163531,2022-10
+2022-10-10,Fluitenberg,Drenthe,Geit(en),0.0,0.0,0.0,1.0,1,wolf,GW2488m,Nee,,€ 198.96,52.736545,6.4524098,2022-10
+2022-10-08,Hierden,Gelderland,Scha(a)p(en),11.0,5.0,0.0,0.0,11,wolf,GW2905m,Nee,,"€ 1,779.13",52.355868,5.6760734,2022-10
+2022-10-08,Vriezenveen,Overijssel,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW2902f,Nee,,€ 305.84,52.4086697,6.6148049,2022-10
+2022-10-08,Wittelte,Drenthe,Pony('s),1.0,0.0,0.0,0.0,1,wolf,GW2397m,Nee,,€ 338.39,52.8267818,6.297915941704707,2022-10
+2022-10-07,Emst,Gelderland,Scha(a)p(en),5.0,6.0,0.0,0.0,5,wolf,GW3012f,Nee,,"€ 1,265.08",52.3182269,5.9759134,2022-10
+2022-10-06,Vriezenveen,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2902f,Nee,,€ 152.92,52.4086697,6.6148049,2022-10
+2022-10-06,Pesse,Drenthe,Koe(ien),1.0,0.0,0.0,0.0,1,wolf,GW2488m,Nee,,"€ 2,260.13",52.7924847,6.425301478174332,2022-10
+2022-10-06,Harskamp,Gelderland,Scha(a)p(en),4.0,2.0,0.0,0.0,4,wolf,GW3012f,Nee,,"€ 12,840.17",52.1316634,5.75085,2022-10
+2022-10-05,Vriezenveen,Overijssel,Scha(a)p(en),1.0,0.0,0.0,1.0,2,wolf,GW2902f,Nee,,€ 389.13,52.4086697,6.6148049,2022-10
+2022-10-04,Langedijke,Fryslân,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 227.92,52.9637274,6.2793695,2022-10
+2022-10-04,Langedijke,Fryslân,Scha(a)p(en),3.0,0.0,0.0,0.0,3,wolf,GW2090f; GW2397m,Nee,,€ 634.12,52.9637274,6.2793695,2022-10
+2022-10-04,Noord-Sleen,Drenthe,Pink,1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,"€ 1,229.92",52.7931962,6.7979352,2022-10
+2022-10-03,Renkum,Gelderland,Scha(a)p(en),2.0,1.0,0.0,1.0,3,wolf,GW3012f,Nee,,€ 882.36,51.99168495,5.791692252659134,2022-10
+2022-10-02,Grolloo,Drenthe,Scha(a)p(en),2.0,1.0,2.0,3.0,5,wolf,GW3011f,Nee,,"€ 1,136.10",52.936205,6.6727367,2022-10
+2022-10-02,Sleen,Drenthe,Pink,1.0,2.0,0.0,0.0,1,wolf,GW2488m,Nee,,"€ 2,474.16",52.772368,6.8031287,2022-10
+2022-10-02,Elspeet,Gelderland,Scha(a)p(en),1.0,1.0,0.0,2.0,3,wolf,GW998f,Nee,,€ 745.68,52.2910649,5.7884632,2022-10
+2022-10-02,Elspeet,Gelderland,Scha(a)p(en),12.0,6.0,0.0,2.0,14,wolf,GW998f; GW893m,Nee,,"€ 3,791.46",52.2910649,5.7884632,2022-10
+2022-10-01,Sleen,Drenthe,Kalf,1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 200.00,52.772368,6.8031287,2022-10
+2022-10-01,Sleen,Drenthe,Kalf,1.0,1.0,0.0,0.0,1,wolf,GW2488m,Nee,,"€ 1,538.44",52.772368,6.8031287,2022-10
+2022-09-30,Elspeet,Gelderland,Scha(a)p(en),0.0,0.0,0.0,1.0,1,wolf,GW2664m,Nee,,€ 297.31,52.2910649,5.7884632,2022-09
+2022-09-30,Amen,Drenthe,Scha(a)p(en),1.0,2.0,1.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 277.92,52.93331795,6.598514489095756,2022-09
+2022-09-30,Dwingeloo,Drenthe,Vaars,1.0,0.0,0.0,0.0,1,wolf,GW2090f; GW2397m,Nee,,"€ 1,810.13",52.8333073,6.3669053,2022-09
+2022-09-28,Grolloo,Drenthe,Scha(a)p(en),5.0,0.0,2.0,0.0,5,wolf,GW3011f,Nee,,€ 940.14,52.936205,6.6727367,2022-09
+2022-09-27,Stuifzand,Drenthe,Scha(a)p(en),4.0,18.0,0.0,4.0,8,wolf,GW2488m,Nee,,"€ 6,023.12",52.7482183,6.500869,2022-09
+2022-09-20,Oldeberkoop,Fryslân,Scha(a)p(en),4.0,1.0,0.0,1.0,5,wolf,GW2090f,Nee,,"€ 1,238.97",52.9384572,6.1301707,2022-09
+2022-09-20,Leende,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 207.92,51.3484037,5.5518897,2022-09
+2022-09-20,Bruntinge,Drenthe,Koe(ien),1.0,0.0,0.0,0.0,1,wolf,GW2488m,Nee,,"€ 2,250.00",52.8170719,6.5822123,2022-09
+2022-09-20,Wijster,Drenthe,Pink,0.0,0.0,0.0,1.0,1,wolf,GW2864m,Nee,,"€ 1,377.60",52.8148592,6.5163531,2022-09
+2022-09-20,Drijber,Drenthe,Pink,1.0,0.0,0.0,0.0,1,wolf,GW2488m,Nee,,"€ 1,300.00",52.7920296,6.5401445,2022-09
+2022-09-18,Uffelte,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2090f,Nee,,€ 133.78,52.7908929,6.2815178,2022-09
+2022-09-17,Leende,Noord-Brabant,Scha(a)p(en),4.0,1.0,0.0,0.0,4,wolf,GW1625m,Nee,,€ 509.76,51.3484037,5.5518897,2022-09
+2022-09-16,Elp,Drenthe,Scha(a)p(en),8.0,0.0,1.0,2.0,10,wolf,GW3011f,Nee,,"€ 3,136.12",52.8820781,6.6432482,2022-09
+2022-09-14,Dwingeloo,Drenthe,Scha(a)p(en),5.0,0.0,0.0,0.0,5,vermoedelijk wolf,onbekend,Nee,,€ 427.92,52.8333073,6.3669053,2022-09
+2022-09-14,Luttelgeest,Flevoland,Scha(a)p(en),2.0,0.0,0.0,0.0,2,vermoedelijk wolf,onbekend,Nee,,€ 462.53,52.746133,5.8540037,2022-09
+2022-09-13,Ansen,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2090f,Nee,,€ 227.92,52.7826906,6.3335645,2022-09
+2022-09-12,Diever,Drenthe,Scha(a)p(en),1.0,2.0,0.0,0.0,1,wolf,GW2397m,Nee,,€ 647.28,52.8546576,6.3182659,2022-09
+2022-09-11,Soerendonk,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 127.92,51.3029105,5.5726245,2022-09
+2022-09-10,Uffelte,Drenthe,Scha(a)p(en),1.0,1.0,0.0,0.0,1,wolf,GW2090f,Nee,,€ 426.32,52.7908929,6.2815178,2022-09
+2022-09-08,Zwiggelte,Drenthe,Koe(ien),1.0,0.0,0.0,0.0,1,wolf,GW2864m; GW3011f,Nee,,"€ 2,160.13",52.8735,6.58768,2022-09
+2022-09-07,Ruinen,Drenthe,Scha(a)p(en),1.0,4.0,0.0,2.0,3,wolf,onbekend,Nee,,€ 980.35,52.7878608,6.380415464145301,2022-09
+2022-09-06,Wittelte,Drenthe,Scha(a)p(en),3.0,1.0,0.0,0.0,3,wolf,GW2090f,Nee,,€ 438.07,52.8267818,6.297915941704707,2022-09
+2022-09-05,Beilen,Drenthe,Kalf,1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 355.32,52.8610999,6.5124319,2022-09
+2022-09-04,Wateren,Drenthe,Scha(a)p(en),2.0,0.0,2.0,3.0,5,wolf,GW2397m,Ja,,"€ 1,790.28",52.9061348,6.2889409,2022-09
+2022-09-03,Beilen,Drenthe,Kalf,1.0,0.0,0.0,0.0,1,wolf,GW2864m,Nee,,"€ 1,230.57",52.8610999,6.5124319,2022-09
+2022-09-02,Sint Geertruid,Limburg,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2541m,Nee,,€ 183.78,50.7955431,5.7649963,2022-09
+2022-09-02,Makkinga,Fryslân,Kalf,1.0,0.0,0.0,0.0,1,wolf,GW2397m,Nee,,€ 380.32,52.9805873,6.2173595,2022-09
+2022-09-02,Beilen,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2864m,Nee,,€ 158.78,52.8610999,6.5124319,2022-09
+2022-08-31,Arnhem,Gelderland,Scha(a)p(en),4.0,0.0,0.0,0.0,4,wolf,onbekend,"Ja, maar",30 meter van het raster lag plat,€ 437.22,51.984257,5.9108573,2022-08
+2022-08-31,Nederweert,Limburg,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 227.92,51.2918913,5.74814642346813,2022-08
+2022-08-29,Wijster,Drenthe,Scha(a)p(en),1.0,1.0,0.0,0.0,1,wolf,GW2488m,Nee,,€ 233.78,52.8148592,6.5163531,2022-08
+2022-08-29,Vriezenveen,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2902f,Nee,,€ 133.78,52.4086697,6.6148049,2022-08
+2022-08-29,Kallenkote,Overijssel,Scha(a)p(en),6.0,0.0,0.0,3.0,9,wolf,GW2397m,Nee,,"€ 2,044.76",52.7965731,6.1740658,2022-08
+2022-08-29,Drijber,Drenthe,Pink,1.0,0.0,0.0,0.0,1,wolf,GW2864m,Nee,,"€ 1,130.32",52.7920296,6.5401445,2022-08
+2022-08-28,Dwingeloo,Drenthe,Scha(a)p(en),2.0,0.0,0.0,1.0,3,wolf,GW2090f,Nee,,€ 624.69,52.8333073,6.3669053,2022-08
+2022-08-27,Wijster,Drenthe,Scha(a)p(en),5.0,7.0,0.0,0.0,5,wolf,onbekend,Nee,,"€ 1,162.27",52.8148592,6.5163531,2022-08
+2022-08-27,Uddel,Gelderland,Scha(a)p(en),3.0,0.0,0.0,0.0,3,wolf,GW893m,Nee,,€ 484.12,52.2593938,5.7840992,2022-08
+2022-08-26,Elspeet,Gelderland,Scha(a)p(en),7.0,4.0,0.0,1.0,8,wolf,GW998f; GW893m,Nee,,"€ 1,636.68",52.2910649,5.7884632,2022-08
+2022-08-25,Vriezenveen,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2902f,Nee,,€ 127.92,52.4086697,6.6148049,2022-08
+2022-08-25,Boijl,Fryslân,Scha(a)p(en),6.0,1.0,0.0,9.0,15,wolf,GW2090f; GW2397m,Nee,,"€ 3,187.63",52.9095907,6.1999729,2022-08
+2022-08-24,Kallenkote,Overijssel,Scha(a)p(en),2.0,0.0,0.0,2.0,4,wolf,GW2090f,Nee,,"€ 1,082.39",52.7965731,6.1740658,2022-08
+2022-08-23,Wapserveen,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2090f,Nee,,€ 233.78,52.8252174,6.2158906,2022-08
+2022-08-22,Schoonoord,Drenthe,Scha(a)p(en),1.0,0.0,0.0,1.0,2,wolf,onbekend,Nee,,€ 593.93,51.8022028,5.7540042,2022-08
+2022-08-22,Heeze,Noord-Brabant,Scha(a)p(en),0.0,0.0,0.0,2.0,2,wolf,GW1625m,Ja,,€ 231.02,51.3832098,5.5715902,2022-08
+2022-08-21,Dwingeloo,Drenthe,Scha(a)p(en),2.0,3.0,0.0,0.0,2,wolf,GW2090f,Nee,,€ 549.12,52.8333073,6.3669053,2022-08
+2022-08-20,Wapserveen,Drenthe,Scha(a)p(en),4.0,0.0,0.0,0.0,4,wolf,GW2090f,Nee,,€ 887.90,52.8252174,6.2158906,2022-08
+2022-08-20,Wapserveen,Drenthe,Scha(a)p(en),2.0,0.0,0.0,6.0,8,wolf,GW2397m,Nee,,"€ 1,532.36",52.8252174,6.2158906,2022-08
+2022-08-19,Wittelte,Drenthe,Scha(a)p(en),6.0,0.0,0.0,4.0,10,wolf,GW2397m,Nee,,"€ 2,516.46",52.8267818,6.297915941704707,2022-08
+2022-08-18,Vledder,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2397m,Nee,,€ 227.92,52.8574791,6.2101824,2022-08
+2022-08-17,Wittelte,Drenthe,Scha(a)p(en),1.0,1.0,0.0,0.0,1,wolf,GW2090f; GW2397m,Nee,,€ 390.39,52.8267818,6.297915941704707,2022-08
+2022-08-17,Wapserveen,Drenthe,Koe(ien),0.0,2.0,0.0,0.0,0,vermoedelijk wolf,onbekend,Nee,,,52.8252174,6.2158906,2022-08
+2022-08-17,Westerhaar-Vriezenveensewijk,Overijssel,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW2902f,Nee,,€ 237.53,52.4548041,6.6199584,2022-08
+2022-08-17,Dwingeloo,Drenthe,Scha(a)p(en),2.0,2.0,0.0,0.0,2,wolf,GW2090f; GW2397m,Nee,,€ 481.92,52.8333073,6.3669053,2022-08
+2022-08-16,Westerhaar-Vriezenveensewijk,Overijssel,Scha(a)p(en),3.0,0.0,0.0,0.0,3,wolf,GW2902f,Nee,,€ 211.29,52.4548041,6.6199584,2022-08
+2022-08-16,Soerendonk,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 102.92,51.3029105,5.5726245,2022-08
+2022-08-15,Kallenkote,Overijssel,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW2090f,Nee,,€ 431.02,52.7965731,6.1740658,2022-08
+2022-08-15,Kallenkote,Overijssel,Scha(a)p(en),1.0,0.0,0.0,1.0,2,wolf,GW2090f,Nee,,€ 578.67,52.7965731,6.1740658,2022-08
+2022-08-13,Mantinge,Drenthe,Scha(a)p(en),2.0,2.0,0.0,0.0,2,wolf,GW2488m,Nee,,€ 231.02,52.8035998,6.6166025,2022-08
+2022-08-12,Dwingeloo,Drenthe,Scha(a)p(en),2.0,1.0,0.0,0.0,2,wolf,GW2397m,Nee,,€ 431.02,52.8333073,6.3669053,2022-08
+2022-08-10,Dwingeloo,Drenthe,Scha(a)p(en),4.0,0.0,0.0,0.0,4,vermoedelijk wolf,onbekend,Nee,,€ 637.22,52.8333073,6.3669053,2022-08
+2022-08-10,Dwingeloo,Drenthe,Pony('s),1.0,0.0,0.0,0.0,1,wolf,GW2090f,Nee,,€ 546.45,52.8333073,6.3669053,2022-08
+2022-08-08,Zwolle,Overijssel,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW2541m,Nee,,€ 331.02,52.5089759,6.0943765,2022-08
+2022-08-08,Grolloo,Drenthe,Scha(a)p(en),3.0,6.0,0.0,0.0,3,wolf,onbekend,Nee,,€ 784.12,52.936205,6.6727367,2022-08
+2022-08-08,Rouveen,Overijssel,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW2541m,Nee,,€ 381.02,52.6156731,6.1861398,2022-08
+2022-08-07,Dwingeloo,Drenthe,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW2090f,Nee,,€ 437.53,52.8333073,6.3669053,2022-08
+2022-08-07,Dwingeloo,Drenthe,Scha(a)p(en),3.0,0.0,0.0,0.0,3,wolf,GW2397m,Nee,,€ 634.12,52.8333073,6.3669053,2022-08
+2022-08-06,Nieuw Balinge,Drenthe,Scha(a)p(en),0.0,11.0,0.0,5.0,5,wolf,GW2488m,Nee,,€ 981.13,52.7671253,6.6066512,2022-08
+2022-08-04,Nijkerk,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2668f,Nee,,€ 345.17,52.21485365,5.478146323965094,2022-08
+2022-08-03,Dwingeloo,Drenthe,Scha(a)p(en),1.0,4.0,4.0,1.0,2,wolf,GW2090f,Nee,,"€ 1,114.62",52.8333073,6.3669053,2022-08
+2022-08-02,Wijster,Drenthe,Scha(a)p(en),2.0,5.0,0.0,1.0,3,wolf,GW2488m,Nee,,€ 688.32,52.8148592,6.5163531,2022-08
+2022-08-02,Heeze,Noord-Brabant,Scha(a)p(en),2.0,0.0,0.0,1.0,3,wolf,onbekend,"Ja, maar",Dieren waren uitgebroken,€ 434.12,51.3832098,5.5715902,2022-08
+2022-08-02,Wijster,Drenthe,Kalf,0.0,1.0,0.0,0.0,0,wolf,onbekend,Nee,,€ 250.00,52.8148592,6.5163531,2022-08
+2022-08-02,Kuinre,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2541m,Nee,,€ 277.92,52.7869627,5.8403637,2022-08
+2022-08-01,Wenum-Wiesel,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 177.92,52.2546727,5.9632909,2022-08
+2022-08-01,Wijster,Drenthe,Scha(a)p(en),0.0,2.0,0.0,2.0,2,wolf,GW2488m,Nee,,€ 606.95,52.8148592,6.5163531,2022-08
+2022-08-01,Kuinre,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2541m,Nee,,€ 402.92,52.7869627,5.8403637,2022-08
+2022-07-31,Maarheeze,Noord-Brabant,Scha(a)p(en),1.0,2.0,0.0,0.0,1,wolf,GW1625m,"Ja, maar",Dieren waren uitgebroken,€ 231.95,51.3121159,5.6158604,2022-07
+2022-07-30,Nijkerk,Gelderland,Scha(a)p(en),3.0,8.0,0.0,0.0,3,wolf,GW2668f,Nee,,"€ 1,180.35",52.21485365,5.478146323965094,2022-07
+2022-07-26,Doldersum,Drenthe,Scha(a)p(en),5.0,0.0,0.0,9.0,14,wolf,GW2090f,Ja,,"€ 2,366.33",52.8853046,6.2459153,2022-07
+2022-07-26,Kuinre,Overijssel,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW2541m,Nee,,€ 431.02,52.7869627,5.8403637,2022-07
+2022-07-25,Kuinre,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2541m,Nee,,€ 227.92,52.7869627,5.8403637,2022-07
+2022-07-25,Nieuw Balinge,Drenthe,Scha(a)p(en),1.0,2.0,0.0,0.0,1,wolf,GW2488m,Nee,,€ 221.00,52.7671253,6.6066512,2022-07
+2022-07-22,Soerendonk,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 102.91,51.3029105,5.5726245,2022-07
+2022-07-16,Maarheeze,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,"Ja, maar",Dode dier lag buiten het raster,€ 127.92,51.3121159,5.6158604,2022-07
+2022-07-13,Doldersum,Drenthe,Scha(a)p(en),2.0,2.0,0.0,5.0,7,wolf,GW2904m,Nee,,"€ 1,311.37",52.8853046,6.2459153,2022-07
+2022-07-13,Zieuwent,Gelderland,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,onbekend,Nee,,€ 256.02,52.0038435,6.5194467,2022-07
+2022-07-13,Kuinre,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 381.02,52.7869627,5.8403637,2022-07
+2022-07-11,Westerhaar-Vriezenveensewijk,Overijssel,Scha(a)p(en),3.0,0.0,0.0,1.0,4,wolf,GW2902f,Nee,,€ 559.98,52.4548041,6.6199584,2022-07
+2022-07-11,Dwingeloo,Drenthe,Scha(a)p(en),2.0,2.0,0.0,1.0,3,wolf,GW2090f,Nee,,€ 766.37,52.8333073,6.3669053,2022-07
+2022-07-10,Dwingeloo,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2090f,Nee,,€ 233.78,52.8333073,6.3669053,2022-07
+2022-07-09,Dwingeloo,Drenthe,Scha(a)p(en),1.0,0.0,0.0,1.0,2,wolf,onbekend,Nee,,€ 564.12,52.8333073,6.3669053,2022-07
+2022-07-09,Elsloo,Fryslân,Kalf,1.0,0.0,0.0,0.0,1,wolf,"GW2090f, GW2397m",Nee,,€ 229.32,50.9503183,5.7711166,2022-07
+2022-07-08,Hellendoorn,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2864m,Nee,,€ 277.92,52.39046275,6.451511548705841,2022-07
+2022-07-07,Kuinre,Overijssel,Scha(a)p(en),3.0,2.0,0.0,0.0,3,wolf,GW2541m,Nee,,€ 534.12,52.7869627,5.8403637,2022-07
+2022-07-06,Kuinre,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 202.92,52.7869627,5.8403637,2022-07
+2022-07-05,Kuinre,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2541m,Nee,,€ 177.92,52.7869627,5.8403637,2022-07
+2022-07-04,Heeze,Noord-Brabant,Scha(a)p(en),1.0,2.0,0.0,2.0,3,wolf,GW1625m,"Ja, maar",Dieren waren uitgebroken,€ 490.32,51.3832098,5.5715902,2022-07
+2022-07-03,Geesbrug,Drenthe,Scha(a)p(en),15.0,0.0,0.0,10.0,25,wolf,GW2864m,Nee,,"€ 3,227.14",52.7282834,6.6338274,2022-07
+2022-07-03,Kuinre,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 152.92,52.7869627,5.8403637,2022-07
+2022-07-02,Nieuw Balinge,Drenthe,Scha(a)p(en),1.0,6.0,0.0,4.0,5,wolf,GW2488m,Nee,,€ 879.66,52.7671253,6.6066512,2022-07
+2022-07-01,Gees,Drenthe,Scha(a)p(en),11.0,6.0,0.0,0.0,11,wolf,GW2864m,Nee,,"€ 2,324.60",50.2200638,6.699584,2022-07
+2022-06-22,Odoorn,Drenthe,Scha(a)p(en),7.0,2.0,0.0,1.0,8,wolf,GW2864m,Nee,,"€ 1,402.38",52.8516104,6.84635,2022-06
+2022-06-20,Kuinre,Overijssel,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW2541m,Nee,,€ 505.84,52.7869627,5.8403637,2022-06
+2022-06-19,Wapserveen,Drenthe,Scha(a)p(en),2.0,6.0,0.0,8.0,10,wolf,GW2397m,Nee,,"€ 1,926.18",52.8252174,6.2158906,2022-06
+2022-06-19,Grolloo,Drenthe,Scha(a)p(en),8.0,0.0,0.0,3.0,11,wolf,onbekend,Nee,,"€ 1,764.53",52.936205,6.6727367,2022-06
+2022-06-13,Oudehorne,Fryslân,Shetland Pony,1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,"€ 1,238.39",52.9638473,6.0848079,2022-06
+2022-06-07,Vledder,Drenthe,Scha(a)p(en),5.0,1.0,,7.0,12,wolf,GW2397m,Nee,,"€ 2,012.02",52.8574791,6.2101824,2022-06
+2022-05-31,Amen,Drenthe,Scha(a)p(en),8.0,0.0,0.0,8.0,16,wolf,GW2670f,Nee,,"€ 3,895.56",52.93331795,6.598514489095756,2022-05
+2022-05-21,Nijeberkoop,Fryslân,Scha(a)p(en),10.0,1.0,0.0,0.0,10,wolf,GW2397m,Nee,,"€ 3,673.91",52.9588643,6.1904235,2022-05
+2022-05-17,Bant,Flevoland,Scha(a)p(en),2.0,0.0,6.0,3.0,5,wolf,onbekend,Nee,,"€ 1,590.32",21.10284835,86.34425428777675,2022-05
+2022-05-15,Anderen,Drenthe,Scha(a)p(en),1.0,1.0,0.0,0.0,1,wolf,GW2670f,Nee,,€ 333.78,53.0011891,6.6861383,2022-05
+2022-05-11,Nooitgedacht,Drenthe,Koe(ien),1.0,0.0,0.0,0.0,1,wolf,GW2670f,Nee,,"€ 3,310.13",52.717366,6.8466596,2022-05
+2022-05-11,Wilp,Gelderland,Scha(a)p(en),3.0,0.0,3.0,0.0,3,wolf,onbekend,Nee,,€ 934.12,52.2185102,6.1468559,2022-05
+2022-05-10,Heeze,Noord-Brabant,Koe(ien),1.0,3.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,"€ 2,664.20",51.3832098,5.5715902,2022-05
+2022-05-08,Makkinga,Fryslân,Scha(a)p(en),5.0,3.0,0.0,1.0,6,wolf,onbekend,Nee,,"€ 2,745.02",52.9805873,6.2173595,2022-05
+2022-05-05,Ysselsteyn,Limburg,Scha(a)p(en),2.0,0.0,0.0,0.0,2,vermoedelijk wolf,onbekend,Nee,,€ 431.02,51.4899045,5.8961579,2022-05
+2022-05-05,Ysselsteyn,Limburg,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 177.92,51.4899045,5.8961579,2022-05
+2022-04-29,Makkinga,Fryslân,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 227.92,52.9805873,6.2173595,2022-04
+2022-04-29,Wapenveld,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 277.92,52.4314896,6.072898,2022-04
+2022-04-28,Well,Limburg,Scha(a)p(en),1.0,0.0,0.0,1.0,2,wolf,GW1625m,Nee,,€ 260.47,53.2425196,0.1657754,2022-04
+2022-04-25,Enter,Overijssel,Scha(a)p(en),5.0,0.0,0.0,0.0,5,wolf,GW2540f,Nee,,"€ 1,840.32",52.2952203,6.5772427,2022-04
+2022-04-25,Vorden,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2540f,Nee,,€ 227.92,52.1041075,6.3126099,2022-04
+2022-04-24,Anloo,Drenthe,Scha(a)p(en),5.0,2.0,0.0,7.0,12,wolf,GW2670f,Nee,,"€ 2,737.96",53.0426712,6.697949,2022-04
+2022-04-23,Creil,Flevoland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 277.92,49.2607914,2.4733771,2022-04
+2022-04-22,Makkinga,Fryslân,Scha(a)p(en),6.0,3.0,0.0,0.0,6,wolf,GW2090f,Nee,,"€ 2,303.18",52.9805873,6.2173595,2022-04
+2022-04-21,Bantega,Fryslân,Scha(a)p(en),3.0,1.0,8.0,0.0,3,wolf,GW2541m,Nee,,"€ 1,734.12",52.8428171,5.7974895,2022-04
+2022-04-20,Overschild,Groningen,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2670f,Nee,,€ 427.92,53.2820672,6.7849065,2022-04
+2022-04-20,Bantega,Fryslân,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2541m,Nee,,€ 127.92,52.8428171,5.7974895,2022-04
+2022-04-20,Anloo,Drenthe,Scha(a)p(en),8.0,0.0,0.0,0.0,8,wolf,GW2670f,Nee,,"€ 2,449.44",53.0426712,6.697949,2022-04
+2022-04-18,Bantega,Fryslân,Scha(a)p(en),3.0,0.0,0.0,1.0,4,wolf,GW2541m,Nee,,€ 894.73,52.8428171,5.7974895,2022-04
+2022-04-16,Staphorst,Overijssel,Scha(a)p(en),5.0,0.0,0.0,0.0,5,wolf,GW2541m,Nee,,"€ 1,040.32",52.6368387,6.208129727382328,2022-04
+2022-04-16,2e Exloermond,Drenthe,Scha(a)p(en),8.0,0.0,0.0,2.0,10,wolf,GW2665m,Nee,,"€ 2,488.20",52.9078223,6.9331992,2022-04
+2022-04-16,De Steeg,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 202.92,52.0199779,6.0606008,2022-04
+2022-04-15,Hollandscheveld,Drenthe,Scha(a)p(en),3.0,0.0,0.0,0.0,3,wolf,GW2541m,Nee,,€ 658.12,52.706308,6.5337852,2022-04
+2022-04-15,Balkbrug,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2541m,Nee,,€ 208.78,52.5994353,6.3929761,2022-04
+2022-04-14,Eursinge,Drenthe,Scha(a)p(en),1.0,0.0,3.0,0.0,1,wolf,GW2665m,Nee,,€ 527.92,52.84172825,6.589986756064498,2022-04
+2022-04-13,Beilen,Drenthe,Scha(a)p(en),2.0,1.0,0.0,3.0,5,wolf,GW2665m,Nee,,"€ 1,431.42",52.8610999,6.5124319,2022-04
+2022-04-12,Hijken,Drenthe,Scha(a)p(en),7.0,0.0,0.0,0.0,7,wolf,GW2665m,Nee,,"€ 1,024.64",52.8952284,6.4984931,2022-04
+2022-04-12,Woudenberg,Utrecht,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 277.92,52.0805478,5.4134327,2022-04
+2022-04-09,Doldersum,Drenthe,Schotse Hooglander (kalf),2.0,0.0,0.0,1.0,3,wolf,GW2397m,Nee,,"€ 1,960.49",52.8853046,6.2459153,2022-04
+2022-04-09,Emst,Gelderland,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW2666f,Nee,,€ 480.17,52.3182269,5.9759134,2022-04
+2022-04-06,Nijkerk,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2669f,Nee,,€ 276.77,52.21485365,5.478146323965094,2022-04
+2022-04-05,Boijl,Fryslân,Scha(a)p(en),0.0,0.0,0.0,18.0,18,wolf,GW2665m,Nee,,"€ 4,951.18",52.9095907,6.1999729,2022-04
+2022-04-02,Sellingen,Groningen,Scha(a)p(en),1.0,1.0,0.0,1.0,2,wolf,GW2603m,Nee,,€ 272.28,52.9459295,7.1505197,2022-04
+2022-03-31,Voorthuizen,Gelderland,Scha(a)p(en),4.0,1.0,0.0,0.0,4,wolf,GW2669f,Nee,,"€ 1,018.12",52.1871648,5.6071994,2022-03
+2022-03-29,Hoge Hexel,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 426.77,52.3950264,6.559051,2022-03
+2022-03-29,Nijeberkoop,Fryslân,Scha(a)p(en),2.0,2.0,0.0,0.0,2,wolf,"GW2090f, GW2397m",Nee,,€ 404.90,52.9588643,6.1904235,2022-03
+2022-03-26,Opsterland,Fryslân,Scha(a)p(en),9.0,4.0,0.0,1.0,10,wolf,GW2664m,Nee,,"€ 1,259.30",53.04680105,6.095135723829035,2022-03
+2022-03-23,De Wilp,Groningen,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 424.82,53.1183148,6.2544278,2022-03
+2022-03-21,De Wilp,Groningen,Scha(a)p(en),6.0,0.0,0.0,0.0,6,wolf,onbekend,Nee,,€ 670.17,53.1183148,6.2544278,2022-03
+2022-03-20,Doornspijk,Gelderland,Scha(a)p(en),1.0,2.0,0.0,1.0,2,wolf,GW2668f,Nee,,"€ 4,323.36",52.4194984,5.8208683,2022-03
+2022-03-18,Hoedekenskerke,Zeeland,Scha(a)p(en),0.0,1.0,0.0,1.0,1,wolf,GW1954m,Nee,,€ 356.16,51.4248944,3.9142697,2022-03
+2022-03-18,Rilland,Zeeland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1954m,Nee,,€ 126.77,51.4164747,4.1812417,2022-03
+2022-03-17,Gorredijk,Fryslân,Scha(a)p(en),9.0,0.0,0.0,7.0,16,wolf,GW2664m,Nee,,"€ 3,710.51",53.0059606,6.0641634,2022-03
+2022-03-16,Nutter,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 111.77,52.42441,6.88168,2022-03
+2022-03-14,Makkinga,Fryslân,Scha(a)p(en),3.0,0.0,0.0,8.0,11,wolf,onbekend,Nee,,"€ 3,065.70",52.9805873,6.2173595,2022-03
+2022-03-11,Ruinerwold,Drenthe,Scha(a)p(en),4.0,1.0,1.0,0.0,4,wolf,onbekend,Nee,,€ 997.22,52.7216745,6.2459797,2022-03
+2022-03-07,Dedemsvaart,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 226.77,52.5996262,6.4593207,2022-03
+2022-03-06,Vijlen,Limburg,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 176.77,50.7878116,5.9643838,2022-03
+2022-03-05,Ruinen,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 331.02,52.7878608,6.380415464145301,2022-03
+2022-03-05,Elsloo,Fryslân,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2397m,Nee,,€ 267.92,50.9503183,5.7711166,2022-03
+2022-03-05,Elsloo,Fryslân,Scha(a)p(en),1.0,0.0,0.0,1.0,2,wolf,GW2090f,Nee,,€ 555.94,50.9503183,5.7711166,2022-03
+2022-03-04,Ruinen,Drenthe,Scha(a)p(en),6.0,0.0,0.0,1.0,7,wolf,GW2664m,Nee,,"€ 1,505.19",52.7878608,6.380415464145301,2022-03
+2022-03-01,Dalfsen,Overijssel,Scha(a)p(en),2.0,2.0,0.0,0.0,2,wolf,GW2664m,Nee,,€ 670.41,52.51178365,6.256636721854065,2022-03
+2022-03-01,Dieren,Gelderland,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW1924m,Nee,,€ 555.09,52.0526703,6.1014431,2022-03
+2022-03-01,Elsloo,Fryslân,Scha(a)p(en),5.0,0.0,0.0,3.0,8,wolf,GW2397m,Nee,,"€ 2,541.58",50.9503183,5.7711166,2022-03
+2022-02-24,Elsloo,Fryslân,Scha(a)p(en),1.0,0.0,1.0,0.0,1,wolf,GW2397m,Nee,,€ 296.77,50.9503183,5.7711166,2022-02
+2022-02-22,Vijlen,Limburg,Scha(a)p(en),4.0,0.0,0.0,0.0,4,wolf,onbekend,Nee,,€ 676.97,50.7878116,5.9643838,2022-02
+2022-02-22,Wouwse Plantage,Noord-Brabant,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,onbekend,Nee,,€ 330.17,51.4831196,4.3908283,2022-02
+2022-02-21,Elsloo,Fryslân,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,"GW2090f, GW2397m",Nee,,€ 296.77,50.9503183,5.7711166,2022-02
+2022-02-21,Makkinga,Fryslân,Scha(a)p(en),3.0,0.0,4.0,1.0,4,wolf,"GW2090f, GW2397m",Nee,,"€ 1,385.59",52.9805873,6.2173595,2022-02
+2022-02-15,Vledder,Drenthe,Scha(a)p(en),1.0,0.0,0.0,1.0,2,wolf,GW2397m,Nee,,€ 668.97,52.8574791,6.2101824,2022-02
+2022-02-13,Vledder,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2397m,Nee,,€ 326.77,52.8574791,6.2101824,2022-02
+2022-02-12,Roosendaal,Noord-Brabant,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,onbekend,Nee,,€ 330.17,51.5331484,4.4561276,2022-02
+2022-02-09,Wouwse Plantage,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 266.77,51.4831196,4.3908283,2022-02
+2022-02-09,Plasmolen,Limburg,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 266.77,51.7372379,5.9223658,2022-02
+2022-02-09,Elsloo,Fryslân,Scha(a)p(en),1.0,2.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 350.00,50.9503183,5.7711166,2022-02
+2022-02-09,Langedijke,Fryslân,Scha(a)p(en),1.0,1.0,0.0,0.0,1,wolf,"GW2090f, GW2397m",Nee,,€ 338.74,52.9637274,6.2793695,2022-02
+2022-02-08,Plasmolen,Limburg,Scha(a)p(en),0.0,0.0,0.0,1.0,1,wolf,GW1625m,Nee,,€ 101.77,51.7372379,5.9223658,2022-02
+2022-02-07,Groesbeek,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 126.77,51.7741022,5.9305385,2022-02
+2022-02-04,Wouwse Plantage,Noord-Brabant,Scha(a)p(en),6.0,0.0,0.0,8.0,14,wolf,GW1954m,Nee,,"€ 2,470.21",51.4831196,4.3908283,2022-02
+2022-02-01,Langedijke,Fryslân,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,onbekend,Nee,,€ 530.17,52.9637274,6.2793695,2022-02
+2022-02-01,Makkinga,Fryslân,Scha(a)p(en),4.0,0.0,0.0,0.0,4,wolf,GW2090f,Nee,,€ 780.34,52.9805873,6.2173595,2022-02
+2022-01-31,Roosendaal,Noord-Brabant,Scha(a)p(en),2.0,2.0,0.0,0.0,2,wolf,GW1954m,Nee,,€ 300.00,51.5331484,4.4561276,2022-01
+2022-01-31,Wouwse Plantage,Noord-Brabant,Scha(a)p(en),1.0,1.0,0.0,1.0,2,wolf,GW1954m,Nee,,€ 330.17,51.4831196,4.3908283,2022-01
+2022-01-30,Wouwse Plantage,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1954m,Nee,,€ 176.77,51.4831196,4.3908283,2022-01
+2022-01-30,Boijl,Fryslân,Scha(a)p(en),3.0,0.0,0.0,1.0,4,wolf,GW2397m,Nee,,"€ 1,288.55",52.9095907,6.1999729,2022-01
+2022-01-30,Vledderveen,Drenthe,Scha(a)p(en),0.0,0.0,0.0,1.0,1,wolf,GW2397m,Nee,,€ 242.57,52.8768553,6.1880842,2022-01
+2022-01-29,Goirle,Noord-Brabant,Scha(a)p(en),0.0,0.0,0.0,1.0,1,wolf,GW1954m,Nee,,€ 396.34,51.5056266,5.033774070783131,2022-01
+2022-01-28,Berkel-Enschot,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1954m,Nee,,€ 266.77,51.5854521,5.1422542,2022-01
+2022-01-27,Wouwse Plantage,Noord-Brabant,Scha(a)p(en),4.0,1.0,0.0,1.0,5,wolf,onbekend,Nee,,€ 786.97,51.4831196,4.3908283,2022-01
+2022-01-27,Heukelom,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1954m,Nee,,€ 476.77,51.6232409,6.0274554,2022-01
+2022-01-26,Ysselsteyn,Limburg,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 226.77,51.4899045,5.8961579,2022-01
+2022-01-26,Horst,Limburg,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 176.77,53.8111615,9.6182581,2022-01
+2022-01-24,Wouwse Plantage,Noord-Brabant,Scha(a)p(en),1.0,2.0,0.0,1.0,2,wolf,GW1954m,Nee,,€ 330.17,51.4831196,4.3908283,2022-01
+2022-01-24,Castenray,Limburg,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 326.77,51.4894867,6.034807,2022-01
+2022-01-21,Wouwse Plantage,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,6.0,7,vermoedelijk wolf,onbekend,Nee,,"€ 1,820.04",51.4831196,4.3908283,2022-01
+2022-01-21,Vledder,Drenthe,Scha(a)p(en),4.0,4.0,0.0,2.0,6,wolf,GW2397m,Nee,,"€ 1,535.65",52.8574791,6.2101824,2022-01
+2022-01-21,Baarlo,Limburg,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 212.39,51.3319545,6.0967255,2022-01
+2022-01-19,Boekel,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Ja,,"€ 1,112.77",51.605927300000005,5.69911232186362,2022-01
+2022-01-19,Noordwolde-Zuid,Fryslân,Scha(a)p(en),4.0,0.0,0.0,0.0,4,vermoedelijk wolf,onbekend,Nee,,"€ 1,411.36",52.8787155,6.1496485,2022-01
+2022-01-19,Boijl,Fryslân,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2090f,Nee,,€ 351.67,52.9095907,6.1999729,2022-01
+2022-01-17,Esbeek,Noord-Brabant,Scha(a)p(en),3.0,0.0,0.0,1.0,4,wolf,GW2419m,Nee,,€ 902.17,51.4618953,5.1371625,2022-01
+2022-01-16,Rilland,Zeeland,Scha(a)p(en),2.0,1.0,0.0,1.0,3,wolf,GW1954m,Nee,,"€ 1,194.50",51.4164747,4.1812417,2022-01
+2022-01-15,Wouwse Plantage,Noord-Brabant,Scha(a)p(en),5.0,0.0,0.0,0.0,5,vermoedelijk wolf,onbekend,Nee,,€ 790.37,51.4831196,4.3908283,2022-01
+2022-01-13,Nijensleek,Drenthe,Scha(a)p(en),4.0,,,4.0,8,vermoedelijk wolf,onbekend,Nee,,"€ 2,730.28",52.8369612,6.1671817,2022-01
+2022-01-13,Putten,Gelderland,Scha(a)p(en),3.0,4.0,0.0,1.0,4,wolf,GW2398m,Nee,,"€ 1,725.07",52.24773005,5.57827393798401,2022-01
+2022-01-13,Putten,Gelderland,Scha(a)p(en),9.0,0.0,0.0,0.0,9,wolf,GW2398m,Nee,,"€ 2,220.57",52.24773005,5.57827393798401,2022-01
+2022-01-12,Rilland,Zeeland,Scha(a)p(en),5.0,0.0,0.0,0.0,5,wolf,GW1954m,Nee,,"€ 1,240.37",51.4164747,4.1812417,2022-01
+2022-01-11,Sterksel,Noord-Brabant,Scha(a)p(en),2.0,4.0,0.0,0.0,2,wolf,GW1625m,Nee,,"€ 1,106.02",51.3512368,5.611589,2022-01
+2022-01-10,Mierlo,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 236.77,51.4437624,5.6187496,2022-01
+2022-01-09,Helenaveen,Noord-Brabant,Geit(en),1.0,0.0,0.0,1.0,2,wolf,GW2402m,Nee,,€ 236.77,51.388689,5.9178418,2022-01
+2022-01-08,Wouwse Plantage,Noord-Brabant,Scha(a)p(en),7.0,4.0,0.0,0.0,7,wolf,GW1954m,Nee,,€ 922.17,51.4831196,4.3908283,2022-01
+2022-01-07,Vledder,Drenthe,Scha(a)p(en),3.0,0.0,0.0,2.0,5,wolf,onbekend,Nee,,"€ 1,904.97",52.8574791,6.2101824,2022-01
+2022-01-07,Someren,Noord-Brabant,Scha(a)p(en),0.0,0.0,0.0,2.0,2,wolf,GW2402m,Nee,,€ 457.13,51.38632235,5.688884477579495,2022-01
+2022-01-07,Someren,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2402m,Nee,,€ 146.77,51.38632235,5.688884477579495,2022-01
+2022-01-07,Ossendrecht,Noord-Brabant,Scha(a)p(en),1.0,9.0,0.0,0.0,1,wolf,GW1954m,Nee,,"€ 1,079.57",51.3955742,4.3266976,2022-01
+2022-01-07,Wapse,Drenthe,Scha(a)p(en),4.0,1.0,0.0,1.0,5,wolf,GW2397m,"Ja, maar",Raster was naar buiten gebogen.,€ 646.26,52.8592652,6.2669921,2022-01
+2022-01-07,Huijbergen,Noord-Brabant,Scha(a)p(en),1.0,1.0,0.0,1.0,2,vermoedelijk wolf,onbekend,Nee,,€ 552.67,51.4330325,4.3768613,2022-01
+2022-01-06,Huijbergen,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 86.77,51.4330325,4.3768613,2022-01
+2022-01-06,Someren,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2402m,Nee,,€ 266.77,51.38632235,5.688884477579495,2022-01
+2022-01-06,Chaam,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2419m,Nee,,€ 206.77,51.5052547,4.8611725,2022-01
+2022-01-05,Epen,Limburg,Scha(a)p(en),2.0,0.0,0.0,0.0,2,vermoedelijk wolf,onbekend,Nee,,€ 270.17,50.7766712,5.912373,2022-01
+2022-01-04,Nederweert,Limburg,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 206.77,51.2918913,5.74814642346813,2022-01
+2022-01-03,Doldersum,Drenthe,Scha(a)p(en),1.0,0.0,0.0,2.0,3,wolf,GW2397m,Nee,,€ 974.47,52.8853046,6.2459153,2022-01
+2022-01-03,Valkenswaard,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,1.0,2,wolf,GW2402m,Nee,,€ 206.77,51.3202409,5.458181897733282,2022-01
+2022-01-03,Vledder,Drenthe,Scha(a)p(en),1.0,0.0,0.0,1.0,2,wolf,GW2397m,Nee,,€ 790.71,52.8574791,6.2101824,2022-01
+2022-01-02,Doldersum,Drenthe,Scha(a)p(en),1.0,4.0,0.0,1.0,2,wolf,GW2090f,Nee,,€ 467.02,52.8853046,6.2459153,2022-01
+2021-12-31,Wapse,Drenthe,Scha(a)p(en),2.0,0.0,0.0,1.0,3,wolf,onbekend,Nee,,"€ 1,186.83",52.8592652,6.2669921,2021-12
+2021-12-31,Lierop,Noord-Brabant,Scha(a)p(en),2.0,4.0,0.0,1.0,3,wolf,onbekend,Nee,,"€ 1,349.40",51.4193964,5.6813387,2021-12
+2021-12-30,Wouwse Plantage,Noord-Brabant,Scha(a)p(en),4.0,0.0,0.0,3.0,7,wolf,onbekend,Nee,,"€ 1,161.38",51.4831196,4.3908283,2021-12
+2021-12-30,Lierop,Noord-Brabant,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW1625m,Nee,,€ 510.17,51.4193964,5.6813387,2021-12
+2021-12-29,Wouwse Plantage,Noord-Brabant,Scha(a)p(en),2.0,0.0,0.0,1.0,3,wolf,GW2402m,Nee,,€ 528.67,51.4831196,4.3908283,2021-12
+2021-12-27,Mariahout,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,2.0,3,wolf,GW1625m,Nee,,€ 722.76,51.5410252,5.5713434,2021-12
+2021-12-27,Wouwse Plantage,Noord-Brabant,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW2402m,Nee,,€ 330.17,51.4831196,4.3908283,2021-12
+2021-12-27,Nederweert,Limburg,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 276.77,51.2918913,5.74814642346813,2021-12
+2021-12-26,Wapserveen,Drenthe,Scha(a)p(en),1.0,0.0,0.0,3.0,4,wolf,GW2397m,Nee,,"€ 1,609.17",52.8252174,6.2158906,2021-12
+2021-12-26,Wouwse Plantage,Noord-Brabant,Scha(a)p(en),5.0,0.0,0.0,0.0,5,vermoedelijk wolf,onbekend,Nee,,€ 790.37,51.4831196,4.3908283,2021-12
+2021-12-25,Lierop,Noord-Brabant,Scha(a)p(en),2.0,0.0,0.0,2.0,4,wolf,GW1625m,Nee,,€ 389.19,51.4193964,5.6813387,2021-12
+2021-12-24,Beekbergen,Gelderland,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,onbekend,Nee,,€ 200.00,52.1592697,5.9637625,2021-12
+2021-12-23,Lierop,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 266.77,51.4193964,5.6813387,2021-12
+2021-12-22,Steenbergen,Noord-Brabant,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,onbekend,Nee,,€ 480.17,51.6032921,4.309251716161476,2021-12
+2021-12-22,Hattem,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 206.77,52.4767117,6.061913261141655,2021-12
+2021-12-20,Ouwerkerk,Zeeland,Scha(a)p(en),6.0,1.0,0.0,0.0,6,wolf,GW1954m,Nee,,€ 930.17,51.6252777,3.983732,2021-12
+2021-12-20,Heeze,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 126.77,51.3832098,5.5715902,2021-12
+2021-12-19,Ossendrecht,Noord-Brabant,Scha(a)p(en),4.0,3.0,0.0,0.0,4,wolf,onbekend,Nee,,"€ 1,530.36",51.3955742,4.3266976,2021-12
+2021-12-19,Bruinisse,Zeeland,Scha(a)p(en),1.0,0.0,0.0,2.0,3,wolf,GW1954m,Nee,,€ 853.27,51.6601211,4.0937229,2021-12
+2021-12-18,Bakel,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 266.77,51.5036525,5.7397091,2021-12
+2021-12-18,Roosendaal,Noord-Brabant,Scha(a)p(en),5.0,0.0,0.0,0.0,5,wolf,onbekend,Nee,,€ 790.57,51.5331484,4.4561276,2021-12
+2021-12-18,Steenbergen,Noord-Brabant,Scha(a)p(en),3.0,2.0,0.0,0.0,3,wolf,GW1954m,Nee,,"€ 1,069.41",51.6032921,4.309251716161476,2021-12
+2021-12-18,Aarle-Rixtel,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2419m,Nee,,€ 451.77,51.5093107,5.6375541,2021-12
+2021-12-18,Lierop,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 266.77,51.4193964,5.6813387,2021-12
+2021-12-15,Ossendrecht,Noord-Brabant,Scha(a)p(en),3.0,0.0,0.0,0.0,3,wolf,onbekend,Nee,,€ 746.77,51.3955742,4.3266976,2021-12
+2021-12-15,Lierop,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 266.76,51.4193964,5.6813387,2021-12
+2021-12-14,Ossendrecht,Noord-Brabant,Scha(a)p(en),2.0,10.0,,,2,wolf,onbekend,Nee,,€ 510.17,51.3955742,4.3266976,2021-12
+2021-12-13,Wouwse Plantage,Noord-Brabant,Scha(a)p(en),4.0,3.0,0.0,0.0,4,wolf,GW2402m,Nee,,€ 636.97,51.4831196,4.3908283,2021-12
+2021-12-07,Vledder,Drenthe,Scha(a)p(en),1.0,1.0,,1.0,2,wolf,GW2090f,Nee,,€ 973.59,52.8574791,6.2101824,2021-12
+2021-12-06,Huijbergen,Noord-Brabant,Scha(a)p(en),4.0,1.0,0.0,5.0,9,wolf,GW2402m,Nee,,"€ 2,273.66",51.4330325,4.3768613,2021-12
+2021-12-02,Someren,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 132.39,51.38632235,5.688884477579495,2021-12
+2021-12-01,Lierop,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 368.77,51.4193964,5.6813387,2021-12
+2021-11-27,Diever,Drenthe,Scha(a)p(en),1.0,4.0,0.0,1.0,2,wolf,GW2090f,Nee,,€ 905.94,52.8546576,6.3182659,2021-11
+2021-11-26,Nieuw-Vossemeer,Noord-Brabant,Scha(a)p(en),3.0,11.0,0.0,1.0,4,vermoedelijk wolf,onbekend,Nee,,"€ 1,721.29",51.5863367,4.2178348,2021-11
+2021-11-26,Nieuw-Vossemeer,Noord-Brabant,Scha(a)p(en),1.0,1.0,0.0,1.0,2,wolf,onbekend,Nee,,€ 570.17,51.5863367,4.2178348,2021-11
+2021-11-25,Hemmen,Gelderland,Scha(a)p(en),2.0,1.0,0.0,1.0,3,vermoedelijk wolf,onbekend,Nee,,€ 883.01,51.92757275,5.690140155001297,2021-11
+2021-11-24,Nieuw-Vossemeer,Noord-Brabant,Scha(a)p(en),6.0,2.0,0.0,1.0,7,wolf,GW2402m,Nee,,"€ 1,406.76",51.5863367,4.2178348,2021-11
+2021-11-24,Nieuw-Vossemeer,Noord-Brabant,Scha(a)p(en),3.0,6.0,0.0,2.0,5,wolf,GW2402m,Nee,,"€ 1,039.96",51.5863367,4.2178348,2021-11
+2021-11-22,Fijnaart,Noord-Brabant,Scha(a)p(en),5.0,0.0,0.0,1.0,6,wolf,GW2402m,Nee,,€ 943.77,51.6352829,4.4673134,2021-11
+2021-11-20,Doldersum,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 386.77,52.8853046,6.2459153,2021-11
+2021-11-19,Hooge Zwaluwe,Noord-Brabant,Scha(a)p(en),6.0,8.0,0.0,1.0,7,vermoedelijk wolf,onbekend,Nee,,"€ 1,760.24",51.6841483,4.7492114,2021-11
+2021-11-19,Doldersum,Drenthe,Scha(a)p(en),1.0,2.0,0.0,0.0,1,wolf,GW2090f,Nee,,€ 386.77,52.8853046,6.2459153,2021-11
+2021-11-18,Hooge Zwaluwe,Noord-Brabant,Scha(a)p(en),2.0,1.0,0.0,1.0,3,vermoedelijk wolf,onbekend,Nee,,€ 926.16,51.6841483,4.7492114,2021-11
+2021-11-17,Wapserveen,Drenthe,Scha(a)p(en),3.0,0.0,0.0,2.0,5,wolf,onbekend,Nee,,"€ 1,994.97",52.8252174,6.2158906,2021-11
+2021-11-17,s-Hertogenbosch,Noord-Brabant,Scha(a)p(en),10.0,14.0,0.0,11.0,21,wolf,GW2402m,Nee,,"€ 2,844.44",51.6889387,5.303116,2021-11
+2021-11-17,Wapse,Drenthe,Scha(a)p(en),2.0,0.0,0.0,1.0,3,wolf,onbekend,Nee,,"€ 1,236.22",52.8592652,6.2669921,2021-11
+2021-11-16,Wapse,Drenthe,Scha(a)p(en),8.0,2.0,0.0,0.0,8,wolf,GW2090f,Nee,,"€ 3,088.05",52.8592652,6.2669921,2021-11
+2021-11-15,Lierop,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 201.77,51.4193964,5.6813387,2021-11
+2021-11-12,Ooij,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2402m,Nee,,€ 406.12,51.8544267,5.9389526,2021-11
+2021-11-11,Dieverbrug,Drenthe,Scha(a)p(en),1.0,5.0,0.0,7.0,8,wolf,onbekend,Nee,,"€ 3,128.66",52.8474383,6.3420135,2021-11
+2021-11-11,Ooij,Gelderland,Scha(a)p(en),2.0,0.0,0.0,1.0,3,wolf,GW2402m,Nee,,€ 783.57,51.8544267,5.9389526,2021-11
+2021-11-08,Someren,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,1.0,2,wolf,GW1625m,Nee,,€ 318.46,51.38632235,5.688884477579495,2021-11
+2021-11-08,Geeuwenbrug,Drenthe,Kalf,1.0,0.0,0.0,0.0,1,wolf,GW2397m,Nee,,"€ 1,229.41",52.87360905,6.36533800320699,2021-11
+2021-11-07,Lierop,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW1625m,Nee,,€ 207.39,51.4193964,5.6813387,2021-11
+2021-11-07,Wapse,Drenthe,Scha(a)p(en),2.0,0.0,0.0,2.0,4,wolf,GW2090f,Nee,,"€ 1,671.58",52.8592652,6.2669921,2021-11
+2021-11-05,Wapse,Drenthe,Scha(a)p(en),4.0,2.0,1.0,2.0,6,wolf,onbekend,Nee,,"€ 2,738.37",52.8592652,6.2669921,2021-11
+2021-11-02,Dwingeloo,Drenthe,Scha(a)p(en),5.0,0.0,0.0,0.0,5,wolf,GW2397m,Nee,,"€ 1,415.37",52.8333073,6.3669053,2021-11
+2021-10-29,Dwingeloo,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2397m,Nee,,€ 386.77,52.8333073,6.3669053,2021-10
+2021-10-29,Dwingeloo,Drenthe,Scha(a)p(en),3.0,0.0,0.0,0.0,3,wolf,onbekend,Nee,,€ 933.57,52.8333073,6.3669053,2021-10
+2021-10-29,Dwingeloo,Drenthe,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2397m,Nee,,€ 442.13,52.8333073,6.3669053,2021-10
+2021-10-24,Hoogersmilde,Drenthe,Scha(a)p(en),2.0,0.0,0.0,1.0,3,wolf,GW2397m,Nee,,€ 923.30,52.91299375,6.366868725936132,2021-10
+2021-10-24,Soerendonk,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,1.0,2,wolf,GW1625m,Nee,,€ 365.30,51.3029105,5.5726245,2021-10
+2021-10-21,Leende,Noord-Brabant,Kalf,1.0,0.0,2.0,0.0,1,vermoedelijk wolf,onbekend,Nee,,€ 754.41,51.3484037,5.5518897,2021-10
+2021-10-21,Ruinerwold,Drenthe,Scha(a)p(en),3.0,1.0,0.0,0.0,3,wolf,GW2090f,Nee,,€ 884.20,52.7216745,6.2459797,2021-10
+2021-10-20,Wapse,Drenthe,Scha(a)p(en),4.0,3.0,1.0,0.0,4,wolf,onbekend,Nee,,"€ 1,744.29",52.8592652,6.2669921,2021-10
+2021-10-14,Oudehorne,Fryslân,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2397m,Nee,,€ 126.77,52.9638473,6.0848079,2021-10
+2021-10-10,Goënga,Fryslân,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2397m,Nee,,€ 176.77,53.0545751,5.6928661,2021-10
+2021-10-08,Ter Idzard,Fryslân,"Scha(a)p(en), Geit(en)",2.0,0.0,0.0,1.0,3,wolf,GW2397m,Nee,,€ 943.67,52.9038987,6.0341422,2021-10
+2021-10-07,Oldeholtpade,Fryslân,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2397m,Nee,,€ 276.77,52.8925942,6.0459205,2021-10
+2021-10-07,Elspeet,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW893m,Nee,,€ 146.77,52.2910649,5.7884632,2021-10
+2021-10-06,Meppel,Drenthe,Scha(a)p(en),2.0,1.0,0.0,,2,wolf,GW2397m,Nee,,€ 530.17,52.6938237,6.197767,2021-10
+2021-10-04,Staphorst,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2397m,Nee,,€ 146.77,52.6368387,6.208129727382328,2021-10
+2021-10-03,Rouveen,Overijssel,Scha(a)p(en),2.0,1.0,0.0,0.0,2,wolf,GW2397m,Nee,,€ 255.17,52.6156731,6.1861398,2021-10
+2021-10-02,Heino,Overijssel,Scha(a)p(en),0.0,0.0,0.0,1.0,1,wolf,GW2397m,Nee,,€ 416.73,52.4361877,6.2337581,2021-10
+2021-10-02,Heino,Overijssel,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,GW2397m,Nee,,€ 266.77,52.4361877,6.2337581,2021-10
+2021-09-30,Wijhe,Overijssel,Scha(a)p(en),2.0,1.0,0.0,0.0,2,wolf,GW2397m,Nee,,"€ 1,020.81",52.3841425,6.136018,2021-09
+2021-09-30,Otterlo,Gelderland,Scha(a)p(en),1.0,2.0,0.0,0.0,1,wolf,GW1490m,Nee,,€ 242.22,52.1015221,5.7720779,2021-09
+2021-09-22,Klazienaveen,Drenthe,"Scha(a)p(en), Geit(en)",3.0,13.0,3.0,3.0,6,wolf,GW2397m,Nee,,"€ 1,968.95",52.725393,6.9852072,2021-09
+2021-09-09,Elspeet-Vierhouten,Gelderland,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 306.97,,,2021-09
+2021-09-06,Oude Willem,Drenthe,Scha(a)p(en),3.0,0.0,0.0,1.0,4,wolf,GW2090f,"Ja, maar",Raster was over gehele lengte geheel vernield. Waarschijnlijk waren dieren in paniek uitgebroken.,€ 808.57,52.8947943,6.3068604,2021-09
+2021-09-06,Griendtsveen,Limburg,Scha(a)p(en),1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 212.39,51.4438463,5.8818198,2021-09
+2021-08-11,Otterlo,Gelderland,Scha(a)p(en),1.0,1.0,0.0,0.0,1,wolf,GW1490m,Nee,,€ 276.76,52.1015221,5.7720779,2021-08
+2021-08-09,Otterlo,Gelderland,Moeflon(s),1.0,0.0,0.0,,1,wolf,onbekend,Nee,,,52.1015221,5.7720779,2021-08
+2021-07-30,Someren,Noord-Brabant,Kalf,1.0,0.0,0.0,0.0,1,wolf,onbekend,Nee,,€ 907.39,51.38632235,5.688884477579495,2021-07
+2021-07-29,Doorwerth,Gelderland,Kalf,1.0,0.0,0.0,,1,wolf,onbekend,Nee,,"€ 1,062.14",51.9788685,5.8048452,2021-07
+2021-07-28,Heeze,Noord-Brabant,Scha(a)p(en),2.0,0.0,0.0,,2,wolf,onbekend,Nee,,€ 306.51,51.3832098,5.5715902,2021-07
+2021-07-27,Heeze,Noord-Brabant,Scha(a)p(en),1.0,3.0,0.0,,1,wolf,GW1625m,Nee,,€ 386.51,51.3832098,5.5715902,2021-07
+2021-06-12,Sterksel,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1625m,Nee,,€ 232.39,51.3512368,5.611589,2021-06
+2021-06-10,Sterksel,Noord-Brabant,Scha(a)p(en),1.0,1.0,0.0,,1,wolf,GW1625m,Nee,,€ 658.97,51.3512368,5.611589,2021-06
+2021-06-09,Halsteren,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,,1,vermoedelijk wolf,onbekend,Nee,,€ 182.39,51.5230234,4.2729507,2021-06
+2021-05-27,Appelscha,Fryslân,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW2362m,Nee,,€ 150.00,52.9524178,6.3441136,2021-05
+2021-05-19,Sterksel,Noord-Brabant,Scha(a)p(en),1.0,0.0,1.0,,1,wolf,GW1625m,Nee,,€ 482.39,51.3512368,5.611589,2021-05
+2021-05-16,Fochteloo,Fryslân,Scha(a)p(en),2.0,1.0,0.0,,2,wolf,GW2362m,Nee,,€ 781.64,52.993346,6.3346246,2021-05
+2021-05-15,Peize,Drenthe,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW2362m,Nee,,€ 251.77,53.148934,6.4933571,2021-05
+2021-05-13,Sterksel,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1625m,Nee,,€ 232.39,51.3512368,5.611589,2021-05
+2021-05-12,Sterksel,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,onbekend,Nee,,€ 232.39,51.3512368,5.611589,2021-05
+2021-05-12,Jubbega,Fryslân,Scha(a)p(en),2.0,0.0,0.0,,2,wolf,GW2362m,Nee,,€ 280.17,53.0033704,6.1220155,2021-05
+2021-05-12,Oranjewoud,Fryslân,Scha(a)p(en),1.0,1.0,0.0,,1,vermoedelijk wolf,onbekend,Nee,,€ 251.77,52.95014,5.96223,2021-05
+2021-05-11,Katlijk,Fryslân,Scha(a)p(en),5.0,0.0,0.0,,5,wolf,GW2362m,Nee,,"€ 1,016.10",52.94619,6.01335,2021-05
+2021-05-10,Katlijk,Fryslân,Scha(a)p(en),1.0,4.0,0.0,,1,wolf,GW2362m,Nee,,€ 927.44,52.94619,6.01335,2021-05
+2021-05-10,Heeze,Noord-Brabant,Scha(a)p(en),2.0,0.0,0.0,,2,wolf,GW1625m,Nee,,€ 321.50,51.3832098,5.5715902,2021-05
+2021-05-06,Nederweert,Limburg,Scha(a)p(en),4.0,0.0,0.0,,4,wolf,onbekend,Nee,,€ 365.62,51.2918913,5.74814642346813,2021-05
+2021-04-29,Wekerom,Gelderland,Scha(a)p(en),3.0,0.0,0.0,,3,wolf,onbekend,Nee,,€ 578.54,52.1118306,5.7157689,2021-04
+2021-04-25,Nederweert,Limburg,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1625m,Nee,,€ 232.39,51.2918913,5.74814642346813,2021-04
+2021-04-25,Dinteloord,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW2089m,Nee,,€ 126.77,51.6339484,4.3680313,2021-04
+2021-04-24,Wijster,Drenthe,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW2090f,Nee,,€ 201.77,52.8148592,6.5163531,2021-04
+2021-03-22,Otterlo,Gelderland,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1490m,Nee,,€ 231.54,52.1015221,5.7720779,2021-03
+2021-03-10,Heeze,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1625m,Nee,,€ 241.54,51.3832098,5.5715902,2021-03
+2021-02-28,Lochem,Gelderland,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,onbekend,Nee,,€ 211.49,52.17151315,6.343658160434859,2021-02
+2021-02-23,Heeze,Noord-Brabant,Scha(a)p(en),1.0,2.0,0.0,,1,wolf,GW1625m,Nee,,€ 206.54,51.3832098,5.5715902,2021-02
+2021-02-22,Nederweert,Limburg,Damhert(en),1.0,0.0,0.0,,1,vermoedelijk wolf,onbekend,Nee,,€ 180.00,51.2918913,5.74814642346813,2021-02
+2021-02-06,Nederweert,Limburg,Damhert(en),3.0,0.0,0.0,,3,wolf,GW1625m,Nee,,€ 958.20,51.2918913,5.74814642346813,2021-02
+2021-01-29,Nederweert,Limburg,Scha(a)p(en),2.0,2.0,0.0,,2,vermoedelijk wolf,onbekend,Nee,,€ 519.87,51.2918913,5.74814642346813,2021-01
+2021-01-25,Stramproy,Limburg,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW979m,Nee,,€ 211.55,51.1932084,5.7235287,2021-01
+2021-01-21,Nederweert,Limburg,Scha(a)p(en),2.0,0.0,0.0,,2,wolf,GW1625m,Nee,,€ 482.88,51.2918913,5.74814642346813,2021-01
+2021-01-13,Sterksel,Noord-Brabant,Scha(a)p(en),2.0,0.0,0.0,,2,wolf,onbekend,Nee,,€ 517.60,51.3512368,5.611589,2021-01
+2021-01-10,Leende,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1625m,Nee,,€ 449.51,51.3484037,5.5518897,2021-01
+2020-12-17,Waalre,Noord-Brabant,Scha(a)p(en),1.0,1.0,0.0,,1,wolf,GW1625m,"Ja, maar",Dieren waren uitgebroken,€ 918.21,51.3856734,5.466115689689311,2020-12
+2020-12-16,Heeze,Noord-Brabant,Scha(a)p(en),2.0,1.0,0.0,,2,wolf,GW1625m,Nee,,€ 697.25,51.3832098,5.5715902,2020-12
+2020-12-11,Heeze,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,onbekend,Nee,,€ 267.38,51.3832098,5.5715902,2020-12
+2020-12-08,Lierop,Noord-Brabant,Scha(a)p(en),2.0,1.0,0.0,,2,wolf,GW1625m,Nee,,€ 394.51,51.4193964,5.6813387,2020-12
+2020-12-06,Lierop,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1625m,Nee,,€ 231.54,51.4193964,5.6813387,2020-12
+2020-12-02,Emst,Gelderland,Scha(a)p(en),0.0,1.0,0.0,,0,vermoedelijk wolf,onbekend,Nee,,€ 61.84,52.3182269,5.9759134,2020-12
+2020-12-01,Vaassen,Gelderland,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1490m,Nee,,€ 266.07,52.2901716,5.9686728,2020-12
+2020-11-30,Almelo,Overijssel,Scha(a)p(en),2.0,1.0,0.0,,2,vermoedelijk wolf,onbekend,Nee,,€ 389.51,52.3563585,6.6636219,2020-11
+2020-11-30,Lierop,Noord-Brabant,Scha(a)p(en),2.0,1.0,0.0,,2,wolf,GW1625m,Nee,,€ 534.16,51.4193964,5.6813387,2020-11
+2020-11-29,Empel,Noord-Brabant,Scha(a)p(en),2.0,1.0,0.0,,2,wolf,GW1920m,Nee,,€ 480.00,51.7296032,5.3249058,2020-11
+2020-11-29,Rosmalen,Noord-Brabant,Scha(a)p(en),2.0,1.0,0.0,,2,wolf,GW1920m,Nee,,€ 275.70,51.71866,5.3629244,2020-11
+2020-11-28,Wierden,Overijssel,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1490m,Nee,,€ 686.07,52.35195215,6.567448420567358,2020-11
+2020-11-28,Rosmalen,Noord-Brabant,Scha(a)p(en),5.0,13.0,0.0,,5,wolf,onbekend,Nee,,"€ 2,363.39",51.71866,5.3629244,2020-11
+2020-11-28,Heeze,Noord-Brabant,Scha(a)p(en),1.0,1.0,0.0,,1,wolf,GW1625m,Nee,,€ 455.70,51.3832098,5.5715902,2020-11
+2020-11-27,Herpen,Noord-Brabant,Scha(a)p(en),7.0,0.0,0.0,,7,wolf,GW1920m,Nee,,"€ 1,761.14",51.7728234,5.6422866,2020-11
+2020-11-27,Enter,Overijssel,Scha(a)p(en),1.0,1.0,0.0,,1,wolf,GW1490m,Nee,,€ 510.46,52.2952203,6.5772427,2020-11
+2020-11-26,Oss,Noord-Brabant,Scha(a)p(en),4.0,9.0,2.0,,4,wolf,onbekend,Nee,,"€ 1,942.69",51.7783542,5.532083610932192,2020-11
+2020-11-26,Beuningen,Overijssel,Scha(a)p(en),5.0,0.0,0.0,,5,wolf,GW1490m,Nee,,"€ 3,655.07",51.8586611,5.767357,2020-11
+2020-11-17,Sterksel,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1625m,Nee,,€ 181.54,51.3512368,5.611589,2020-11
+2020-11-14,Afferden,Limburg,Scha(a)p(en),8.0,7.0,0.0,,8,wolf,GW1920m,Nee,,"€ 1,390.63",51.6346249,6.0142314,2020-11
+2020-10-27,Waalre,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1625m,Nee,,€ 236.07,51.3856734,5.466115689689311,2020-10
+2020-10-19,Someren,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1625m,Nee,,€ 211.54,51.38632235,5.688884477579495,2020-10
+2020-10-19,Someren,Noord-Brabant,Kalf,1.0,0.0,0.0,,1,wolf,GW1625m,Nee,,€ 190.38,51.38632235,5.688884477579495,2020-10
+2020-10-17,Weert,Limburg,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1625m,Nee,,€ 151.54,51.23558295,5.705079711646853,2020-10
+2020-09-17,Lierop,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1625m,Nee,,€ 206.54,51.4193964,5.6813387,2020-09
+2020-09-14,Someren,Noord-Brabant,Scha(a)p(en),3.0,0.0,0.0,,3,wolf,GW1625m,Nee,,€ 545.44,51.38632235,5.688884477579495,2020-09
+2020-09-01,Heeze,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1625m,Nee,,€ 202.38,51.3832098,5.5715902,2020-09
+2020-08-30,Epe,Gelderland,Scha(a)p(en),11.0,4.0,0.0,,11,wolf,GW998f,Nee,,"€ 2,327.33",52.3270371,5.963194502074892,2020-08
+2020-08-30,Sterksel,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1625m,Nee,,€ 716.64,51.3512368,5.611589,2020-08
+2020-08-26,Epe,Gelderland,Scha(a)p(en),5.0,0.0,0.0,,5,wolf,onbekend,Nee,,"€ 1,039.83",52.3270371,5.963194502074892,2020-08
+2020-08-25,Mierlo,Noord-Brabant,Kalf,1.0,0.0,0.0,,1,wolf,GW1625m,Nee,,€ 75.38,51.4437624,5.6187496,2020-08
+2020-08-15,Sterksel,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1625m,Nee,,€ 633.43,51.3512368,5.611589,2020-08
+2020-08-10,Heeze,Noord-Brabant,Scha(a)p(en),2.0,0.0,0.0,,2,vermoedelijk wolf,onbekend,"Ja, maar","Op de plaats waar twee netten aan elkaar waren gezet, was alleen de bovenkant van de paaltjes vastgemaakt",€ 632.95,51.3832098,5.5715902,2020-08
+2020-08-07,Maarheeze,Noord-Brabant,Scha(a)p(en),0.0,1.0,0.0,,0,wolf,onbekend,Nee,,€ 121.04,51.3121159,5.6158604,2020-08
+2020-08-03,Maarheeze,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1625m,Nee,,€ 102.38,51.3121159,5.6158604,2020-08
+2020-08-01,Heeze,Noord-Brabant,Scha(a)p(en),2.0,1.0,0.0,,2,wolf,GW1625m,"Ja, maar",Dieren waren uitgebroken,€ 229.51,51.3832098,5.5715902,2020-08
+2020-07-28,Maarheeze,Noord-Brabant,Scha(a)p(en),2.0,0.0,0.0,,2,wolf,onbekend,Nee,,€ 200.00,51.3121159,5.6158604,2020-07
+2020-07-16,Heeze,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,GW1625m,Ja,,€ 249.16,51.3832098,5.5715902,2020-07
+2020-07-13,Heeze,Noord-Brabant,Scha(a)p(en),4.0,0.0,0.0,,4,wolf,onbekend,Nee,,€ 810.71,51.3832098,5.5715902,2020-07
+2020-07-07,Oldeberkoop,Fryslân,Scha(a)p(en),8.0,0.0,0.0,,8,wolf,GW1261m,Nee,,"€ 1,250.15",52.9384572,6.1301707,2020-07
+2020-06-29,Grolloo,Drenthe,Scha(a)p(en),4.0,0.0,0.0,,4,wolf,onbekend,Nee,,"€ 1,236.39",52.936205,6.6727367,2020-06
+2020-06-27,Heeze,Noord-Brabant,Scha(a)p(en),3.0,0.0,0.0,,3,wolf,GW1625m,Nee,,€ 639.87,51.3832098,5.5715902,2020-06
+2020-06-21,Maarheeze,Noord-Brabant,Scha(a)p(en),2.0,0.0,0.0,,2,wolf,GW1625m,Nee,,€ 331.54,51.3121159,5.6158604,2020-06
+2020-06-17,Elp,Drenthe,Scha(a)p(en),2.0,0.0,0.0,,2,wolf,onbekend,Nee,,€ 279.51,52.8820781,6.6432482,2020-06
+2020-06-16,Elp,Drenthe,Scha(a)p(en),4.0,0.0,0.0,,4,wolf,GW1261m,Nee,,€ 636.39,52.8820781,6.6432482,2020-06
+2020-06-15,Zwiggelte,Drenthe,Scha(a)p(en),2.0,0.0,0.0,,2,wolf,GW1261m,Nee,,€ 829.51,52.8735,6.58768,2020-06
+2020-06-13,Heeze,Noord-Brabant,Scha(a)p(en),4.0,0.0,0.0,,4,wolf,GW1625m,Nee,,"€ 1,044.03",51.3832098,5.5715902,2020-06
+2020-06-10,Delfzijl,Groningen,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,onbekend,Nee,,€ 279.51,53.3325644,6.9135144,2020-06
+2020-06-10,Odoorn,Drenthe,Scha(a)p(en),0.0,3.0,0.0,,0,wolf,GW1261m,Nee,,,52.8516104,6.84635,2020-06
+2020-06-09,Heeze,Noord-Brabant,Scha(a)p(en),2.0,1.0,0.0,,2,wolf,GW1625m,Nee,,€ 485.70,51.3832098,5.5715902,2020-06
+2020-06-02,Heeze,Noord-Brabant,Scha(a)p(en),2.0,0.0,0.0,,2,wolf,GW1625m,Nee,,€ 385.71,51.3832098,5.5715902,2020-06
+2020-05-30,Wijk en Aalburg,Noord-Brabant,Scha(a)p(en),4.0,3.0,0.0,,4,wolf,GW1554m,Nee,,€ 569.03,51.7564268,5.1282689,2020-05
+2020-05-28,Herpt,Noord-Brabant,Scha(a)p(en),4.0,1.0,0.0,,4,wolf,GW1554m,Nee,,€ 838.66,51.7292186,5.1551789,2020-05
+2020-05-26,Sterksel,Noord-Brabant,Scha(a)p(en),1.0,0.0,0.0,1.0,2,wolf,GW1625m,Nee,,€ 845.22,51.3512368,5.611589,2020-05
+2020-05-23,Vlijmen,Noord-Brabant,Scha(a)p(en),4.0,0.0,,,4,wolf,GW1554m,Nee,,€ 701.54,51.694263,5.2091225,2020-05
+2020-05-21,Haarsteeg,Noord-Brabant,Scha(a)p(en),1.0,1.0,,,1,wolf,GW1554m,Nee,,€ 405.56,51.7103299,5.1998801,2020-05
+2020-05-19,Bokhoven,Noord-Brabant,Scha(a)p(en),15.0,0.0,,,15,wolf,GW1554m,Nee,,"€ 2,337.42",51.7369317,5.2339892,2020-05
+2020-05-16,Hedikhuizen,Noord-Brabant,Scha(a)p(en),24.0,0.0,,,24,wolf,onbekend,Nee,,"€ 3,760.76",51.7336475,5.1855629,2020-05
+2020-05-15,Hedikhuizen,Noord-Brabant,Scha(a)p(en),3.0,1.0,,,3,wolf,GW1554m,Nee,,€ 464.87,51.7336475,5.1855629,2020-05
+2020-05-15,Lierop,Noord-Brabant,Scha(a)p(en),1.0,5.0,0.0,,1,wolf,GW1625m,Nee,,€ 416.61,51.4193964,5.6813387,2020-05
+2020-05-15,Hedikhuizen,Noord-Brabant,Scha(a)p(en),8.0,0.0,,,8,wolf,onbekend,Nee,,"€ 1,060.68",51.7336475,5.1855629,2020-05
+2020-05-13,Aalst,Gelderland,Scha(a)p(en),1.0,0.0,,,1,wolf,onbekend,Nee,,€ 202.38,50.9383226,4.0392147,2020-05
+2020-05-13,Aalst,Gelderland,Scha(a)p(en),1.0,0.0,,,1,wolf,GW1554m,Nee,,€ 252.38,50.9383226,4.0392147,2020-05
+2020-05-12,Grolloo,Drenthe,Scha(a)p(en),1.0,0.0,0.0,,1,wolf,onbekend,Nee,,€ 201.07,52.936205,6.6727367,2020-05
+2020-05-02,Heeze,Noord-Brabant,Scha(a)p(en),1.0,0.0,,,1,wolf,GW1625m,Nee,,€ 249.88,51.3832098,5.5715902,2020-05
+2020-05-01,Sterksel,Noord-Brabant,Scha(a)p(en),2.0,0.0,,,2,wolf,onbekend,Nee,,€ 452.64,51.3512368,5.611589,2020-05
+2020-04-30,Beesd,Gelderland,Scha(a)p(en),1.0,0.0,2.0,4.0,5,wolf,GW1554m,Nee,,"€ 1,155.29",51.8994088,5.1958729,2020-04
+2020-04-29,Culemborg,Gelderland,Scha(a)p(en),15.0,0.0,,,15,wolf,GW1554m,Nee,,"€ 3,209.81",51.94933145,5.209215154667634,2020-04
+2020-04-23,Nederweert,Limburg,Scha(a)p(en),1.0,0.0,,,1,wolf,GW1625m,Nee,,€ 225.00,51.2918913,5.74814642346813,2020-04
+2020-04-23,Nederweert,Limburg,Schotse Hooglander (kalf),1.0,0.0,,,1,wolf,GW1625m,Nee,,"€ 1,714.96",51.2918913,5.74814642346813,2020-04
+2020-04-21,Vorden,Gelderland,Scha(a)p(en),1.0,0.0,4.0,,1,wolf,GW1554m,Nee,,€ 419.88,52.1041075,6.3126099,2020-04
+2020-04-19,Heeze,Noord-Brabant,Scha(a)p(en),4.0,0.0,,,4,wolf,GW1625m,Nee,,€ 774.88,51.3832098,5.5715902,2020-04
+2020-04-18,Ruurlo,Gelderland,Scha(a)p(en),1.0,0.0,1.0,,1,wolf,GW1554m,Nee,,€ 274.88,52.087683,6.4493595,2020-04
+2020-04-13,Sterksel,Noord-Brabant,Scha(a)p(en),1.0,0.0,,,1,wolf,GW1625m,Nee,,€ 200.00,51.3512368,5.611589,2020-04
+2020-04-02,Nederweert,Limburg,Scha(a)p(en),1.0,0.0,,,1,wolf,GW1625m,Nee,,€ 299.02,51.2918913,5.74814642346813,2020-04
+2020-03-28,Beesd,Gelderland,Scha(a)p(en),2.0,3.0,,,2,wolf,GW1608m,Nee,,"€ 1,344.52",51.8994088,5.1958729,2020-03
+2020-03-28,Donkerbroek,Fryslân,Scha(a)p(en),5.0,0.0,,,5,wolf,GW1261m,Nee,,€ 274.35,53.017574,6.2355345,2020-03
+2020-03-28,Someren,Noord-Brabant,Scha(a)p(en),6.0,0.0,0.0,,6,wolf,GW1625m,Nee,,"€ 1,074.88",51.38632235,5.688884477579495,2020-03
+2020-03-27,Culemborg,Gelderland,Scha(a)p(en),5.0,10.0,,1.0,6,wolf,GW1608m,Nee,,"€ 1,237.28",51.94933145,5.209215154667634,2020-03
+2020-03-27,Veenhuizen,Drenthe,Scha(a)p(en),3.0,0.0,,,3,wolf,GW1261m,Nee,,€ 751.36,53.0332173,6.3963672,2020-03
+2020-03-26,Norg,Drenthe,Scha(a)p(en),3.0,0.0,,,3,wolf,GW1261m,Nee,,"€ 1,063.79",53.0662992,6.4594924,2020-03
+2020-03-25,Randwijk,Gelderland,Geit(en),1.0,0.0,,,1,wolf,GW1608m,Nee,,€ 195.00,51.9533676,5.7096895,2020-03
+2020-03-25,Erm,Drenthe,Scha(a)p(en),1.0,0.0,,,1,vermoedelijk wolf,onbekend,Nee,,€ 204.16,52.7551361,6.8194139,2020-03
+2020-03-19,Erm,Drenthe,Scha(a)p(en),4.0,1.0,,,4,wolf,GW1261m,Nee,,€ 754.96,52.7551361,6.8194139,2020-03
+2020-03-02,Made,Noord-Brabant,Scha(a)p(en),1.0,0.0,,,1,wolf,GW1625m,Nee,,€ 313.07,-7.2752003,112.636552,2020-03
+2020-02-24,Boekel,Noord-Brabant,Scha(a)p(en),1.0,0.0,,,1,wolf,GW1625m,Nee,,€ 322.28,51.605927300000005,5.69911232186362,2020-02
+2020-02-23,Emst,Gelderland,Scha(a)p(en),5.0,0.0,,,5,wolf,onbekend,Nee,,"€ 1,039.70",52.3182269,5.9759134,2020-02
+2020-02-11,Well,Limburg,Scha(a)p(en),3.0,2.0,,,3,wolf,GW1625m,Nee,,€ 646.86,53.2425196,0.1657754,2020-02
+2020-02-06,Zuidveld,Drenthe,Scha(a)p(en),1.0,1.0,,,1,wolf,GW1261m,Nee,,€ 515.88,52.8647047,6.639519660061836,2020-02
+2020-02-01,Ekehaar,Drenthe,Scha(a)p(en),4.0,0.0,,,4,wolf,GW1261m,Nee,,"€ 1,651.14",52.9533222,6.6030439,2020-02
+2020-01-27,Grolloo,Drenthe,Scha(a)p(en),3.0,1.0,,,3,wolf,GW1261m,Nee,,€ 571.56,52.936205,6.6727367,2020-01
+2020-01-24,Grolloo,Drenthe,Scha(a)p(en),4.0,3.0,,,4,wolf,GW1261m,Nee,,€ 754.96,52.936205,6.6727367,2020-01
+2020-01-18,Zwiggelte,Drenthe,Scha(a)p(en),5.0,0.0,,,5,wolf,GW1261m,Nee,,"€ 3,248.85",52.8735,6.58768,2020-01
+2020-01-17,Zwiggelte,Drenthe,Scha(a)p(en),3.0,0.0,,,3,wolf,GW1261m,Nee,,"€ 1,810.80",52.8735,6.58768,2020-01
+2020-01-13,Hooghalen,Drenthe,Scha(a)p(en),4.0,0.0,,,4,wolf,GW1261m,Nee,,€ 514.96,52.9207884,6.5416331,2020-01
+2020-01-04,Hooghalen,Drenthe,Scha(a)p(en),12.0,0.0,,,12,wolf,GW1261m,Nee,,"€ 1,496.56",52.9207884,6.5416331,2020-01
+2019-12-30,Zwiggelte,Drenthe,Scha(a)p(en),3.0,0.0,,,3,wolf,GW1261m,Nee,,"€ 1,720.79",52.8735,6.58768,2019-12
+2019-12-28,Appelscha,Fryslân,Scha(a)p(en),1.0,1.0,,,1,wolf,GW1261m,Nee,,€ 206.51,52.9524178,6.3441136,2019-12
+2019-12-19,Venhorst,Noord-Brabant,Scha(a)p(en),2.0,0.0,,,2,wolf,GW1479f,Nee,,€ 395.84,51.6081533,5.7386913,2019-12
+2019-12-18,Boekel,Noord-Brabant,Scha(a)p(en),1.0,0.0,,,1,wolf,GW1479f,Nee,,€ 144.16,51.605927300000005,5.69911232186362,2019-12
+2019-12-17,De Wijk,Drenthe,Scha(a)p(en),1.0,0.0,,,1,vermoedelijk wolf,onbekend,Nee,,€ 326.51,52.6720692,6.2886911,2019-12
+2019-12-15,Zwiggelte,Drenthe,Scha(a)p(en),3.0,0.0,,,3,wolf,GW1261m,Nee,,€ 721.69,52.8735,6.58768,2019-12
+2019-12-11,Boornbergum (Smallingerland),Fryslân,Scha(a)p(en),4.0,0.0,,,4,wolf,GW1261m,Nee,,€ 902.83,53.0830281,6.0470073,2019-12
+2019-12-05,Appelscha,Fryslân,Scha(a)p(en),1.0,0.0,,,1,wolf,onbekend,Nee,,€ 174.16,52.9524178,6.3441136,2019-12
+2019-12-03,Wateren,Drenthe,Scha(a)p(en),2.0,0.0,,,2,wolf,GW1261m,Nee,,€ 338.94,52.9061348,6.2889409,2019-12
+2019-12-02,Oude Willem,Drenthe,Scha(a)p(en),5.0,0.0,,,5,wolf,GW1261m,Nee,,€ 948.56,52.8947943,6.3068604,2019-12
+2019-11-23,Onnen,Groningen,Scha(a)p(en),2.0,0.0,,,2,wolf,GW1261m,Nee,,€ 617.76,53.1576456,6.64126,2019-11
+2019-11-23,Anderen,Drenthe,Scha(a)p(en),9.0,7.0,,,9,wolf,GW1261m,Nee,,"€ 1,960.22",53.0011891,6.6861383,2019-11
+2019-11-21,Eext (landgoed Heidehof),Drenthe,Scha(a)p(en),7.0,0.0,,,7,wolf,GW1261m,Nee,,"€ 1,251.66",,,2019-11
+2019-11-21,Grolloo,Drenthe,Scha(a)p(en),4.0,1.0,,,4,wolf,GW1261m,Nee,,€ 784.96,52.936205,6.6727367,2019-11
+2019-11-19,Hooghalen (Geelbroek),Drenthe,Scha(a)p(en),16.0,5.0,,,16,wolf,onbekend,Nee,,"€ 7,678.57",,,2019-11
+2019-10-31,Hoog Soeren,Gelderland,Scha(a)p(en),4.0,0.0,,,4,wolf,GW960f,?,,€ 594.00,52.2185009,5.8732642,2019-10
+2019-09-19,Epe (Emst),Gelderland,Scha(a)p(en),14.0,0.0,,,14,wolf,GW998f,?,,"€ 2,222.00",52.3182269,5.9759134,2019-09
+2019-09-02,Nieuw-Balinge,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,onbekend,?,,€ 146.00,52.7671253,6.6066512,2019-09
+2019-04-01,Elim,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,onbekend,?,,€ 154.00,64.6173758,-162.2604161,2019-04
+2019-03-29,Hooghalen,Drenthe,Scha(a)p(en),12.0,,,,12,wolf,GW849f,?,,"€ 1,933.00",52.9207884,6.5416331,2019-03
+2019-02-22,Lemerveld,Overijssel,Scha(a)p(en),8.0,,,,8,wolf,GW965f,?,,"€ 1,903.00",,,2019-02
+2019-02-20,Holten,Overijssel,Scha(a)p(en),4.0,,,,4,wolf,onbekend,?,,€ 694.00,52.2819676,6.4216444,2019-02
+2019-01-06,Heino,Overijssel,Scha(a)p(en),1.0,,,,1,wolf,GW893m,?,,€ 432.00,52.4361877,6.2337581,2019-01
+2019-01-05,Damsholte,Overijssel,Scha(a)p(en),3.0,,,,3,wolf,GW893m,?,,€ 489.00,54.9389739,12.2178122,2019-01
+2019-01-05,Beerzerveld,Overijssel,Scha(a)p(en),11.0,,,,11,wolf,onbekend,?,,"€ 1,850.00",52.4943928,6.5753569,2019-01
+2018-12-02,Rossum,Overijssel,Scha(a)p(en),1.0,,,,1,wolf,GW912f,?,,€ 280.00,51.8019318,5.3320894,2018-12
+2018-10-18,Oosterhesselen,Drenthe,Scha(a)p(en),6.0,3.0,,,6,wolf,GW1401f,?,,"€ 1,069.00",52.7553154,6.7194646,2018-10
+2018-10-17,Schuinesloot,Overijssel,Scha(a)p(en),1.0,,,,1,wolf,GW1401f,?,,€ 190.00,52.6446874,6.5533434,2018-10
+2018-10-17,Slagharen,Overijssel,Scha(a)p(en),1.0,,,,1,wolf,GW1401f,?,,€ 190.00,52.6276515,6.554592,2018-10
+2018-10-14,Heino,Overijssel,Scha(a)p(en),1.0,,,,1,wolf,GW1401f,?,,€ 240.00,52.4361877,6.2337581,2018-10
+2018-10-12,Den Ham,Overijssel,Scha(a)p(en),2.0,,,,2,wolf,GW1401f,?,,€ 305.00,53.2738959,6.4271387,2018-10
+2018-10-10,Den Ham,Overijssel,Scha(a)p(en),3.0,,,,3,wolf,GW1401f,?,,€ 515.00,53.2738959,6.4271387,2018-10
+2018-10-07,Dalerpeel,Drenthe,Scha(a)p(en),4.0,,,,4,wolf,GW1401f,?,,€ 880.00,52.6817389,6.6592421,2018-10
+2018-10-03,Orvelte,Drenthe,Scha(a)p(en),4.0,,,,4,wolf,GW1401f,?,,€ 760.00,52.8431902,6.6588981,2018-10
+2018-07-10,Buren,Gelderland,Scha(a)p(en),2.0,,,,2,wolf,GW979m,?,,€ 416.00,51.92963705,5.420000238944224,2018-07
+2018-07-05,Zeewolde,Flevoland,Scha(a)p(en),2.0,,,,2,wolf,GW979m,?,,€ 445.00,52.3451194,5.4580775473608565,2018-07
+2018-06-22,Rinsumageest,Fryslân,Scha(a)p(en),1.0,,,,1,wolf,GW979m,?,,€ 370.00,,,2018-06
+2018-06-20,Oldelamer,Fryslân,Scha(a)p(en),2.0,,,,2,wolf,GW979m,?,,€ 290.00,52.8717335,5.9300033,2018-06
+2018-06-20,Driesum,Fryslân,Scha(a)p(en),2.0,,,,2,wolf,GW979m,?,,"€ 1,474.00",51.5266587,4.4466908,2018-06
+2018-06-13,Laag-Zuthem,Overijssel,Scha(a)p(en),31.0,,,,31,wolf,GW998f,?,,"€ 3,943.00",52.4589958,6.1736547,2018-06
+2018-05-29,Hollandseveld,Drenthe,Scha(a)p(en),11.0,,,,11,wolf,GW998f,?,,"€ 1,627.00",,,2018-05
+2018-05-25,Zwiggelte,Drenthe,Scha(a)p(en),2.0,,,,2,wolf,GW998f,?,,€ 505.00,52.8735,6.58768,2018-05
+2018-05-18,Marum,Groningen,Scha(a)p(en),2.0,,,,2,wolf,onbekend,?,,€ 366.00,53.1442439,6.2647308,2018-05
+2018-05-16,Marum,Groningen,Scha(a)p(en),15.0,,,,15,wolf,GW998f,?,,"€ 2,220.00",53.1442439,6.2647308,2018-05
+2018-05-03,Langezwaag,Fryslân,Scha(a)p(en),6.0,,,,6,wolf,GW998f,?,,"€ 1,499.00",52.9818571,6.006028,2018-05
+2018-05-02,De Knipe,Fryslân,Scha(a)p(en),7.0,,,,7,wolf,onbekend,?,,€ 947.00,52.9683902,5.9739434,2018-05
+2018-04-05,Ruurlo,Gelderland,Scha(a)p(en),3.0,3.0,0.0,0.0,3,wolf,GW954f,?,,"€ 1,044.00",52.087683,6.4493595,2018-04
+2018-04-04,Boijl,Fryslân,Scha(a)p(en),2.0,0.0,0.0,0.0,2,wolf,GW763f,?,,€ 425.00,52.9095907,6.1999729,2018-04
+2018-04-04,Markelo,Overijssel,Scha(a)p(en),3.0,1.0,0.0,0.0,3,wolf,GW954f,?,,€ 100.00,52.2347139,6.4949852,2018-04
+2018-03-31,Alteveer,Drenthe,Scha(a)p(en),3.0,6.0,,,3,wolf,GW953m,?,,€ 571.00,53.1110132,6.4331278,2018-03
+2018-03-31,Nieuwleusen,Overijssel,Scha(a)p(en),2.0,,,,2,wolf,onbekend,?,,€ 445.00,52.5831257,6.286441,2018-03
+2018-03-31,Zwinderen,Drenthe,Scha(a)p(en),2.0,,,,2,wolf,GW953m,?,,€ 240.00,52.7274317,6.6768343,2018-03
+2018-03-31,Zuidwolde,Drenthe,Scha(a)p(en),2.0,,,,2,wolf,GW953m,?,,€ 295.00,53.2607348,6.5918683,2018-03
+2018-03-31,Sellingen,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW953m,?,,€ 165.00,52.9459295,7.1505197,2018-03
+2018-03-30,Kerkenveld,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,onbekend,?,,€ 215.00,52.6685225,6.5008322,2018-03
+2018-03-29,Alteveer,Drenthe,Scha(a)p(en),2.0,,,,2,wolf,GW953m,?,,€ 691.00,53.1110132,6.4331278,2018-03
+2018-03-29,Staphorst,Overijssel,Scha(a)p(en),3.0,,,,3,wolf,onbekend,?,,€ 585.00,52.6368387,6.208129727382328,2018-03
+2018-03-28,Drogteropslagen,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW953m,?,,€ 245.00,52.62233,6.49682,2018-03
+2018-03-26,Zuidwolde,Drenthe,Scha(a)p(en),3.0,,,,3,wolf,GW953m,?,,€ 551.00,53.2607348,6.5918683,2018-03
+2018-03-25,Benneveld,Drenthe,Scha(a)p(en),4.0,,,,4,wolf,GW954f,?,,€ 958.00,52.7755373,6.7475163,2018-03
+2018-03-23,Rouveen,Overijssel,Scha(a)p(en),1.0,,,,1,wolf,onbekend,?,,€ 151.00,52.6156731,6.1861398,2018-03
+2018-03-22,Kampen,Overijssel,Scha(a)p(en),2.0,,,,2,wolf,GW953m,?,,€ 544.00,52.5559484,5.9033303,2018-03
+2018-03-22,Kampen,Overijssel,Scha(a)p(en),3.0,,,,3,wolf,GW953m,?,,€ 949.00,52.5559484,5.9033303,2018-03
+2018-03-18,Beckum,Overijssel,Scha(a)p(en),2.0,,,,2,wolf,GW953m,?,,"€ 1,025.00",51.7555148,8.041135,2018-03
+2018-03-18,Benneveld,Drenthe,Scha(a)p(en),6.0,,,,6,wolf,GW954f,?,,"€ 2,386.00",52.7755373,6.7475163,2018-03
+2018-03-05,Heythuysen,Limburg,Scha(a)p(en),2.0,0.0,0.0,,2,wolf,GW913m,?,,€ 310.00,51.2501987,5.9009266,2018-03
+2018-03-05,Venlo,Limburg,Scha(a)p(en),9.0,,,,9,wolf,GW913m,?,,€ 699.00,51.3702109,6.1688954,2018-03
+2018-03-05,Lottum,Limburg,Scha(a)p(en),4.0,,,,4,wolf,GW913m,?,,€ 803.00,51.4610426,6.1617184,2018-03
+2018-02-23,Bunschoten,Utrecht,Scha(a)p(en),1.0,,,,1,wolf,GW955m,?,,€ 255.00,52.2391743,5.3734101,2018-02
+2017-12-31,Helenaveen,Noord-Brabant,Scha(a)p(en),2.0,,,,2,wolf,GW680f,?,,€ 351.00,51.388689,5.9178418,2017-12
+2017-12-26,Nieuw Heeten,Overijssel,Scha(a)p(en),1.0,,,,1,wolf,GW680f,?,,€ 306.00,52.3203863,6.3513751,2017-12
+2017-12-25,Luttenberg,Overijssel,Scha(a)p(en),3.0,,,,3,wolf,GW680f,?,,"€ 1,064.00",52.396489,6.3672089,2017-12
+2017-12-24,Luttenberg,Overijssel,Scha(a)p(en),3.0,,,,3,wolf,GW680f,?,,€ 507.00,52.396489,6.3672089,2017-12
+2017-12-23,Punthorst,Overijssel,Scha(a)p(en),3.0,,,,3,wolf,GW680f,?,,€ 684.00,52.6134275,6.2634786,2017-12
+2017-11-12,Vroomshoop,Overijssel,Scha(a)p(en),4.0,,,,4,wolf,GW843m,?,,"€ 2,446.00",52.457312,6.5696271,2017-11
+2017-11-07,Bergentheim,Overijssel,Scha(a)p(en),1.0,,,,1,wolf,GW843m,?,,€ 258.00,52.527161,6.6173647,2017-11
+2017-10-14,Laag Zuthem,Overijssel,Scha(a)p(en),4.0,,,,4,wolf,GW843m,?,,"€ 4,561.00",52.4589958,6.1736547,2017-10
+2017-09-22,Finsterwolde,Groningen,Scha(a)p(en),3.0,,,,3,wolf,onbekend,?,,€ 600.00,53.1983282,7.083378,2017-09
+2015-03-09,Holwierde,Groningen,Scha(a)p(en),3.0,,,,3,wolf,GW368m,?,,€ 385.00,53.3577829,6.8713839,2015-03
+2015-03-09,Termunten,Groningen,Scha(a)p(en),1.0,,,,1,wolf,GW368m,?,,€ 170.00,53.2963932,7.0465238,2015-03
+2015-03-07,Nieuw Amsterdam,Drenthe,Scha(a)p(en),1.0,,,,1,wolf,GW368m,?,,€ 210.00,40.7127281,-74.0060152,2015-03
+2015-03-07,Westerbork,Drenthe,Scha(a)p(en),3.0,,,,3,wolf,GW368m,?,,€ 750.00,52.8492168,6.6103067,2015-03
