@@ -1,7 +1,7 @@
 # Portofolio
 Here my programming/coding portfolio, it contains all my work i coded while attending the minor "Big Data & Design" at the University of Applied Sciences Utrecht (Hogeschool Utrecht).
 
-It containts coding in python, in particular: Data wrangling, Data Analysis, Data Collecting, Data Visualisation, Big Data Processing, Machine Learning and working with API's.
+It contains coding in python, in particular: Data wrangling, Data Analysis, Data Collecting, Data Visualisation, Big Data Processing, Machine Learning and working with API's. It also contains minimal Coding with C/C++, which i coded for a small Arduino project.
 
 
 Portofolio van Tech voor de minor Big Data Design
