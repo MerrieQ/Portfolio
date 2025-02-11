@@ -1,5 +1,5 @@
 # Portfolio
-Here my programming/coding portfolio, it contains all my work i coded while attending the minor "Big Data & Design" at the University of Applied Sciences Utrecht (Hogeschool Utrecht). This Minor contained 10 EC of Data Driven Technical lessons, and 20 EC of Data Driven Design lessons.
+Here my programming/coding portfolio, it contains all my work i coded while attending the minor "Big Data & Design" at the University of Applied Sciences Utrecht (Hogeschool Utrecht). This Minor contained 10 EC of Data Driven Technical lessons (which i finished with an 8), and 20 EC of Data Driven Design lessons (which i finished with a 7).
 
 This respiratory contains coding in python, in particular: Data wrangling, Data Analysis, Data Collecting, Data Visualisation, Big Data Processing, Machine Learning and working with API's. It also contains minimal coding with C/C++, which i coded for a small Arduino project.
 
