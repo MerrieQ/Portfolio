@@ -7,7 +7,7 @@ This respiratory contains 4 projects i made. To seperate all the relevant files,
 
 **Datastory:** I made a data story about the wolf returning to the Netherlands. It is a presentation about the controversy and split opinion about the wolf. I used datasets about sightings of the wolf, and about the attacks (on animals) by the wolf. First i used 2 datasets from "BIJ12" (BIJ12 supports Dutch provinces with data and knowledge for nature and environmental management under IPO). I used Geocoding to make an interactive map, with a timeline containing the locations of the attacks and the frequency.
 
-Relevant skills: Data collection, Data wrangling and Data visualisation.
+Relevant skills: Data collection, Data wrangling, Data visualisation and Big Data Processing.
 
 **Hackaton**
 
