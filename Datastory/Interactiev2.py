@@ -15,17 +15,17 @@ import plotly.io as pio
 pio.renderers.default = 'browser'
 
 ##Datasets
-#Het lezen van de bestanden
+#Reading the datasets
 Wolfwaarnemingen = "C:/Users/merli/Documents/Wolfwaarnemingen.csv"
 df = pd.read_csv(Wolfwaarnemingen)
 
 Wolvenschade = "C:/Users/merli/Documents/Wolfschade.csv"
 df2 = pd.read_csv(Wolvenschade)
 
-#Alleen wolf waargenomen
+#Only instances where the wolf was seen, not just footprints or other marks
 Wolf = df[df["Type waarneming"] == "Wolf gezien"]
 
-#Noord- en Midden veluwe, en zuid veluwe, vervangen met "veluwe" voor het geocoden
+#Noord, Midden and zuid veluwe, replaced with "veluwe" so the data can be read while geocoding
 df["Leefgebied of gemeente"] = df["Leefgebied of gemeente"].replace({
     "Noord- en Midden-Veluwe": "Veluwe",
     "Zuid-Veluwe": "Veluwe",
@@ -39,13 +39,13 @@ Wolf["Leefgebied of gemeente"] = df["Leefgebied of gemeente"].replace({
 
 
 ##GEOCODING
-#Intialiseer de geolocator
+#Initialise the geolocator
 geolocator = Nominatim(user_agent="geoapiExcercises")
 
-#lege cache maken
+#make empty cache
 cache = {}
 
-#Functie om cooridinaten te krijgen
+#Function to get the coöridinates
 def get_coordinates(place):
     if place in cache:
         return cache[place]
@@ -60,11 +60,11 @@ def get_coordinates(place):
     except:
         return None, None
             
-#Voeg nieuwe klommen voor lat en long toe
+#Add new columns for lat en long 
 df["latitude"], df["longitude"] = zip(*df["Leefgebied of gemeente"].apply(get_coordinates))
 
 ##WOLFAANVALLEN GEOCODING
-#lege cache maken
+#make empty cache
 cache2 = {}
 
 #Functie om cooridinaten te krijgen
