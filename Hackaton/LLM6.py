@@ -8,11 +8,11 @@ from reportlab.lib.enums import TA_CENTER, TA_LEFT
 from reportlab.lib import colors
 from io import BytesIO
 
-# Cohere API-configuratie
+# Cohere API-configuration
 API_KEY = "9jp4D6PePyb4bSA8C6ZStJb4rPQQh7mehqygg7zs"
 co = cohere.Client(API_KEY)
 
-# Volledige TRIPOD-checklist
+# Complete TRIPOD-checklist
 TRIPOD_CHECKLIST = [
     # Title and Abstract
     ("1", "1.1", "Title and abstract", "Title", "Identify the study as developing and/or validating a multivariable prediction model, the target population, and the outcome to be predicted."),
@@ -53,7 +53,7 @@ TRIPOD_CHECKLIST = [
     ("6", "6.2", "Other information", "Funding", "Give the source of funding and the role of the funders for the present study.")
 ]
 
-# Functie: Extract tekst uit PDF
+# Function: Extract text from PDF
 def extract_text_from_pdf(pdf_file):
     with pdfplumber.open(pdf_file) as pdf:
         text = ""
@@ -61,14 +61,14 @@ def extract_text_from_pdf(pdf_file):
             text += page.extract_text()
     return text
 
-# Functie: Zoek naar de juiste score in de feedback
+# Function: Search for the correct score in the feedback
 def extract_score_from_feedback(feedback):
     for word in feedback.split():
         if word.isdigit() and 1 <= int(word) <= 5:
             return int(word)
     return 1
 
-# Functie: Analyseer document volgens TRIPOD-checklist
+# Function: Analyse document with the TRIPOD-checklist
 def analyze_document_with_llm(document_text):
     results = []
     summary_table = []
@@ -103,7 +103,7 @@ def analyze_document_with_llm(document_text):
         if "Fragment:" in feedback:
             relevant_fragment = feedback.split("Fragment:")[-1].strip()
 
-        # Resultaten opslaan
+        # Save results
         results.append({
             "Chapter": chapter,
             "Item": item_code,
@@ -117,7 +117,7 @@ def analyze_document_with_llm(document_text):
         summary_table.append([item_code, item, score, status])
     return results, summary_table
 
-# Functie: Genereer PDF-rapport
+# Function: Generate PDF-rapport
 def generate_pdf_report(results, summary_table):
     buffer = BytesIO()
     doc = SimpleDocTemplate(buffer, pagesize=letter)
@@ -127,11 +127,11 @@ def generate_pdf_report(results, summary_table):
 
     elements = []
 
-    # Titelpagina
+    # Titelpage
     elements.append(Paragraph("TRIPOD Evaluation Report", styles['Centered']))
     elements.append(Spacer(1, 20))
 
-    # Inhoudsopgave
+    # Table of contents
     elements.append(Paragraph("Inhoudsopgave", styles['Heading2']))
     table_data = [["Item Code", "Item", "Score", "Status"]]
     for row in summary_table:
@@ -169,7 +169,7 @@ def generate_pdf_report(results, summary_table):
             elements.append(Paragraph(f"(Tekstfragment: {relevant_fragment})", styles["Italic"]))
         elements.append(Spacer(1, 12))
 
-    # Bouw PDF
+    # Build PDF
     doc.build(elements)
     buffer.seek(0)
     return buffer
@@ -205,23 +205,23 @@ def main():
     uploaded_file = st.file_uploader("Upload een PDF-bestand", type=["pdf"])
 
     if uploaded_file is not None:
-        # Tekst extracten
+        # Text extraction
         pdf_text = extract_text_from_pdf(uploaded_file)
 
         st.subheader("Extracted Text")
         st.write(
             pdf_text[:1000] + "..." if len(pdf_text) > 1000 else pdf_text
-        )  # Toon een korte preview
+        )  # Show a short preview
 
-        # Analyse starten
+        # Start analysis 
         if st.button("Start Analyse"):
             st.write("Analyse bezig... Dit kan enkele minuten duren.")
             results, summary_table = analyze_document_with_llm(pdf_text)
 
-            # Genereer PDF
+            # Generate PDF
             pdf_buffer = generate_pdf_report(results, summary_table)
 
-            # Toon downloadknop
+            # Show downloadbutton
             st.download_button(
                 label="Download Rapport als PDF",
                 data=pdf_buffer,
@@ -230,6 +230,6 @@ def main():
             )
 
 
-# Voer programma uit
+# Execute program
 if __name__ == "__main__":
     main()
