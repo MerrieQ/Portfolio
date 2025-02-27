@@ -14,8 +14,12 @@ Relevant skills: Data collection, Data wrangling, Data visualisation and Big Dat
 I participated in a Hackaton with the minor. The challenge was to make a program that automaticaly checks the TRIPOD-criteria with Academic Articles, to see if they are suitable for further medical research. TRIPOD-criteria stands for: Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis (Gary S. Collins,2015). The Hackaton lasted for a week.
 We first tried to develop our own Machine Learning model (in particular a Large Language Model), but because of the underwhelming results and limited time we decided to use an LLM Api instead called Cohere.
 
-Relevant Skills: Machine Learning and working with API' s
+Relevant Skills: Machine Learning and working with API's.
+
 **Redevelop a Data-driven Platform**
+_Because of the new restrictions of the Spotify API that were added in November 2024, the code sadly doesnt work anymore. Spotify restricted the acces of alot of features like characteristics of a song, song recommendations, and algorithmic playlist generation._
+
+I redevelopped the "Blend" playlist function in Spotify, which combines music tastes into one playlist for two people.
 
 **Data-driven Startup**
 
