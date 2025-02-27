@@ -7,4 +7,4 @@ TRIPOD-criteria stands for: Transparent Reporting of a multivariable prediction 
 The Hackaton lasted for a week.
 We first tried to develop our own Machine Learning model (in particular a Large Language Model), but because of the underwhelming results and limited time we decided to use an LLM Api instead called Cohere.
 
-The file TRIPOD_rapport (14) is the result of the final program. TRIPOD_rapport (11-13) are files to show the improvements made, so those are irrelevant.
+The file TRIPOD_rapport (14) is the result of the final program. TRIPOD_rapport (11-13) are files to show the improvements made, so those are relatively irrelevant.
