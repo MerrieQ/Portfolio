@@ -33,7 +33,7 @@ Relevant skills: Working with API's
 
 
 
-Portofolio van Tech voor de minor Big Data Design
+Portfolio van Tech voor de minor Big Data Design
 
 Hier is al mijn progameerwerk van het afgelopen half jaar.
 
