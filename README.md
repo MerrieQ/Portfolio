@@ -10,7 +10,7 @@ This respiratory contains 4 projects i made. To seperate all the relevant files,
 
 I made a data story about the wolf returning to the Netherlands. It is a presentation about the controversy and split opinion about the wolf. I used datasets about sightings of the wolf, and about the attacks (on animals) by the wolf. First I used 2 datasets from "BIJ12" (BIJ12 supports Dutch provinces with data and knowledge for nature and environmental management under IPO). I used Geocoding to make an interactive map, with a timeline containing the locations of the attacks and the frequency.
 
-Relevant skills: Data collection, Data wrangling, Data visualisation and Big Data Processing.
+Relevant skills: Data Collection, Data Analysis, Data Wrangling, Data Visualisation and Big Data Processing.
 
 **Hackaton:**
 
@@ -24,6 +24,8 @@ Relevant Skills: Machine Learning and working with API's.
 _Because of the new restrictions of the Spotify API that were added in November 2024, the code sadly doesnt work anymore. Spotify restricted the acces of alot of features like characteristics of a song, song recommendations, and algorithmic playlist generation._
 
 I redevelopped the "Blend" playlist function in Spotify, which combines music tastes into one playlist for two people.
+
+Relevant skills: Working with API's
 
 **Data-driven Startup:**
 
