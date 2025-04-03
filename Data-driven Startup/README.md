@@ -2,7 +2,7 @@
 
 File: tEST Copy1223.zip
 
-This project was developed as part of a data-driven startup concept during a minor. The idea was to build a smart home system that focuses on energy consumption tracking, reducing unnecessary electricity use, and ensuring privacy for the user. 
+This project was developed within the context of a data-driven startup concept during a minor. The objective was to design a smart home system aimed at monitoring energy consumption, minimizing unnecessary electricity usage, safeguarding user privacy, and simplifying the process of integrating new smart devices into the system. The presented prototype focuses specifically on the connection process of a smart outlet. Initially, the use of an NFC chip was considered; however, due to resource limitations, a proximity sensor was implemented as a practical alternative.
 
 The prototype was created using Arduino (C/C++) and simulated in Wokwi. No Python was used in this project.
 
@@ -24,7 +24,7 @@ To test the prototype, you’ll need an Arduino simulation environment (e.g. Wok
 4. Install libraries listed in libraries.txt.
 
 **Usage**
-The prototype monitors energy consumption (simulated), responds with LED signals, and optionally triggers other events such as alerts or simulated automation. It's meant to demonstrate the concept of local energy optimization and transparent feedback to the user.
+This prototype shows how a smart outlet could be added to a smart home system in a simple and user-friendly way. When the system detects someone nearby—using a proximity sensor—it gives visual feedback with a LED-Display. This simulates the connection process of a new smart device. While this version does not measure real energy usage, it demonstrates how future smart devices could be connected easily, with clear feedback and a focus on privacy and ease of use.
 
 **Project Context**
 This code was part of a group project under the name “The Home Invaders.” It accompanied a broader smart-home system concept focused on:
