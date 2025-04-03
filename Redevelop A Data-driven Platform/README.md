@@ -27,19 +27,19 @@ pip install flask spotipy
 4. Copy your Client ID and Client Secret
 
 **Installation**
-1. Clone the repository
+_**1. Clone the repository**_
 git clone https://github.com/your_username/spotify-playlist-generator.git
 cd spotify-playlist-generator
 
-**2. Set environment variables:**
+_**2. Set environment variables:**_
 export SPOTIPY_CLIENT_ID="your-client-id"
 export SPOTIPY_CLIENT_SECRET="your-client-secret"
 export SPOTIPY_REDIRECT_URI="http://localhost:5000/callback"
 
-**3. Run the app:**
+_**3. Run the app:**_
 python app.py
 
-**4. Open your browser and go to:**
+_**4. Open your browser and go to:**_
 http://localhost:5000/
 
 **Usage**
