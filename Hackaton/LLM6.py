@@ -9,7 +9,7 @@ from reportlab.lib import colors
 from io import BytesIO
 
 # Cohere API-configuration
-API_KEY = "9jp4D6PePyb4bSA8C6ZStJb4rPQQh7mehqygg7zs"
+API_KEY = "APIKEY"
 co = cohere.Client(API_KEY)
 
 # Complete TRIPOD-checklist
