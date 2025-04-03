@@ -32,7 +32,7 @@ _1. Clone the repository_
 git clone https://github.com/your_username/spotify-playlist-generator.git
 cd spotify-playlist-generator
 
-_. Set environment variables:_
+_2. Set environment variables:_
 export SPOTIPY_CLIENT_ID="your-client-id"
 export SPOTIPY_CLIENT_SECRET="your-client-secret"
 export SPOTIPY_REDIRECT_URI="http://localhost:5000/callback"
