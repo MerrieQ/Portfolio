@@ -1,4 +1,5 @@
 **TRIPOD Evaluator – HACKATON**
+
 Code: LLM6.py
 
 This application was built during a one-week hackathon for UMC Utrecht. The goal was to automate the assessment of academic articles using the TRIPOD criteria (Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis – Gary S. Collins, 2015). The app allows users to upload a PDF of an academic article and generates a detailed feedback report using a large language model via the Cohere API.
