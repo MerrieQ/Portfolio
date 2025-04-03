@@ -31,7 +31,7 @@ cd Datastory
 - Wolfschade_cumulative.csv
 
 3. Run the app:
-streamlit run wolf_map.py
+streamlit run FINAL_CODE.py
 
 **Usage**
 The app consists of:
