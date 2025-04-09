@@ -1,6 +1,6 @@
 **Programming Portfolio**
 
-This is my programming portfolio, which contains all the code I developed while attending the minor Big Data & Design at the University of Applied Sciences Utrecht (Hogeschool Utrecht). The minor consisted of 10 EC in Data-Driven Technical courses (completed with a grade of 8) and 20 EC in Data-Driven Design courses (completed with a grade of 7).
+This is my programming portfolio, which contains all the code I developed while attending the minor Big Data & Design at the University of Applied Sciences Utrecht (Hogeschool Utrecht). The minor consisted of 10 EC in Data-Driven Technical courses (completed with a grade of 8), and 20 EC in Data-Driven Design courses (completed with a grade of 7).
 
 This repository includes work primarily written in Python, covering: data wrangling, data analysis, data collection, data visualisation, big data processing, machine learning, and working with APIs. It also includes minimal programming in C/C++, which I used for a small Arduino prototype.
 
